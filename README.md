@@ -1,7 +1,7 @@
 # albireo-data
 Astronomical data used by Albireo Astronomy Toolbox
 
-These datafiles must be located in userdir\AppData\Local\Albireo
+These datafiles must be located in userdir\AppData\Local\Albireo.
 Datafiles are formatted in CVS format with a trailing headerline.
 
 Data contains:
