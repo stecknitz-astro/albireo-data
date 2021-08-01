@@ -1,0 +1,41 @@
+NAME_DE;NAME_EN;CON;DD-MM_MAXIMUM;CNT_PER_HOUR;SPEED_KMPS;DAY_START;DAY_END;COMET_NAME
+Quadrantiden;Quadrantids;Boo;04-01;130;40;02:00;04;00;-
+Delta-Cancriden;Delta-Cancriden;Cnc;17-01;5;30;-;-;-
+Februar-Eta-Draconiden;February-Eta-Draconids;Dra;04-02;2;-1;-;-;-
+Alpha-Aurigiden;Alpha-Aurigids;Aur;08-02;6;66;-;-;C/1911 N1 Kiess
+Delta-Leoniden;Delta-Leonids;Leo;25-02;2;25;-;-;Asteroid (4450) Pan
+Virginiden;Virginids;Vir;15-03;5;25;-;-;-
+Hydraiden;Hydraids;Hya;25-03;2;20;-;-;-
+Sigma-Leoniden;Sigma-Leonids;Leo;30-03;-1;-1;-;-;-
+April-Virginiden;April Virginids;Vir;10-04;5;25;-;-;-
+Lyriden;Lyrids;Lyr;20-04;15;50;22:00;04:00;-
+Sigma-Leoniden;Sigma-Leonids;Leo;16-04;-1;-1;-;-;-
+Eta-Aquariden;Eta-Aquarids;Aqr;04-05;30;65;01:00;04:00;1P/Halley
+Eta-Lyriden;Eta-Lyrids;Lyr;08-05;5;43;-;-;C1983 H1 (IRAS-Araki-Alcock)
+Scorpius-Sagittarius-Meteore;Scorpius-Sagittarius-Meteors;Sco;20-05;-1;30;00:00;04:00;-
+Scorpius-Sagittarius-Meteore;Scorpius-Sagittarius-Meteors;Sco;14-06;-1;26;23:00;01:00;-
+Tau-Herkuliden;Tau-Herculids;Her;03-06;-1;-1;-;-;-
+Libriden;Librids;Lib;08-06;-1;-1;-;-;-
+Juni-Lyriden;June-Lyrids;Lyr;15-06;-1;-1;-;-;-
+Corviden;Corvids;Cor;27-06;-1;-1;-;-;-
+Juni-Draconiden;June-Draconids;Dra;27-06;5;-1;-;-;7P/Pons-Winnecke
+Delta-Aquariden;Delta-Aquarids;Aqr;12-07;-1;-1;23:00;02:00;-
+Alpha-Capricorniden;Alpha-Capricornides;Cap;30-07;10;25;22:00;03:00;45P/Honda-Mrkos-Pajdusakova
+Perseiden;Perseids;Per;12-08;100;60;22:00;04:00;109P/Swift-Tuttle
+Kappa-Cygniden;Cappa-Cygnids;Cyg;18-08;5;25;23:00;01:00;-
+Cepheiden;Cepheids;Cep;17-08;10;-1;-;-;-
+Alpha-Aurigiden;Alpha-Aurigids;Aur;31-08;-1;65;-;-;C/1911 N1-Kiess
+Pisciden;Piscids;Psc;19-09;7;25;22:00;04:00;-
+Tauriden-S;Taurids-S;Tau;30-09;5;30;-;-;2P/Encke
+Delta-Aurigiden;Delta-Aurigids;Aur;30-09;5;60;-;-;-
+Delta-Draconiden;Giacobinids;Dra;09-10;-1;-1;-;-;21P/Giacobini-Zinner
+Orioniden;Orionids;Ori;21-10;25;65;00:00;05:00;Halley
+Epsilon-Geminiden;Epsilon-Geminids;Gem;20-10;3;-1;00:00;06:00;-
+Leoniden;Leonids;Leo;10-11;50;70;02:00;03:00;55P/Temple-Tuttle
+Tauriden-N;Taurids-N;Tau;12-11;10;-1;20:00;04:00;-
+Sigma-Hydride;Sigma-Hydrids;Hya;11-12;4;60;-;-;-
+Geminiden;Geminids;Gem;13-12;120;35;21:00;06:00;-
+Ursiden;Ursids;UMi;22-12;15;35;23:00;01:00;8P/Tuttle
+Coma-Beriniciden;Coma-Berinicides;Com;20-12;7;65;-;-;-
+Alpha-Monocerotiden;Alpha-Monocerotides;Mon;22-11;500;-1;-;-;-
+

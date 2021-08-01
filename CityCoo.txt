@@ -1,0 +1,4933 @@
+Aachen, Deutschland
+50D 47M N
+6D 05M O
+MEZ 
+Aalborg, Daenemark 
+57D 03M N
+9D 56M O
+MEZ 
+Aarhus, Daenemark 
+56D 10M N
+10D 13M O
+MEZ 
+Aberdeen, Schottland 
+57D 08M N
+2D 06M W
+GMT 
+Abidjan, Elfenbeinkueste
+5D 19M N
+4D 02M W
+GMT 
+Abilene, Texas (USA) 
+32D 28M N
+99D 43M W
+CST 
+Abu Dhabi, Vereinigte Arabische Emirate 
+24D 28M N
+54D 25M O
+GMT+4 
+Acapulco, Mexiko 
+16D 50M N
+99D 55M W
+GMT-6 
+Accra, Ghana 
+5D 33M N
+0D 15M W
+GMT 
+Adana, Tuerkei 
+37D 00M N
+35D 19M O
+GMT+2 
+Addis Abeba, AEthiopien 
+9D 02M N
+38D 47M O
+GMT+3 
+Adelaide, Australien 
+34D 56M S
+138D 36M O
+GMT+9 
+Aden, Jemen 
+12D 46M N
+45D 01M O
+GMT+3 
+Agadez, Niger 
+17D 00M N
+7D 56M O
+GMT+1 
+Agadir, Marokko 
+30D 30M N
+9D 40M W
+GMT+1 
+Ahmedabad, Indien 
+23D 00M N
+72D 40M O
+GMT+5 
+Akron, Ohio (USA) 
+41D 05M N
+81D 31M O
+EST 
+Akureyri, Island 
+65D 41M N
+18D 04M W
+GMT 
+Akyab, Myanmar 
+20D 09M N
+92D 55M O
+GMT+6 
+Al Mahalla Al-Kubra, AEgypten 
+30D 59M N
+31D 10M O
+GMT+2 
+Al-Mobarraz, Saudi-Arabien 
+25D 26M N
+49D 37M O
+GMT+3 
+Albany, Georgia (USA) 
+31D 34M N
+84D 09M W
+EST 
+Albany, New York (USA) 
+42D 39M N
+73D 45M W
+EST 
+Albuquerque, New Mexico (USA) 
+35D 05M N
+106D 39M W
+MST 
+Aleppo, Syrien 
+36D 14M N
+37D 10M O
+GMT+3 
+Alexandria, AEgypten 
+31D 13M N
+29D 55M O
+GMT+2 
+Alexandria, Louisiana (USA) 
+31D 18M N
+92D 27M W
+CST 
+Alexandria, Virginia (USA) 
+38D 48M N
+77D 03M W
+EST 
+Algier, Algerien 
+36D 47M N
+3D 03M O
+GMT+1 
+Allentown, Pennsylvania (USA) 
+40D 36M N
+75D 28M W
+EST 
+Altoona, Pennsylvania (USA) 
+40D 31M N
+78D 24M W
+EST 
+Amadora, Portugal 
+38D 45M N
+9D 13M W
+GMT 
+Amarillo, Texas (USA) 
+35D 12M N
+101D 50M W
+CST 
+Ambato, Ecuador 
+1D 18M S
+78D 39M W
+GMT-5 
+Amman, Jordanien 
+31D 57M N
+35D 56M O
+GMT+2 
+Amsterdam, Niederlande 
+52D 23M N
+4D 54M O
+MEZ 
+Amstetten, OEsterreich 
+48D 07M N
+14D 52M O
+MEZ 
+Anaheim, California (USA) 
+33D 50M N
+117D 55M W
+PST 
+Anchorage, Alaska (USA) 
+61D 13M N
+149D 53M W
+GMT-9 
+Andorra La Vella, Andorra 
+42D 30M N
+1D 30M O
+MEZ 
+Angeles, Philippinen 
+15D 09M N
+120D 33M O
+GMT+8 
+Ankara, Tuerkei 
+39D 56M N
+32D 52M O
+GMT+2 
+Ann Arbor, Michigan (USA) 
+42D 17M N
+83D 45M W
+EST 
+Annaba, Algerien 
+36D 55M N
+7D 47M O
+GMT+1 
+Annapolis, Maryland (USA) 
+38D 59M N
+76D 30M W
+EST 
+Antananarivo, Madagaskar 
+18D 52M S
+47D 30M O
+GMT+3 
+Antofagasta, Chile 
+23D 39M S
+70D 24M W
+GMT-4 
+Antsirabe, Madagaskar 
+19D 51M S
+47D 01M O
+GMT+3 
+Antsiranana, Madagaskar 
+12D 25M S
+49D 20M O
+GMT+3 
+Antwerpen, Belgien 
+51D 13M N
+4D 25M O
+MEZ 
+Apeldoorn, Niederlande 
+52D 13M N
+5D 57M O
+MEZ 
+Apia, Westsamoa 
+13D 50M S
+171D 44M W
+GMT-1 
+Arequipa, Peru 
+16D 24M S
+71D 33M W
+GMT-5 
+Ariana, Tunesien 
+36D 52M N
+10D 12M O
+GMT+1 
+Arica, Chile 
+18D 30M S
+70D 20M W
+GMT-4 
+Arlington, Virginia (USA) 
+38D 53M N
+77D 07M W
+EST 
+Arusha, Tansania 
+3D 23M S
+36D 40M O
+GMT+3 
+As-Smara, Sahara 
+26D 48M N
+11D 41M W
+GMT 
+Asheville, North Carolina (USA) 
+35D 36M N
+82D 33M W
+EST 
+Asmara, AEthiopien 
+15D 20M N
+38D 58M O
+GMT+3 
+Assiut, AEgypten 
+27D 14M N
+31D 07M O
+GMT+2 
+Asuncion, Paraguay 
+25D 16M S
+57D 40M W
+GMT-4 
+Atbara, Sudan 
+17D 42M N
+34D 00M O
+GMT+2 
+Athen, Griechenland 
+37D 58M N
+23D 43M O
+GMT+2 
+Atlanta, Georgia (USA) 
+33D 45M N
+84D 24M W
+EST 
+Atlantic City, New Jersey (USA) 
+39D 22M N
+74D 26M W
+EST 
+Auckland, Neuseeland 
+36D 51M S
+174D 45M O
+GMT+1 
+Augsburg, Deutschland 
+48D 22M N
+10D 53M O
+MEZ 
+Augusta, Georgia (USA) 
+33D 28M N
+81D 58M W
+EST 
+Austin, Texas (USA) 
+30D 16M N
+97D 45M W
+CST 
+Bacolod, Philippinen 
+10D 38M N
+122D 58M O
+GMT+8 
+Baden, OEsterreich 
+48D 01M N
+16D 14M O
+MEZ 
+Bagdad, Irak 
+33D 21M N
+44D 25M O
+GMT+3 
+Bahia Blanca, Argentinien 
+38D 45M S
+62D 15M W
+GMT-3 
+Bakersfield, California (USA) 
+35D 22M N
+119D 01M W
+PST 
+Bakhtaran, Iran 
+31D 28M N
+54D 54M O
+GMT+3 
+Baku, Aserbaidschan
+40D 23M N
+49D 51M O
+GMT+4 
+Baltimore, Maryland (USA) 
+39D 17M N
+76D 37M W
+EST 
+Bamako, Mali 
+12D 40M N
+7D 59M W
+GMT 
+Bandar Seri Begawan, Brunei 
+4D 56M N
+114D 58M O
+GMT+8 
+Bandung, Indonesien 
+6D 57M S
+107D 34M O
+GMT+7 
+Bangalore, Indien 
+12D 58M N
+77D 35M O
+GMT+5 
+Bangkok, Thailand 
+13D 45M N
+100D 31M O
+GMT+7 
+Bangor, Maine (USA) 
+44D 48M N
+68D 46M W
+EST 
+Bangui, Zentralafriknische Republik 
+4D 23M N
+18D 37M O
+GMT+1 
+Banjul, Gambia 
+13D 28M N
+16D 39M W
+GMT 
+Barcelona, Spanien 
+41D 23M N
+2D 11M O
+MEZ 
+Barcelona, Venezuela 
+10D 08M N
+64D 43M W
+GMT-4 
+Bari, Italien 
+41D 07M N
+16D 52M O
+MEZ 
+Barquisimeto, Venezuela 
+10D 03M N
+69D 18M W
+GMT-4 
+Barranquilla, Kolumbien 
+10D 59M N
+74D 48M W
+GMT-5 
+Barreiro, Portugal 
+38D 40M N
+9D 05M W
+GMT 
+Basel, Schweiz 
+47D 33M N
+7D 36M O
+MEZ 
+Basra, Irak 
+30D 30M N
+47D 50M O
+GMT+3 
+Bassein, Myanmar 
+16D 46M N
+94D 45M O
+GMT+6 
+Basseterre, St.Kitts-Nevis 
+17D 17M N
+62D 43M W
+GMT-4 
+Bata, AEquatorialguinea 
+1D 51M N
+9D 46M O
+GMT+1 
+Baton Rouge, Louisiana (USA) 
+30D 27M N
+91D 11M W
+CST 
+Beaumont, Texas (USA) 
+30D 05M N
+94D 06M W
+CST 
+Beersheba, Israel 
+31D 15M N
+34D 47M O
+GMT+2 
+Beijing, China 
+39D 56M N
+116D 24M O
+GMT+8 
+Beira, Mosambik 
+19D 49M S
+34D 52M O
+GMT+2 
+Beirut, Libanon 
+33D 53M N
+35D 30M O
+GMT+2 
+Belem, Brasilien 
+1D 27M S
+48D 29M W
+GMT-3 
+Belfast, Nordirland 
+54D 36M N
+5D 56M W
+GMT 
+Belize City, Belize 
+17D 30M N
+88D 12M W
+GMT-6 
+Belmopan, Belize 
+17D 13M N
+88D 48M W
+GMT-6 
+Belo Horizonte, Brasilien 
+19D 54M S
+43D 54M W
+GMT-3 
+Bengasi, Libyen 
+32D 07M N
+20D 04M O
+GMT+1 
+Beograd, Serbien
+44D 50M N
+20D 30M O
+MEZ 
+Berbera, Somalia 
+10D 28M N
+45D 02M O
+GMT+3 
+Bergen, Norwegen 
+60D 23M N
+5D 20M O
+MEZ 
+Bergisch-Gladbach, Deutschland 
+50D 59M N
+7D 08M O
+MEZ 
+Berlin, Deutschland 
+52D 33M N
+13D 22M O
+MEZ 
+Bern, Schweiz 
+46D 57M N
+7D 28M O
+MEZ 
+Bethlehem, Pennsylvania (USA) 
+40D 37M N
+75D 23M W
+EST 
+Biel, Schweiz 
+46D 27M N
+8D 13M O
+MEZ 
+Bielefeld, Deutschland 
+52D 02M N
+8D 32M O
+MEZ 
+Bilbao, Spanien 
+43D 15M N
+2D 56M W
+MEZ 
+Billings, Montana (USA) 
+45D 47M N
+108D 30M W
+MST 
+Biloxi, Mississippi (USA) 
+30D 24M N
+88D 53M W
+CST 
+Binghamton, New York (USA) 
+42D 06M N
+75D 55M W
+EST 
+Birmingham, Alabama (USA) 
+33D 31M N
+86D 49M W
+CST 
+Birmingham, Grossbritannien 
+52D 29M N
+1D 53M W
+GMT 
+Bismarck, North Dakota (USA) 
+46D 48M N
+100D 47M W
+CST 
+Bissau, Guinea-Bissau 
+11D 52M N
+15D 39M W
+GMT 
+Bizerta, Tunesien 
+37D 18M N
+9D 52M O
+GMT+1 
+Blantyre, Malawi 
+15D 46M S
+35D 00M O
+GMT+2 
+Blida, Algerien 
+36D 30M N
+2D 50M O
+GMT+1 
+Bnei Brak, Israel 
+32D 05M N
+34D 52M O
+GMT+2 
+Bo, Sierra Leone 
+7D 58M N
+11D 45M W
+GMT 
+Bobo-Dioulasso, Burkina Faso 
+11D 11M N
+4D 18M W
+GMT 
+Bochum, Deutschland 
+51D 29M N
+7D 13M O
+MEZ 
+Bogata, Kolumbien 
+4D 36M N
+74D 05M W
+GMT-5 
+Boise, Idaho (USA) 
+43D 37M N
+116D 12M W
+MST 
+Bologna, Italien 
+44D 30M N
+11D 20M O
+MEZ 
+Bombay, Indien 
+18D 58M N
+72D 50M O
+GMT+5 
+Bonn, Deutschland 
+50D 44M N
+7D 06M O
+MEZ 
+Boras, Schweden 
+57D 44M N
+12D 55M O
+MEZ 
+Bordeaux, Frankreich 
+44D 50M N
+0D 34M W
+MEZ 
+Boston, Massachusetts (USA) 
+42D 21M N
+71D 03M W
+EST 
+Bottrop, Deutschland 
+51D 31M N
+6D 55M O
+MEZ 
+Boulder, Colorado (USA) 
+40D 01M N
+105D 17M W
+MST 
+Boulogne, Frankreich 
+50D 43M N
+1D 37M O
+MEZ 
+Bozen, Italien 
+46D 31M N
+11D 22M O
+MEZ 
+Bradford, Grossbritannien 
+53D 48M N
+1D 45M W
+GMT 
+Braga, Portugal 
+41D 32M N
+8D 26M W
+GMT 
+Braila, Rumaenien 
+45D 17M N
+27D 58M O
+GMT+2 
+Brasilia, Brasilien 
+15D 47M S
+47D 55M W
+GMT-3 
+Bratislava, Slowakei
+48D 10M N
+17D 10M O
+MEZ 
+Braunau, OEsterreich 
+48D 16M N
+13D 02M O
+MEZ 
+Braunschweig, Deutschland 
+52D 16M N
+10D 32M O
+MEZ 
+Brazzaville, Kongo 
+4D 14M S
+15D 14M O
+GMT+1 
+Bregenz, OEsterreich 
+47D 30M N
+9D 46M O
+MEZ 
+Bremen, Deutschland 
+53D 05M N
+8D 48M O
+MEZ 
+Bremerhaven, Deutschland 
+53D 33M N
+8D 35M O
+MEZ 
+Breslau, Polen 
+51D 05M N
+17D 00M O
+MEZ 
+Bridgeport, Connecticut (USA) 
+41D 11M N
+73D 11M W
+EST 
+Bridgetown, Barbados 
+13D 06M N
+59D 37M W
+GMT-4 
+Brisbane, Australien 
+27D 30M S
+153D 01M O
+GMT+11 
+Bristol, Grossbritannien 
+51D 27M N
+2D 35M W
+GMT 
+Brno, Tschechien
+49D 13M N
+16D 40M O
+MEZ 
+Bromberg, Polen 
+53D 16M N
+18D 00M O
+MEZ 
+Brownsville, Texas (USA) 
+25D 54M N
+97D 30M W
+CST 
+Bruck/mur, OEsterreich 
+47D 25M N
+15D 17M O
+MEZ 
+Bruegge, Belgien 
+51D 13M N
+3D 14M O
+MEZ 
+Bruessel, Belgien 
+50D 50M N
+4D 20M O
+MEZ 
+Buake, Elfenbeinkueste 
+7D 42M N
+5D 00M W
+GMT 
+Bucaramanga, Kolumbien 
+7D 08M N
+73D 10M W
+GMT-5 
+Budapest, Ungarn 
+47D 30M N
+19D 05M O
+MEZ 
+Buenos Aires, Argentinien 
+34D 36M S
+58D 27M W
+GMT-3 
+Buffalo, New York (USA) 
+42D 53M N
+78D 52M W
+EST 
+Bujumbura, Burundi 
+3D 22M S
+29D 19M O
+GMT+2 
+Bukarest, Rumaenien 
+44D 26M N
+26D 06M O
+GMT+2 
+Bukavu, Zaire 
+2D 30M S
+28D 50M O
+GMT+2 
+Bulawayo, Simbabwe 
+20D 10M S
+28D 43M O
+GMT+2 
+Buraidah, Saudi-Arabien 
+26D 20M N
+43D 59M O
+GMT+3 
+Burgas, Bulgarien 
+42D 30M N
+27D 29M O
+GMT+2 
+Burlington, Vermont (USA) 
+44D 29M N
+73D 13M W
+EST 
+Bursa, Tuerkei 
+40D 12M N
+29D 04M O
+GMT+2 
+Butare, Ruanda 
+2D 35M S
+29D 44M O
+GMT+2 
+Butte, Montana (USA) 
+46D 00M N
+112D 32M W
+MST 
+Cagayan De Oro, Philippinen 
+8D 29M N
+124D 40M O
+GMT+8 
+Calcutta, Indien 
+22D 32M N
+88D 22M O
+GMT+5 
+Calgary, Kanada 
+51D 03M N
+114D 05M W
+GMT-7 
+Cali, Kolumbien 
+3D 27M N
+76D 31M W
+GMT-5 
+Callao, Peru 
+12D 05M S
+77D 08M W
+GMT-5 
+Caloocan, Philippinen 
+14D 38M N
+120D 58M O
+GMT+8 
+Cam Ranh, Vietnam 
+11D 54M N
+109D 14M O
+GMT+7 
+Camaguey, Kuba 
+21D 25M N
+77D 55M W
+GMT-5 
+Camden, New Jersey (USA) 
+39D 57M N
+75D 07M W
+EST 
+Canberra, Australien 
+35D 20M S
+149D 10M O
+GMT+11 
+Canton, Ohio (USA) 
+40D 48M N
+81D 23M W
+EST 
+Cap-Haitien, Haiti 
+19D 47M N
+72D 17M W
+GMT-5 
+Caracas, Venezuela 
+10D 30M N
+66D 55M W
+GMT-4 
+Cardiff, Wales 
+51D 29M N
+3D 10M W
+GMT 
+Cartagena, Kolumbien 
+10D 24M N
+75D 33M W
+GMT-5 
+Casablanca, Marokko 
+33D 36M N
+7D 37M W
+GMT+1 
+Casper, Wyoming (USA) 
+42D 51M N
+106D 19M W
+MST 
+Castries, St. Lucia
+14D 01M N
+60D 59M W
+GMT-4 
+Catania, Italien 
+37D 31M N
+15D 04M O
+MEZ 
+Cebu, Philippinen 
+10D 17M N
+123D 56M O
+GMT+8 
+Cedar Rapids, Iowa (USA) 
+41D 58M N
+91D 40M W
+CST 
+Champaign, Illinois (USA) 
+40D 07M N
+88D 15M W
+CST 
+Chania, Griechenland 
+35D 31M N
+24D 01M O
+GMT+2 
+Charkow, Ukraine
+50D 00M N
+36D 15M O
+GMT+3 
+Charleroi, Belgien 
+50D 25M N
+4D 27M O
+MEZ 
+Charleston, South Carolina (USA) 
+32D 47M N
+79D 56M W
+EST 
+Charleston, West Virginia (USA) 
+38D 21M N
+81D 38M W
+EST 
+Charlotte, North Carolina (USA) 
+35D 13M N
+80D 51M W
+EST 
+Charlottesville, Virginia (USA) 
+38D 02M N
+78D 30M W
+EST 
+Chattanooga, Tennessee (USA) 
+35D 03M N
+85D 19M W
+EST 
+Chemnitz, Deutschland 
+50D 50M N
+12D 55M O
+MEZ 
+Chengdu, China 
+30D 37M N
+104D 06M O
+GMT+8 
+Cheyenne, Wyoming (USA) 
+41D 08M N
+104D 49M W
+MST 
+Chiang Mai, Thailand 
+18D 48M N
+98D 59M O
+GMT+7 
+Chiayi, Taiwan 
+23D 09M N
+120D 11M O
+GMT+8 
+Chicago, Illinois (USA) 
+41D 52M N
+87D 38M W
+CST 
+Chiclayo, Peru 
+6D 47M S
+79D 47M W
+GMT-5 
+Chihuahua, Mexiko 
+28D 38M N
+106D 05M W
+GMT-6 
+Chillan, Chile 
+36D 37M S
+72D 10M W
+GMT-4 
+Chimbote, Peru 
+9D 04M S
+78D 34M W
+GMT-5 
+Chingola, Sambia 
+12D 31M S
+27D 53M O
+GMT+2 
+Chittagong, Bangladesch 
+22D 20M N
+91D 48M O
+GMT+6 
+Chitungwiza, Simbabwe 
+18D 00M S
+31D 06M O
+GMT+2 
+Choluteca, Honduras 
+13D 15M N
+87D 10M W
+GMT-6 
+Chon Buri, Thailand 
+13D 24M N
+100D 59M O
+GMT+7 
+Chongjin, Nordkorea 
+41D 50M N
+129D 55M O
+GMT+9 
+Chongqing, China 
+29D 30M N
+106D 35M O
+GMT+8 
+Choybalsan, Mongolei 
+48D 02M N
+114D 32M O
+GMT+8 
+Christchurch, Neuseeland 
+43D 35M S
+172D 36M O
+GMT+1 
+Chungli, Taiwan 
+24D 55M N
+121D 08M O
+GMT+8 
+Chur, Schweiz 
+46D 50M N
+9D 35M O
+MEZ 
+Cincinnati, Ohio (USA) 
+39D 06M N
+84D 31M W
+EST 
+Circleville, Ohio (USA) 
+39D 34M N
+83D 02M W
+EST 
+Ciudad Guayana, Venezuela 
+8D 22M N
+62D 37M W
+GMT-4 
+Ciudad Juarez, Mexiko 
+31D 42M N
+106D 29M W
+GMT-6 
+Clarksville, Tennessee (USA) 
+36D 32M N
+87D 21M W
+CST 
+Cleveland, Ohio (USA) 
+41D 30M N
+81D 42M W
+EST 
+Cochabamba, Bolivien 
+17D 24M S
+66D 09M W
+GMT-4 
+Coimbra, Portugal 
+40D 12M N
+8D 25M W
+GMT 
+Colombo, Sri Lanka 
+6D 56M N
+79D 51M O
+GMT+5 
+Colon, Panama 
+9D 21M N
+79D 54M W
+GMT-5 
+Colorado Springs, Colorado (USA) 
+38D 50M N
+104D 49M W
+MST 
+Columbia, Missouri (USA) 
+38D 57M N
+92D 20M W
+CST 
+Columbia, South Carolina (USA) 
+34D 00M N
+81D 02M W
+EST 
+Columbus, Georgia (USA) 
+32D 28M N
+84D 59M W
+EST 
+Columbus, Ohio (USA) 
+39D 58M N
+83D 00M W
+EST 
+Conakry, Guinea 
+9D 31M N
+13D 43M W
+GMT 
+Concepcion, Chile 
+36D 50M S
+73D 03M W
+GMT-4 
+Concepcion, Paraguay 
+23D 22M S
+57D 26M W
+GMT-4 
+Concord, New Hampshire (USA) 
+43D 12M N
+71D 32M W
+EST 
+Constantine, Algerien 
+36D 22M N
+6D 40M O
+GMT+1 
+Cordoba, Argentinien 
+31D 24M S
+64D 11M W
+GMT-3 
+Cork, Irland 
+51D 54M N
+8D 28M W
+GMT 
+Corozal, Belize 
+18D 23M N
+88D 23M W
+GMT-6 
+Corpus Christi, Texas (USA) 
+27D 48M N
+97D 24M W
+CST 
+Cotonou, Benin 
+6D 24M N
+2D 31M O
+GMT+1 
+Cottbus, Deutschland 
+51D 46M N
+14D 20M O
+MEZ 
+Craiova, Rumaenien 
+44D 18M N
+23D 47M O
+GMT+2 
+Cucuta, Kolumbien 
+7D 55M N
+72D 31M W
+GMT-5 
+Cuenca, Ecuador 
+2D 54M S
+79D 00M W
+GMT-5 
+Curitiba, Brasilien 
+25D 25M S
+49D 15M W
+GMT-3 
+Cuzco, Peru 
+13D 32M S
+71D 57M W
+GMT-5 
+Da Nang, Vietnam 
+16D 04M N
+108D 14M O
+GMT+7 
+Dachla, Sahara 
+23D 50M N
+15D 33M W
+GMT 
+Dakar, Senegal 
+14D 40M N
+17D 26M W
+GMT 
+Dallas, Texas (USA) 
+32D 47M N
+96D 48M W
+CST 
+Daloa, Elfenbeinkueste 
+6D 56M N
+6D 28M W
+GMT 
+Damaskus, Syrien 
+33D 30M N
+36D 18M O
+GMT+3 
+Damman, Saudi-Arabien 
+26D 25M N
+50D 06M O
+GMT+3 
+Danbury, Connecticut (USA) 
+41D 24M N
+73D 28M W
+EST 
+Dangriga, Belize 
+16D 59M N
+88D 13M W
+GMT-6 
+Danzig, Polen 
+54D 20M N
+18D 40M O
+MEZ 
+Darchan, Mongolei 
+46D 29M N
+109D 24M O
+GMT+8 
+Daressalam, Tansania 
+6D 48M S
+39D 17M O
+GMT+3 
+Darmstadt, Deutschland 
+49D 52M N
+8D 39M O
+MEZ 
+Davao, Philippinen 
+7D 04M N
+125D 36M O
+GMT+8 
+David, Panama 
+8D 26M N
+82D 26M W
+GMT-5 
+Dayton, Ohio (USA) 
+39D 46M N
+84D 12M W
+EST 
+Daytona Beach, Florida (USA) 
+29D 13M N
+81D 01M W
+EST 
+Debrecen, Ungarn 
+47D 30M N
+21D 37M O
+MEZ 
+Dehiwala, Sri Lanka 
+6D 52M N
+79D 52M O
+GMT+5 
+Deir-Ez-Zor, Syrien 
+35D 20M N
+40D 05M O
+GMT+3 
+Den Haag, Niederlande 
+52D 04M N
+4D 19M O
+MEZ 
+Denver, Colorado (USA) 
+39D 45M N
+104D 59M W
+MST 
+Des Moines, Iowa (USA) 
+41D 35M N
+93D 37M W
+CST 
+Dessau, Deutschland 
+51D 50M N
+12D 15M O
+MEZ 
+Detroit, Michigan (USA) 
+42D 20M N
+83D 03M W
+EST 
+Dhaka, Bangladesch 
+23D 43M N
+90D 25M O
+GMT+6 
+Differdingen, Luxemburg 
+49D 32M N
+5D 53M O
+MEZ 
+Djerba, Tunesien 
+33D 52M N
+10D 51M O
+GMT+1 
+Dodoma, Tansania 
+6D 10M S
+35D 40M O
+GMT+3 
+Doha, Katar 
+25D 15M N
+51D 36M O
+GMT+3 
+Donetzk, Ukraine
+48D 00M N
+37D 48M O
+GMT+3 
+Dornbirn, OEsterreich 
+47D 25M N
+9D 44M O
+MEZ 
+Dortmund, Deutschland 
+51D 32M N
+7D 27M O
+MEZ 
+Douala, Kamerun 
+4D 04M N
+9D 43M O
+GMT+1 
+Drammen, Norwegen 
+59D 45M N
+10D 15M O
+MEZ 
+Dresden, Deutschland 
+51D 03M N
+13D 44M O
+MEZ 
+Dschibuti, Dschibuti 
+11D 30M N
+45D 05M O
+GMT+3 
+Dschidda, Saudi-Arabien 
+21D 30M N
+39D 10M O
+GMT+3 
+Dubai, Vereinigte Arabische Emirate
+25D 14M N
+55D 17M O
+GMT+4 
+Dublin, Irland 
+53D 20M N
+6D 15M W
+GMT 
+Duedelingen, Luxemburg 
+49D 28M N
+6D 05M O
+MEZ 
+Duisburg, Deutschland 
+51D 26M N
+6D 45M O
+MEZ 
+Duluth, Minnesota (USA) 
+46D 47M N
+92D 06M W
+CST 
+Dunedin, Neuseeland 
+45D 52M S
+170D 30M O
+GMT+1 
+Durban, Suedafrika 
+29D 53M S
+31D 00M O
+GMT+2 
+Durham, North Carolina (USA) 
+36D 00M N
+78D 55M W
+EST 
+Durres, Albanien 
+41D 18M N
+19D 28M O
+MEZ 
+Duesseldorf, Deutschland 
+51D 13M N
+6D 47M O
+MEZ 
+Edinburgh, Schottland 
+55D 57M N
+3D 12M W
+GMT 
+Edmonton, Kanada 
+53D 33M N
+113D 28M W
+GMT-7 
+Eerdenet, Mongolei 
+46D 18M N
+100D 35M O
+GMT+8 
+Eindhoven, Niederlande 
+51D 26M N
+5D 30M O
+MEZ 
+Eisenstadt, OEsterreich 
+47D 51M N
+16D 31M O
+MEZ 
+El Alaiun, Sahara 
+27D 10M N
+13D 11M W
+GMT 
+El Paso, Texas (USA) 
+31D 46M N
+106D 29M W
+MST 
+El-Mansoura, AEgypten 
+31D 03M N
+31D 23M O
+GMT+2 
+Elizabeth, New Jersey (USA) 
+40D 40M N
+74D 13M W
+EST 
+Elmira, New York (USA) 
+42D 06M N
+76D 48M W
+EST 
+Elobied, Sudan 
+13D 11M N
+30D 10M O
+GMT+2 
+Elsinore, Daenemark 
+56D 03M N
+12D 38M O
+MEZ 
+Encarnacion, Paraguay 
+27D 20M S
+55D 50M W
+GMT-4 
+Enschede, Niederlande 
+52D 13M N
+6D 55M O
+MEZ 
+Entebbe, Uganda 
+0D 04M N
+32D 27M O
+GMT+3 
+Erfurt, Deutschland 
+50D 58M N
+11D 02M O
+MEZ 
+Erie, Pennsylvania (USA) 
+42D 07M N
+80D 05M W
+EST 
+Erlangen, Deutschland 
+49D 36M N
+11D 01M O
+MEZ 
+Esbjerg, Daenemark 
+55D 28M N
+8D 28M O
+MEZ 
+Esch, Luxemburg 
+49D 32M N
+6D 00M O
+MEZ 
+Escuintla, Guatemala 
+14D 18M N
+90D 47M W
+GMT-6 
+Esmeraldas, Ecuador 
+0D 56M N
+79D 40M W
+GMT-5 
+Espoo, Finnland 
+60D 10M N
+24D 42M O
+GMT+2 
+Essen, Deutschland 
+52D 43M N
+7D 56M O
+MEZ 
+Eugene, Oregon (USA) 
+44D 03M N
+123D 05M W
+PST 
+Evansville, Indiana (USA) 
+37D 58M N
+87D 34M W
+EST 
+Fairbanks, Alaska (USA) 
+64D 51M N
+147D 43M W
+GMT-9 
+Faisalabad, Pakistan 
+31D 25M N
+73D 09M O
+GMT+5 
+Fargo, North Dakota (USA) 
+46D 52M N
+96D 47M W
+CST 
+Fayetteville, North Carolina (USA) 
+35D 03M N
+78D 53M W
+EST 
+Feldkirch, OEsterreich 
+47D 14M N
+9D 36M O
+MEZ 
+Fernando De La Mora, Paraguay 
+25D 19M S
+57D 36M W
+GMT-4 
+Fes, Marokko 
+34D 05M N
+5D 00M W
+GMT+1 
+Fianar, Madagaskar 
+21D 27M S
+47D 05M O
+GMT+3 
+Flint, Michigan (USA) 
+43D 01M N
+83D 42M W
+EST 
+Florenz, Italien 
+43D 46M N
+11D 15M O
+MEZ 
+Fort Lauderdale, Florida (USA) 
+26D 07M N
+80D 08M W
+EST 
+Fort Smith, Arkansas (USA) 
+35D 23M N
+94D 25M W
+CST 
+Fort Wayne, Indiana (USA) 
+41D 04M N
+85D 08M W
+EST 
+Fort Worth, Texas (USA) 
+32D 45M N
+97D 20M W
+CST 
+Fort-de-France, Martinique 
+14D 36M N
+61D 05M W
+GMT-4 
+Fortaleza, Brasilien 
+3D 45M S
+38D 35M W
+GMT-3 
+Francistown, Botswana 
+21D 07M S
+27D 32M O
+GMT+2 
+Frankfurt a. M., Deutschland
+50D 07M N
+8D 41M O
+MEZ 
+Frankfurt a. O., Deutschland
+52D 21M N
+14D 33M O
+MEZ
+Freeport, Bahamas
+26D 30M N
+78D 42M W
+GMT-5 
+Freetown, Sierra Leone 
+8D 29M N
+13D 13M W
+GMT 
+Freiburg, Deutschland 
+48D 00M N
+7D 51M O
+MEZ 
+Freising, Deutschland 
+48D 24M N
+11D 44M O
+MEZ 
+Fresno, California (USA) 
+36D 44M N
+119D 47M W
+PST 
+Fribourg, Schweiz 
+46D 50M N
+7D 10M O
+MEZ 
+Ft Lauderdale, Florida (USA) 
+26D 07M N
+80D 08M W
+EST 
+Ft Smith, Arkansas (USA) 
+35D 23M N
+94D 25M W
+CST 
+Ft Wayne, Indiana (USA) 
+41D 04M N
+85D 08M W
+EST 
+Ft Worth, Texas (USA) 
+32D 45M N
+97D 20M W
+CST 
+Fukuoka, Japan 
+33D 39M N
+130D 21M O
+GMT+9 
+Funafuti, Tuvalu 
+8D 30M S
+179D 12M O
+GMT+1 
+Funchal, Portugal 
+40D 08M N
+7D 30M W
+GMT 
+Gaborone, Botswana 
+24D 45M S
+25D 55M O
+GMT+2 
+Gainesville, Florida (USA) 
+29D 40M N
+82D 20M W
+EST 
+Galatz, Rumaenien 
+45D 27M N
+28D 02M O
+GMT+2 
+Galle, Sri Lanka 
+6D 01M N
+80D 13M O
+GMT+5 
+Galveston, Texas (USA) 
+29D 18M N
+94D 48M W
+CST 
+Galway, Irland 
+53D 16M N
+9D 03M W
+GMT 
+Gao, Mali 
+16D 19M N
+0D 09M W
+GMT 
+Garland, Texas (USA) 
+32D 54M N
+96D 38M W
+CST 
+Gary, Indiana (USA) 
+41D 36M N
+87D 20M W
+CST 
+Gasiantep, Tuerkei 
+37D 06M N
+37D 23M O
+GMT+2 
+Geelong, Australien 
+38D 10M S
+144D 26M O
+GMT+11 
+Gelsenkirchen, Deutschland 
+51D 31M N
+7D 06M O
+MEZ 
+Geneve, Schweiz 
+46D 12M N
+6D 10M O
+MEZ 
+Gent, Belgien 
+51D 02M N
+3D 42M O
+MEZ 
+Genua, Italien 
+44D 24M N
+8D 56M O
+MEZ 
+Georgetown, Guyana 
+6D 46M N
+58D 10M W
+GMT-3 
+Gera, Deutschland 
+50D 52M N
+12D 05M O
+MEZ 
+Germiston, Suedafrika 
+26D 15M S
+28D 10M O
+GMT+2 
+Gibraltar, Gibraltar 
+36D 06M N
+5D 21M W
+MEZ 
+Gize, AEgypten 
+30D 01M N
+31D 10M O
+GMT+2 
+Glasgow, Schottland 
+55D 51M N
+4D 16M W
+GMT 
+Gold Coast, Australien 
+27D 59M S
+153D 22M O
+GMT+11 
+Gorki, Russland 
+56D 20M N
+44D 00M O
+GMT+4 
+Goeteborg, Schweden 
+57D 43M N
+11D 58M O
+MEZ 
+Goettingen, Deutschland 
+51D 32M N
+9D 56M O
+MEZ 
+Granada, Nicaragua 
+11D 58M N
+85D 59M W
+GMT-6 
+Grand Forks, North Dakota (USA) 
+47D 55M N
+97D 03M W
+CST 
+Grand Rapids, Michigan (USA) 
+42D 58M N
+85D 40M W
+EST 
+Graz, OEsterreich 
+47D 05M N
+15D 22M O
+MEZ 
+Great Falls, Montana (USA) 
+47D 30M N
+111D 17M W
+MST 
+Green Bay, Wisconsin (USA) 
+44D 31M N
+88D 01M W
+CST 
+Greensboro, North Carolina (USA) 
+36D 04M N
+79D 47M W
+EST 
+Greenville, South Carolina (USA) 
+34D 51M N
+82D 24M W
+EST 
+Groningen, Niederlande 
+53D 13M N
+6D 34M O
+MEZ 
+Guadalajara, Mexiko 
+20D 40M N
+103D 20M W
+GMT-6 
+Guangzhou, China 
+23D 07M N
+113D 15M O
+GMT+8 
+Guantanamo, Kuba 
+19D 59M N
+75D 10M W
+GMT-5 
+Guatemala City, Guatemala 
+14D 38M N
+90D 31M W
+GMT-6 
+Guayaquil, Ecuador 
+2D 10M S
+79D 50M W
+GMT-5 
+Gujranwala, Pakistan 
+32D 06M N
+74D 11M O
+GMT+5 
+Gulf Port, Mississippi (USA) 
+30D 22M N
+89D 05M W
+CST 
+Gweru, Simbabwe 
+19D 27M S
+29D 49M O
+GMT+2 
+Gyoer, Ungarn 
+47D 41M N
+17D 40M O
+MEZ 
+Haarlem, Niederlande 
+52D 23M N
+4D 38M O
+MEZ 
+Hagen, Deutschland 
+51D 21M N
+7D 28M O
+MEZ 
+Haifa, Israel 
+32D 49M N
+34D 59M O
+GMT+2 
+Haiphong, Vietnam 
+20D 50M N
+106D 41M O
+GMT+7 
+Halle, Deutschland 
+51D 28M N
+11D 58M O
+MEZ 
+Hallein, OEsterreich 
+47D 41M N
+13D 06M O
+MEZ 
+Hama, Syrien 
+35D 05M N
+36D 40M O
+GMT+3 
+Hamburg, Deutschland 
+53D 33M N
+10D 00M O
+MEZ 
+Hamilton, Bermuda-Inseln 
+32D 17M N
+64D 46M W
+GMT-4 
+Hamilton, Kanada 
+43D 14M N
+79D 51M W
+GMT-5 
+Hamilton, Neuseeland 
+37D 46M S
+175D 18M O
+GMT+1 
+Hamm, Deutschland 
+51D 41M N
+7D 48M O
+MEZ 
+Hampton, Virginia (USA) 
+37D 01M N
+76D 20M W
+EST 
+Hannover, Deutschland 
+52D 22M N
+9D 43M O
+MEZ 
+Hanoi, Vietnam 
+21D 02M N
+105D 51M O
+GMT+7 
+Harare, Simbabwe 
+17D 50M S
+31D 03M O
+GMT+2 
+Harbin, China 
+45D 45M N
+126D 41M O
+GMT+8 
+Hargeisa, Somalia 
+9D 31M N
+44D 02M O
+GMT+3 
+Harrisburg, Pennsylvania (USA) 
+40D 16M N
+76D 53M W
+EST 
+Hartford, Connecticut (USA) 
+41D 46M N
+72D 41M W
+EST 
+Havanna, Kuba 
+23D 08M N
+82D 22M W
+GMT-5 
+Heidelberg, Deutschland 
+49D 25M N
+8D 42M O
+MEZ 
+Heilbronn, Deutschland 
+49D 08M N
+9D 13M O
+MEZ 
+Helena, Montana (USA) 
+46D 36M N
+112D 02M W
+MST 
+Helsingborg, Schweden 
+56D 05M N
+12D 45M O
+MEZ 
+Helsinki, Finnland 
+60D 10M N
+24D 58M O
+GMT+2 
+Herat, Afghanistan 
+34D 20M N
+62D 12M O
+GMT+4 
+Herne, Deutschland 
+51D 33M N
+7D 13M O
+MEZ 
+High Point, North Carolina (USA) 
+35D 57M N
+80D 00M W
+EST 
+Hilo, Hawaii (USA) 
+19D 43M N
+155D 05M W
+Hst 
+Hiroshima, Japan 
+34D 23M N
+132D 27M O
+GMT+9 
+Ho-Chi-Minh-Stadt, Vietnam 
+10D 45M N
+106D 40M O
+GMT+7 
+Hobart, Australien 
+42D 55M S
+147D 20M O
+GMT+11 
+Hodeida, Jemen 
+14D 50M N
+42D 58M O
+GMT+3 
+Hofuf, Saudi-Arabien 
+25D 20M N
+49D 34M O
+GMT+3 
+Holguin, Kuba 
+20D 54M N
+76D 15M W
+GMT-5 
+Holon, Israel 
+32D 02M N
+34D 47M O
+GMT+2 
+Homs, Syrien 
+34D 44M N
+37D 17M O
+GMT+3 
+Hongkong, Hongkong 
+22D 17M N
+114D 09M O
+GMT+8 
+Honiara, Salomonen 
+9D 28M S
+159D 57M O
+GMT+1 
+Honolulu, Hawaii (USA) 
+21D 19M N
+157D 52M W
+Hst 
+Horsens, Daenemark 
+57D 07M N
+10D 07M O
+MEZ 
+Hospitalet, Spanien 
+41D 21M N
+2D 06M O
+MEZ 
+Houston, Texas (USA) 
+29D 45M N
+95D 22M W
+CST 
+Hsinchu, Taiwan 
+24D 48M N
+120D 59M O
+GMT+8 
+Huambo, Angola 
+12D 44M S
+15D 47M O
+GMT+1 
+Hungnam, Nordkorea 
+39D 49M N
+127D 40M O
+GMT+9 
+Huntington, West Virginia (USA) 
+38D 25M N
+82D 27M W
+EST 
+Huntsville, Alabama (USA) 
+34D 44M N
+86D 35M W
+CST 
+Hyderabad, Indien 
+17D 22M N
+78D 26M O
+GMT+5 
+Hyderabad, Pakistan 
+25D 23M N
+68D 24M O
+GMT+5 
+Iasi, Rumaenien 
+47D 09M N
+27D 38M O
+GMT+2 
+Ibadan, Nigeria 
+7D 23M N
+3D 56M O
+GMT+1 
+Ibague, Kolumbien 
+4D 25M N
+75D 20M W
+GMT-5 
+Idaho Falls, Idaho (USA) 
+43D 29M N
+112D 02M W
+MST 
+Iloilo, Philippinen 
+10D 41M N
+122D 33M O
+GMT+8 
+Inchon, Korea 
+37D 30M N
+126D 38M O
+GMT+9 
+Independence, Missouri (USA) 
+39D 06M N
+94D 25M W
+CST 
+Indianapolis, Indiana (USA) 
+39D 46M N
+86D 10M W
+EST 
+Innsbruck, OEsterreich 
+47D 16M N
+11D 24M O
+MEZ 
+Ipoh, Malaysia 
+4D 36M N
+101D 02M O
+GMT+8 
+Iquitos, Peru 
+3D 51M S
+73D 13M W
+GMT-5 
+Iraklion, Griechenland 
+35D 20M N
+25D 12M O
+GMT+2 
+Irbid, Jordanien 
+32D 33M N
+35D 51M O
+GMT+2 
+Irkutsk, Russland 
+52D 16M N
+104D 20M O
+GMT+8 
+Isfahan, Iran 
+32D 41M N
+51D 41M O
+GMT+3 
+Islamabad, Pakistan 
+33D 42M N
+73D 10M O
+GMT+5 
+Istanbul, Tuerkei 
+41D 01M N
+28D 58M O
+GMT+2 
+Izmir, Tuerkei 
+38D 25M N
+27D 10M O
+GMT+2 
+Jackson, Mississippi (USA) 
+32D 18M N
+90D 11M W
+CST 
+Jacksonville, Florida (USA) 
+30D 20M N
+81D 40M W
+EST 
+Jaffna, Sri Lanka 
+9D 40M N
+80D 01M O
+GMT+5 
+Jaipur, Indien 
+26D 53M N
+75D 50M O
+GMT+5 
+Jakarta, Indonesien 
+6D 10M S
+106D 49M O
+GMT+7 
+Jalalabad, Afghanistan 
+34D 26M N
+70D 28M O
+GMT+4 
+Jefferson City, Missouri (USA) 
+38D 34M N
+92D 10M W
+CST 
+Jena, Deutschland 
+50D 56M N
+11D 35M O
+MEZ 
+Jerewan, Armenien
+40D 11M N
+44D 30M O
+GMT+3 
+Jersey City, New Jersey (USA) 
+40D 44M N
+74D 04M W
+EST 
+Jerusalem, Israel 
+31D 47M N
+35D 13M O
+GMT+2 
+Jinja, Uganda 
+0D 27M N
+33D 14M O
+GMT+3 
+Johannesburg, Suedafrika 
+26D 10M S
+28D 02M O
+GMT+2 
+Johnstown, Pennsylvania (USA) 
+40D 20M N
+78D 55M W
+EST 
+Johore Bharu, Malaysia 
+1D 29M N
+103D 44M O
+GMT+8 
+Joenkoeping, Schweden 
+57D 45M N
+14D 10M O
+MEZ 
+Jumla, Nepal 
+29D 17M N
+82D 10M O
+GMT+5 
+Jurong, Singapur 
+1D 21M N
+103D 42M O
+GMT+7 
+Kabul, Afghanistan 
+34D 30M N
+69D 13M O
+GMT+4 
+Kaesong, Nordkorea 
+37D 59M N
+126D 30M O
+GMT+9 
+Kairo, AEgypten 
+30D 03M N
+31D 15M O
+GMT+2 
+Kaiserslautern, Deutschland 
+49D 27M N
+7D 45M O
+MEZ 
+Kalamazoo, Michigan (USA) 
+42D 17M N
+85D 35M W
+EST 
+Kampala, Uganda 
+0D 20M N
+32D 35M O
+GMT+3 
+Kananga, Zaire 
+5D 53M S
+22D 26M O
+GMT+2 
+Kandahar, Afghanistan 
+31D 35M N
+65D 45M O
+GMT+4 
+Kandy, Sri Lanka 
+7D 17M N
+80D 40M O
+GMT+5 
+Kankan, Guinea 
+10D 23M N
+9D 18M W
+GMT 
+Kano, Nigeria 
+12D 00M N
+8D 30M O
+GMT+1 
+Kanpur, Indien 
+26D 27M N
+80D 14M O
+GMT+5 
+Kansas City, Kansas (USA) 
+39D 07M N
+94D 38M W
+CST 
+Kansas City, Missouri (USA) 
+39D 05M N
+94D 35M W
+CST 
+Kaolack, Senegal 
+14D 09M N
+16D 08M W
+GMT 
+Kapfenberg, OEsterreich 
+47D 26M N
+15D 18M O
+MEZ 
+Kapstadt, Suedafrika 
+33D 55M S
+18D 27M O
+GMT+2 
+Karachi, Pakistan 
+24D 52M N
+67D 03M O
+GMT+5 
+Karlsruhe, Deutschland 
+49D 01M N
+8D 24M O
+MEZ 
+Karonga, Malawi 
+9D 54M S
+35D 55M O
+GMT+2 
+Kasan, Russland 
+55D 45M N
+49D 00M O
+GMT+4 
+Kassel, Deutschland 
+51D 19M N
+9D 30M O
+MEZ 
+Katmandu, Nepal 
+27D 42M N
+85D 20M O
+GMT+5 
+Kattowitz, Polen 
+50D 15M N
+18D 59M O
+MEZ 
+Kavala, Griechenland 
+41D 05M N
+24D 55M O
+GMT+2 
+Kawasaki, Japan 
+35D 32M N
+139D 41M O
+GMT+9 
+Kayes, Mali 
+14D 26M N
+11D 28M W
+GMT 
+Keelung, Taiwan 
+25D 08M N
+121D 44M O
+GMT+8 
+Keetmanshoop, Namibia 
+26D 36M S
+18D 08M O
+GMT+2 
+Kenitra, Marokko 
+34D 20M N
+6D 34M W
+GMT+1 
+Key West, Florida (USA) 
+24D 33M N
+81D 48M W
+EST 
+Khamis-Mushait, Saudi-Arabien 
+18D 19M N
+42D 45M O
+GMT+3 
+Khaosiung, Taiwan 
+22D 38M N
+120D 17M O
+GMT+8 
+Khartum, Sudan 
+15D 36M N
+32D 32M O
+GMT+2 
+Kiel, Deutschland 
+54D 20M N
+10D 08M O
+MEZ 
+Kiew, Ukraine
+50D 26M N
+30D 31M O
+GMT+3 
+Kigali, Ruanda 
+1D 56M S
+30D 04M O
+GMT+2 
+Kingston, Jamaika 
+18D 00M N
+76D 48M W
+GMT-5 
+Kingstown, St. Vincent
+13D 12M N
+61D 14M W
+GMT-4 
+Kinshasa, Zaire 
+4D 18M S
+15D 18M O
+GMT+1 
+Kirkuk, Irak 
+35D 28M N
+44D 26M O
+GMT+3 
+Kisangani, Zaire 
+0D 33M N
+25D 14M O
+GMT+2 
+Kisimayu, Somalia 
+0D 25M S
+42D 31M O
+GMT+3 
+Kisumu, Kenia 
+0D 08M S
+34D 47M O
+GMT+3 
+Kitakiushu, Japan 
+33D 52M N
+130D 49M O
+GMT+9 
+Kitchener, Kanada 
+43D 27M N
+80D 30M W
+GMT-5 
+Kitwe, Sambia 
+12D 50M S
+28D 11M O
+GMT+2 
+Klagenfurt, OEsterreich 
+46D 38M N
+14D 20M O
+MEZ 
+Klausenburg, Rumaenien 
+46D 47M N
+23D 37M O
+GMT+2 
+Klosterneuburg, OEsterreich 
+48D 18M N
+16D 19M O
+MEZ 
+Knoxville, Tennessee (USA) 
+35D 58M N
+83D 55M W
+EST 
+Kobe, Japan 
+34D 40M N
+135D 12M O
+GMT+9 
+Koblenz, Deutschland 
+50D 21M N
+7D 36M O
+MEZ 
+Kolding, Daenemark 
+55D 29M N
+9D 30M O
+MEZ 
+Koeln, Deutschland 
+50D 56M N
+6D 57M O
+MEZ 
+Koeniz, Schweiz 
+46D 56M N
+7D 25M O
+MEZ 
+Konstanza, Rumaenien 
+44D 12M N
+28D 40M O
+GMT+2 
+Kopenhagen, Daenemark 
+55D 40M N
+12D 35M O
+MEZ 
+Kortrijk, Belgien 
+50D 50M N
+3D 17M O
+MEZ 
+Kosice, Slowakei
+48D 44M N
+21D 15M O
+MEZ 
+Kota Bharu, Malaysia 
+6D 07M N
+102D 15M O
+GMT+8 
+Kowloon, Hongkong 
+22D 20M N
+114D 15M O
+GMT+8 
+Krakau, Polen 
+50D 05M N
+19D 55M O
+MEZ 
+Krefeld, Deutschland 
+51D 20M N
+6D 34M O
+MEZ 
+Krems, OEsterreich 
+48D 25M N
+15D 36M O
+MEZ 
+Kristiansand, Norwegen 
+58D 08M N
+8D 01M O
+MEZ 
+Kronstadt, Rumaenien 
+45D 39M N
+25D 35M O
+GMT+2 
+Kuala Lumpur, Malaysia 
+3D 01M N
+101D 42M O
+GMT+8 
+Kuala Trengganu, Malaysia 
+5D 20M N
+103D 07M O
+GMT+8 
+Kuibyschew, Russland 
+53D 12M N
+50D 09M O
+GMT+4 
+Kumasi, Ghana 
+6D 45M N
+1D 35M W
+GMT 
+Kuopio, Finnland 
+62D 54M N
+27D 40M O
+GMT+2 
+Kuwait City, Kuwait 
+29D 20M N
+47D 59M O
+GMT+3 
+Kwangju, Korea 
+35D 07M N
+126D 52M O
+GMT+9 
+Kyoto, Japan 
+35D 02M N
+135D 45M O
+GMT+9 
+La Ceiba, Honduras 
+15D 45M N
+86D 45M W
+GMT-6 
+La Chorrera, Panama 
+8D 51M N
+79D 46M W
+GMT-5 
+La Crosse, Wisconsin (USA) 
+43D 48M N
+91D 15M W
+CST 
+La Paz, Bolivien 
+16D 30M S
+68D 09M W
+GMT-4 
+La Plata, Argentinien 
+44D 55M S
+71D 50M W
+GMT-3 
+La Romana, Dominikan. Republik
+18D 27M N
+68D 57M W
+GMT-4 
+La-Chaux-de-Fonds, Schweiz 
+47D 06M N
+6D 50M O
+MEZ 
+Labe, Guinea 
+11D 19M N
+12D 17M W
+GMT 
+Lae, Papua-Neuguinea 
+6D 45M S
+147D 00M O
+GMT+1 
+Lagos, Nigeria 
+6D 26M N
+3D 32M O
+GMT+1 
+Lahore, Pakistan 
+31D 34M N
+74D 22M O
+GMT+5 
+Lahti, Finnland 
+61D 00M N
+25D 40M O
+GMT+2 
+Lancaster, Pennsylvania (USA) 
+40D 02M N
+76D 18M W
+EST 
+Lansing, Michigan (USA) 
+42D 44M N
+84D 33M W
+EST 
+Laredo, Texas (USA) 
+27D 30M N
+99D 30M W
+CST 
+Larissa, Griechenland 
+39D 38M N
+22D 25M O
+GMT+2 
+Las Cruces, New Mexico (USA) 
+32D 19M N
+106D 47M W
+MST 
+Las Palmas, Kanarische Inseln 
+28D 06M N
+15D 24M W
+MEZ 
+Las Piedras, Uruguay 
+34D 42M S
+56D 14M W
+GMT-3 
+Las Vegas, Nevada (USA) 
+36D 10M N
+115D 09M W
+PST 
+Latakia, Syrien 
+35D 31M N
+35D 47M O
+GMT+3 
+Lausanne, Schweiz 
+46D 32M N
+6D 39M O
+MEZ 
+Lawrence, Kansas (USA) 
+38D 58M N
+95D 14M W
+CST 
+Lawrence, Massachusetts (USA) 
+42D 42M N
+71D 10M W
+EST 
+Le Havre, Frankreich 
+49D 30M N
+0D 06M O
+MEZ 
+Leeds, Grossbritannien 
+53D 50M N
+1D 35M W
+GMT 
+Leipzig, Deutschland 
+51D 20M N
+12D 25M O
+MEZ 
+Leningrad, Russland 
+59D 55M N
+30D 15M O
+GMT+3 
+Leoben, OEsterreich 
+47D 23M N
+15D 06M O
+MEZ 
+Leon, Mexiko 
+21D 07M N
+101D 40M W
+GMT-6 
+Leverkusen, Deutschland 
+51D 01M N
+6D 59M O
+MEZ 
+Lewiston, Maine (USA) 
+44D 06M N
+70D 13M W
+EST 
+Lexington, Kentucky (USA) 
+38D 03M N
+84D 30M W
+EST 
+Liberec, Tschechien
+50D 48M N
+15D 05M O
+MEZ 
+Libreville, Gabun 
+0D 30M N
+9D 25M O
+GMT+1 
+Lilongwe, Malawi 
+13D 58M S
+33D 49M O
+GMT+2 
+Lima, Peru 
+12D 03M S
+77D 03M W
+GMT-5 
+Limassol, Zypern 
+34D 40M N
+33D 03M O
+GMT+2 
+Limerick, Irland 
+52D 40M N
+8D 38M W
+GMT 
+Limon, Costa Rica 
+10D 00M N
+83D 01M W
+GMT-6 
+Lincoln, Nebraska (USA) 
+40D 49M N
+96D 42M W
+CST 
+Linden, Guyana 
+5D 59M N
+58D 19M W
+GMT-3 
+Linkoeping, Schweden 
+58D 25M N
+15D 35M O
+MEZ 
+Linz, OEsterreich 
+48D 19M N
+14D 18M O
+MEZ 
+Lissabon, Portugal 
+38D 43M N
+9D 08M W
+GMT 
+Little Rock, Arkansas (USA) 
+34D 45M N
+92D 17M W
+CST 
+Liverpool, Grossbritannien 
+53D 23M N
+3D 00M W
+GMT 
+Ljubljana, Slowenien
+46D 04M N
+14D 30M O
+MEZ 
+Lodsch, Polen 
+51D 49M N
+19D 28M O
+MEZ 
+Lome, Togo 
+6D 08M N
+1D 13M O
+GMT 
+London, Grossbritannien 
+51D 31M N
+0D 05M W
+GMT 
+Long Beach, California (USA) 
+33D 46M N
+118D 11M W
+PST 
+Los Angeles, California (USA) 
+34D 03M N
+118D 14M W
+PST 
+Louisville, Kentucky (USA) 
+38D 15M N
+85D 46M W
+EST 
+Lowell, Massachusetts (USA) 
+42D 38M N
+71D 19M W
+EST 
+Luanda, Angola 
+8D 50M S
+13D 15M O
+GMT+1 
+Luang Prabang, Laos 
+19D 53M N
+102D 10M O
+GMT+7 
+Lubango, Angola 
+14D 55M S
+13D 30M O
+GMT+1 
+Lubbock, Texas (USA) 
+33D 35M N
+101D 51M W
+CST 
+Luebeck, Deutschland 
+53D 52M N
+10D 42M O
+MEZ 
+Lublin, Polen 
+51D 18M N
+22D 31M O
+MEZ 
+Lubumbashi, Zaire 
+11D 41M S
+27D 29M O
+GMT+2 
+Ludwigshafen, Deutschland 
+49D 29M N
+8D 27M O
+MEZ 
+Lusaka, Sambia 
+15D 25M S
+28D 17M O
+GMT+2 
+Luettich, Belgien 
+50D 38M N
+5D 35M O
+MEZ 
+Luxemburg, Luxemburg 
+49D 36M N
+6D 07M O
+MEZ 
+Luzern, Schweiz 
+47D 02M N
+7D 55M O
+MEZ 
+Lynchburg, Virginia (USA) 
+37D 25M N
+79D 09M W
+EST 
+Lyon, Frankreich 
+45D 45M N
+4D 51M O
+MEZ 
+Maastricht, Belgien 
+50D 51M N
+5D 42M O
+MEZ 
+Macao, Macao 
+22D 12M N
+113D 32M O
+GMT+8 
+Machala, Ecuador 
+3D 20M S
+79D 57M W
+GMT-5 
+Machaze, Mosambik 
+20D 51M S
+33D 26M O
+GMT+2 
+Macon, Georgia (USA) 
+32D 50M N
+83D 38M W
+EST 
+Madison, Wisconsin (USA) 
+43D 04M N
+89D 23M W
+CST 
+Madras, Indien 
+13D 05M N
+80D 17M O
+GMT+5 
+Madrid, Spanien 
+40D 24M N
+3D 41M W
+MEZ 
+Magdeburg, Deutschland 
+52D 08M N
+11D 37M O
+MEZ 
+Mailand, Italien 
+45D 28M N
+9D 12M O
+MEZ 
+Mainz, Deutschland 
+50D 00M N
+8D 15M O
+MEZ 
+Majunga, Madagaskar 
+15D 40M S
+46D 20M O
+GMT+3 
+Malabo, AEquatorialguinea 
+3D 45M N
+8D 48M O
+GMT+1 
+Malaga, Spanien 
+36D 43M N
+4D 25M W
+MEZ 
+Malang, Indonesien 
+7D 59M S
+112D 45M O
+GMT+7 
+Malden Bridge, New York (USA) 
+42D 28M N
+73D 38M W
+EST 
+Male, Malediven 
+4D 00M N
+73D 28M O
+GMT+5 
+Malmoe, Schweden 
+55D 36M N
+13D 00M O
+MEZ 
+Managua, Nicaragua 
+12D 09M N
+86D 17M W
+GMT-6 
+Manama, Bahrain 
+26D 12M N
+50D 38M O
+GMT+3 
+Manaus, Brasilien 
+3D 08M S
+60D 01M W
+GMT-3 
+Manchester, Grossbritannien 
+53D 28M N
+2D 14M W
+GMT 
+Manchester, New Hampshire (USA) 
+42D 59M N
+71D 28M W
+EST 
+Mandalay, Myanmar 
+21D 57M N
+96D 04M O
+GMT+6 
+Manila, Philippinen 
+14D 36M N
+120D 59M O
+GMT+8 
+Manizales, Kolumbien 
+5D 03M N
+75D 32M W
+GMT-5 
+Mannheim, Deutschland 
+49D 29M N
+8D 28M O
+MEZ 
+Manta, Ecuador 
+0D 59M S
+80D 44M W
+GMT-5 
+Maputo, Mosambik 
+25D 58M S
+32D 35M O
+GMT+2 
+Mar Del Plata, Argentinien 
+38D 00M S
+57D 33M W
+GMT-3 
+Maracaibo, Venezuela 
+10D 40M N
+71D 37M W
+GMT-4 
+Maracay, Venezuela 
+10D 15M N
+67D 36M W
+GMT-4 
+Maradi, Niger 
+13D 29M N
+7D 10M O
+GMT+1 
+Maroua, Kamerun 
+10D 35M N
+14D 20M O
+GMT+1 
+Marrakesch, Marokko 
+31D 49M N
+8D 00M W
+GMT+1 
+Marseille, Frankreich 
+43D 18M N
+5D 24M O
+MEZ 
+Maseru, Lesotho 
+29D 19M S
+27D 29M O
+GMT+2 
+Mashhad, Iran 
+36D 41M N
+52D 39M O
+GMT+3 
+Maskat, Oman 
+23D 37M N
+58D 38M O
+GMT+4 
+Mazar-i-Sharif, Afghanistan 
+36D 42M N
+67D 06M O
+GMT+4 
+Mbabane, Swasiland 
+26D 20M S
+31D 08M O
+GMT+2 
+Mbale, Uganda 
+1D 04M N
+34D 12M O
+GMT+3 
+Mbuji-Mayi, Zaire 
+6D 10M S
+23D 39M O
+GMT+2 
+Mechelen, Belgien 
+51D 02M N
+4D 29M O
+MEZ 
+Medan, Indonesien 
+3D 35M N
+98D 39M O
+GMT+7 
+Medellin, Kolumbien 
+6D 15M N
+74D 35M W
+GMT-5 
+Medina, Saudi-Arabien 
+24D 30M N
+39D 35M O
+GMT+3 
+Mekka, Saudi-Arabien 
+21D 27M N
+39D 49M O
+GMT+3 
+Meknes, Marokko 
+33D 53M N
+5D 37M W
+GMT+1 
+Melbourne, Australien 
+37D 50M S
+145D 00M O
+GMT+11 
+Melbourne, Florida (USA) 
+28D 05M N
+80D 36M W
+EST 
+Memphis, Tennessee (USA) 
+35D 09M N
+90D 03M W
+CST 
+Mendoza, Argentinien 
+32D 53M S
+68D 49M W
+GMT-3 
+Merida, Mexiko 
+20D 58M N
+89D 37M W
+GMT-6 
+Meridian, Mississippi (USA) 
+32D 22M N
+88D 42M W
+CST 
+Mexicali, Mexiko 
+32D 36M N
+115D 30M W
+GMT-8 
+Mexico City, Mexiko 
+19D 24M N
+99D 09M W
+GMT-6 
+Miami, Florida (USA) 
+25D 47M N
+80D 12M W
+EST 
+Middletown, Ohio (USA) 
+39D 31M N
+84D 24M W
+EST 
+Midland, Texas (USA) 
+32D 00M N
+102D 05M W
+CST 
+Milwaukee, Wisconsin (USA) 
+43D 02M N
+87D 54M W
+CST 
+Mindelo, Kapverden 
+16D 54M N
+25D 00M W
+GMT-1 
+Minneapolis, Minnesota (USA) 
+44D 59M N
+93D 16M W
+CST 
+Minsk, Weissrussland
+53D 54M N
+27D 34M O
+GMT+3 
+Miskolc, Ungarn 
+48D 07M N
+20D 47M O
+MEZ 
+Mobile, Alabama (USA) 
+30D 42M N
+88D 03M W
+CST 
+Moers, Deutschland 
+51D 27M N
+6D 39M O
+MEZ 
+Mogadischu, Somalia 
+2D 02M N
+45D 21M O
+GMT+3 
+Mombasa, Kenia 
+4D 04M S
+39D 40M O
+GMT+3 
+Monaco, Monaco 
+43D 44M N
+7D 25M O
+MEZ 
+Moenchengladbach, Deutschland 
+51D 12M N
+6D 26M O
+MEZ 
+Monroe, Louisiana (USA) 
+32D 30M N
+92D 07M W
+CST 
+Monrovia, Liberia 
+6D 20M N
+10D 46M W
+GMT 
+Mons, Belgien 
+50D 28M N
+3D 58M O
+MEZ 
+Monte Carlo, Monaco 
+43D 44M N
+7D 25M O
+MEZ 
+Montego Bay, Jamaika 
+18D 27M N
+77D 56M W
+GMT-5 
+Monterrey, Mexiko 
+25D 40M N
+100D 19M W
+GMT-6 
+Montevideo, Uruguay 
+34D 53M S
+56D 11M W
+GMT-3 
+Montgomery, Alabama (USA) 
+32D 23M N
+86D 19M W
+CST 
+Montpellier, Frankreich 
+43D 36M N
+3D 53M O
+MEZ 
+Montreal, Kanada 
+45D 30M N
+73D 35M W
+GMT-5 
+Mopti, Mali 
+14D 29M N
+4D 10M W
+GMT 
+Moratuwa, Sri Lanka 
+6D 47M N
+79D 53M O
+GMT+5 
+Moroni, Komoren 
+11D 40M S
+43D 16M O
+GMT+3 
+Moskau, Russland 
+55D 45M N
+37D 35M O
+GMT+3 
+Mossul, Irak 
+36D 21M N
+43D 08M O
+GMT+3 
+Moulmein, Myanmar 
+16D 30M N
+97D 39M O
+GMT+6 
+Mount Vernon, New York (USA) 
+40D 55M N
+73D 49M W
+EST 
+Mukalla, Jemen 
+14D 34M N
+49D 07M O
+GMT+3 
+Muelheim, Deutschland 
+51D 26M N
+6D 53M O
+MEZ 
+Multan, Pakistan 
+30D 10M N
+71D 36M O
+GMT+5 
+Muenchen, Deutschland 
+48D 09M N
+11D 35M O
+MEZ 
+Muncie, Indiana (USA) 
+40D 11M N
+85D 23M W
+CST 
+Muenster, Deutschland 
+51D 58M N
+7D 38M O
+MEZ 
+Mwanza, Tansania 
+2D 31M S
+32D 56M O
+GMT+3 
+N'djamena, Tschad 
+12D 10M N
+14D 59M O
+GMT+1 
+Nacala, Mosambik 
+14D 33M S
+40D 40M O
+GMT+2 
+Nagasaki, Japan 
+32D 48M N
+129D 55M O
+GMT+9 
+Nagoya, Japan 
+35D 08M N
+136D 53M O
+GMT+9 
+Nagpur, Indien 
+21D 10M N
+79D 12M O
+GMT+5 
+Nairobi, Kenia 
+1D 17M S
+36D 49M O
+GMT+3 
+Najaf, Irak 
+31D 59M N
+44D 19M O
+GMT+3 
+Nakhon Rathisama, Thailand 
+15D 00M N
+102D 06M O
+GMT+7 
+Nakhon Si Thammarat, Thailand 
+8D 24M N
+99D 58M O
+GMT+7 
+Nakuru, Kenia 
+0D 16M S
+36D 04M O
+GMT+3 
+Namur, Belgien 
+50D 28M N
+4D 52M O
+MEZ 
+Nanjing, China 
+32D 03M N
+118D 47M O
+GMT+8 
+Nantes, Frankreich 
+47D 13M N
+1D 33M W
+MEZ 
+Nashua, New Hampshire (USA) 
+42D 45M N
+71D 28M W
+EST 
+Nashville, Tennessee (USA) 
+36D 10M N
+86D 47M W
+CST 
+Nassau, Bahamas 
+25D 05M N
+77D 21M W
+GMT-5 
+Natchez, Mississippi (USA) 
+31D 34M N
+91D 23M W
+CST 
+Natitingou, Benin 
+10D 17M N
+1D 29M O
+GMT+1 
+Ndola, Sambia 
+13D 00M S
+28D 39M O
+GMT+2 
+Neapel, Italien 
+40D 50M N
+14D 15M O
+MEZ 
+Nee Soon, Singapur 
+1D 24M N
+103D 49M O
+GMT+7 
+Neu-Delhi, Indien 
+28D 36M N
+77D 12M O
+GMT+5 
+Neuchatel, Schweiz 
+46D 59M N
+6D 56M O
+MEZ 
+Neuss, Deutschland 
+51D 12M N
+6D 42M O
+MEZ 
+New Bedford, Massachusetts (USA) 
+41D 38M N
+70D 56M W
+EST 
+New Haven, Connecticut (USA) 
+41D 18M N
+72D 55M W
+EST 
+New Orleans, Louisiana (USA) 
+29D 57M N
+90D 04M W
+CST 
+New York, New York (USA) 
+40D 45M N
+74D 00M W
+EST 
+Newark, New Jersey (USA) 
+40D 44M N
+74D 10M W
+EST 
+Newcastle, Australien 
+32D 55M S
+151D 45M O
+GMT+11 
+Newport News, Virginia (USA) 
+36D 59M N
+76D 25M W
+EST 
+Newport, Rhode Island (USA) 
+41D 29M N
+71D 19M W
+EST 
+Nha Trang, Vietnam 
+12D 15M N
+109D 10M O
+GMT+7 
+Niagara Falls, New York (USA) 
+43D 06M N
+79D 03M W
+EST 
+Niamey, Niger 
+13D 32M N
+2D 05M O
+GMT+1 
+Nice, Frankreich 
+43D 42M N
+7D 15M O
+MEZ 
+Nijmegen, Niederlande 
+51D 50M N
+5D 52M O
+MEZ 
+Nikosia, Zypern 
+35D 11M N
+33D 23M O
+GMT+2 
+Nisch, Serbien
+43D 20M N
+21D 54M O
+MEZ 
+Nordpol 
+89D 59M N
+00D 00M W
+GMT 
+Norfolk, Virginia (USA) 
+36D 51M N
+76D 17M W
+EST 
+Norrkoeping, Schweden 
+58D 35M N
+16D 10M O
+MEZ 
+Norwich, Connecticut (USA) 
+41D 31M N
+72D 05M W
+EST 
+Nouadhibou, Mauretanien 
+20D 54M N
+17D 01M W
+GMT 
+Nouakchott, Mauretanien 
+18D 09M N
+15D 58M W
+GMT 
+Nova Iguacu, Brasilien 
+22D 45M S
+43D 28M W
+GMT-3 
+Novi Sad, Serbien
+45D 15M N
+19D 51M O
+MEZ 
+Novosibirsk, Russland
+55D 02M N
+82D 55M O
+GMT+7 
+Nuku'alofa, Tonga 
+21D 09M S
+175D 14M W
+GMT+1 
+Nuernberg, Deutschland 
+49D 27M N
+11D 05M O
+MEZ 
+Nzerekore, Guinea 
+7D 45M N
+8D 49M W
+GMT 
+Oakland, California (USA) 
+37D 48M N
+122D 16M W
+PST 
+Oberhausen, Deutschland 
+51D 28M N
+6D 51M O
+MEZ 
+Odense, Daenemark 
+55D 24M N
+10D 25M O
+MEZ 
+Odessa, Ukraine
+46D 28M N
+30D 44M O
+GMT+3 
+Odessa, Texas (USA) 
+31D 51M N
+102D 22M W
+CST 
+Offenbach, Deutschland 
+50D 06M N
+8D 46M O
+MEZ 
+Ogbomosho, Nigeria 
+8D 05M N
+4D 11M O
+GMT+1 
+Ogden, Utah (USA) 
+41D 14M N
+111D 58M W
+MST 
+Oklahoma City, Oklahoma (USA) 
+35D 28M N
+97D 31M W
+CST 
+Oldenburg, Deutschland 
+53D 10M N
+8D 12M O
+MEZ 
+Olomouc, Tschechien
+49D 38M N
+17D 15M O
+MEZ 
+Omaha, Nebraska (USA) 
+41D 16M N
+95D 56M W
+CST 
+Omdurman, Sudan 
+15D 37M N
+32D 29M O
+GMT+2 
+Omsk, Russland 
+55D 00M N
+73D 24M O
+GMT+7 
+Oostende, Belgien 
+51D 13M N
+2D 55M O
+MEZ 
+Oran, Algerien 
+35D 45M N
+0D 38M W
+GMT+1 
+Orange Walk, Belize 
+18D 06M N
+88D 31M W
+GMT-6 
+Oranjestad, Niederlaendische Antillen 
+12D 32M N
+70D 02M W
+GMT-4 
+Oerebro, Schweden 
+59D 18M N
+15D 05M O
+MEZ 
+Orlando, Florida (USA) 
+28D 33M N
+81D 23M W
+EST 
+Oruro, Bolivien 
+17D 59M S
+67D 08M W
+GMT-4 
+Osaka, Japan 
+34D 40M N
+135D 30M O
+GMT+9 
+Oshkosh, Wisconsin (USA) 
+44D 01M N
+88D 33M W
+CST 
+Osijek, Kroatien
+45D 33M N
+18D 41M O
+MEZ 
+Oslo, Norwegen 
+59D 55M N
+10D 44M O
+MEZ 
+Osnabrueck, Deutschland 
+52D 16M N
+8D 03M O
+MEZ 
+Ostrava, Tschechien
+49D 50M N
+18D 15M O
+MEZ 
+Ottawa, Kanada 
+45D 25M N
+75D 42M W
+GMT-5 
+Ouagadougou, Burkina Faso 
+12D 22M N
+1D 31M W
+GMT 
+Oujda, Marokko 
+34D 41M N
+1D 45M W
+GMT+1 
+Oulu, Finnland 
+65D 00M N
+25D 26M O
+GMT+2 
+Owensboro, Kentucky (USA) 
+37D 46M N
+87D 07M W
+CST 
+Oxford, Grossbritannien 
+51D 45M N
+1D 15M W
+GMT 
+Padang, Indonesien 
+6D 12M S
+120D 27M O
+GMT+7 
+Paderborn, Deutschland 
+51D 43M N
+8D 46M O
+MEZ 
+Pakse, Laos 
+14D 09M N
+105D 50M O
+GMT+7 
+Palembang, Indonesien 
+2D 59M S
+104D 45M O
+GMT+7 
+Palermo, Italien 
+38D 07M N
+13D 22M O
+MEZ 
+Palm Springs, California (USA) 
+33D 50M N
+116D 33M W
+PST 
+Palma De Mallorca, Spanien 
+39D 35M N
+2D 39M O
+MEZ 
+Panama City, Panama 
+8D 57M N
+79D 32M W
+GMT-5 
+Panchiao, Taiwan 
+25D 01M N
+121D 27M O
+GMT+8 
+Papeete, Tahiti 
+17D 32M S
+149D 34M W
+GMT-1 
+Paramaribo, Surinam 
+5D 50M N
+55D 13M W
+GMT-3 
+Paris, Frankreich 
+48D 52M N
+2D 20M O
+MEZ 
+Pasadena, California (USA) 
+34D 09M N
+118D 09M W
+PST 
+Pasay, Philippinen 
+14D 33M N
+121D 00M O
+GMT+8 
+Paterson, New Jersey (USA) 
+40D 55M N
+74D 10M W
+EST 
+Patras, Griechenland 
+38D 14M N
+21D 44M O
+GMT+2 
+Pau, Frankreich 
+43D 18M N
+0D 22M W
+MEZ 
+Paysandu, Uruguay 
+32D 21M S
+58D 05M W
+GMT-3 
+Pecs, Ungarn 
+46D 04M N
+18D 15M O
+MEZ 
+Pedro Juan Caballero, Paraguay 
+22D 30M S
+55D 44M W
+GMT-4 
+Pensacola, Florida (USA) 
+30D 25M N
+87D 13M W
+CST 
+Peoria, Illinois (USA) 
+40D 42M N
+89D 36M W
+CST 
+Pereira, Kolumbien 
+4D 47M N
+75D 46M W
+GMT-5 
+Perm, Russland 
+58D 00M N
+56D 15M O
+GMT+5 
+Perth, Australien 
+31D 56M S
+115D 50M O
+GMT+8 
+Petach Tikwa, Israel 
+31D 52M N
+34D 55M O
+GMT+2 
+Petersburg, Virginia (USA) 
+37D 14M N
+77D 24M W
+EST 
+Petingen, Luxemburg 
+49D 33M N
+5D 53M O
+MEZ 
+Pforzheim, Deutschland 
+48D 53M N
+8D 42M O
+MEZ 
+Philadelphia, Pennsylvania (USA) 
+39D 57M N
+75D 09M W
+EST 
+Phnom Penh, Kambodscha 
+11D 33M N
+104D 55M O
+GMT+7 
+Phoenix, Arizona (USA) 
+33D 27M N
+112D 04M W
+MST 
+Pinang, Malaysia 
+5D 30M N
+100D 28M O
+GMT+8 
+Pine Bluff, Arkansas (USA) 
+34D 13M N
+92D 01M W
+CST 
+Piraeus, Griechenland 
+37D 57M N
+23D 42M O
+GMT+2 
+Pittsburgh, Pennsylvania (USA) 
+40D 26M N
+80D 00M W
+EST 
+Pittsfield, Massachusetts (USA) 
+42D 27M N
+73D 15M W
+EST 
+Piura, Peru 
+5D 15M S
+80D 38M W
+GMT-5 
+Plovdiv, Bulgarien 
+42D 08M N
+24D 45M O
+GMT+2 
+Plymouth, Grossbritannien 
+50D 23M N
+4D 06M W
+GMT 
+Plzen, Tschechien
+49D 45M N
+13D 25M O
+MEZ 
+Pocatello, Idaho (USA) 
+42D 52M N
+112D 27M W
+MST 
+Pointe-Noire, Kongo 
+4D 46M S
+11D 53M O
+GMT+1 
+Poona, Indien 
+18D 34M N
+73D 58M O
+GMT+5 
+Pori, Finnland 
+61D 28M N
+21D 45M O
+GMT+2 
+Port Arthur, Texas (USA) 
+29D 54M N
+93D 56M W
+CST 
+Port Elizabeth, Suedafrika 
+33D 58M S
+25D 36M O
+GMT+2 
+Port Louis, Mauritius 
+20D 10M S
+57D 30M O
+GMT+4 
+Port Moresby, Papua-Neuguinea 
+9D 29M S
+147D 08M O
+GMT+1 
+Port Of Spain, Trinidad & Tobago 
+10D 39M N
+61D 31M W
+GMT-4 
+Port Said, AEgypten 
+31D 17M N
+32D 18M O
+GMT+2 
+Port Sudan, Sudan 
+19D 38M N
+37D 07M O
+GMT+2 
+Port Vila, Vanuatu 
+17D 45M S
+168D 18M O
+GMT+1 
+Port-au-Prince, Haiti 
+18D 32M N
+72D 20M W
+GMT-5 
+Port-Gentil, Gabun 
+0D 40M S
+8D 50M O
+GMT+1 
+Portland, Maine (USA) 
+43D 40M N
+70D 15M W
+EST 
+Portland, Oregon (USA) 
+45D 31M N
+122D 41M W
+PST 
+Porto Alegre, Brasilien 
+8D 58M S
+67D 48M W
+GMT-3 
+Porto Novo, Benin 
+6D 30M N
+2D 47M O
+GMT+1 
+Porto, Portugal 
+41D 09M N
+8D 37M W
+GMT 
+Portoviejo, Ecuador 
+1D 07M S
+80D 28M W
+GMT-5 
+Portsmouth, Dominica 
+15D 34M N
+61D 27M W
+GMT-4 
+Posen, Polen 
+52D 25M N
+16D 53M O
+MEZ 
+Potosi, Bolivien 
+19D 35M S
+65D 45M W
+GMT-4 
+Potsdam, Deutschland 
+52D 24M N
+13D 04M O
+MEZ 
+Poughkeepsie, New York (USA) 
+41D 42M N
+73D 56M W
+EST 
+Praha, Tschechien
+50D 04M N
+14D 27M O
+MEZ 
+Praia, Kapverden 
+14D 55M N
+23D 30M W
+GMT-1 
+Pretoria, Suedafrika 
+25D 45M S
+28D 12M O
+GMT+2 
+Providence, Rhode Island (USA) 
+41D 50M N
+71D 25M W
+EST 
+Provo, Utah (USA) 
+40D 14M N
+111D 39M W
+MST 
+Puebla De Zaragoza, Mexiko 
+28D 31M N
+100D 54M W
+GMT-6 
+Puebla, Mexiko 
+19D 03M N
+98D 12M W
+GMT-6 
+Pueblo, Colorado (USA) 
+38D 16M N
+104D 37M W
+MST 
+Puerto Barrios, Guatemala 
+15D 41M N
+88D 32M W
+GMT-6 
+Puerto Plata, Dominikan. Republik
+19D 48M N
+70D 41M W
+GMT-4 
+Puerto Stroessner, Paraguay 
+25D 32M S
+54D 34M W
+GMT-4 
+Puntarenas, Costa Rica 
+10D 00M N
+84D 50M W
+GMT-6 
+Pusan, Korea 
+35D 06M N
+129D 03M O
+GMT+9 
+Pyoengyang, Nordkorea 
+39D 01M N
+125D 45M O
+GMT+9 
+Pyuthan, Nepal 
+28D 05M N
+82D 53M O
+GMT+5 
+Quebec, Kanada 
+46D 49M N
+71D 13M W
+GMT-5 
+Quezaltenango, Guatemala 
+14D 50M N
+91D 30M W
+GMT-6 
+Quezon City, Philippinen 
+14D 39M N
+121D 02M O
+GMT+8 
+Qui Nhon, Vietnam 
+13D 47M N
+109D 11M O
+GMT+7 
+Quito, Ecuador 
+0D 13M S
+78D 30M W
+GMT-5 
+Rabat, Marokko 
+34D 02M N
+6D 51M W
+GMT+1 
+Rabaul, Papua-Neuguinea 
+4D 13M S
+152D 11M O
+GMT+1 
+Raleigh, North Carolina (USA) 
+35D 47M N
+78D 38M W
+EST 
+Ramat Gan, Israel 
+32D 04M N
+34D 48M O
+GMT+2 
+Rancagua, Chile 
+34D 10M S
+70D 45M W
+GMT-4 
+Randers, Daenemark 
+56D 28M N
+10D 03M O
+MEZ 
+Rangoon, Myanmar 
+16D 47M N
+96D 10M O
+GMT+6 
+Rapid City, South Dakota (USA) 
+44D 05M N
+103D 14M W
+MST 
+Raqqa, Syrien 
+35D 57M N
+39D 03M O
+GMT+3 
+Rawalpindi, Pakistan 
+33D 40M N
+73D 08M O
+GMT+5 
+Recife, Brasilien 
+8D 06M S
+34D 53M W
+GMT-3 
+Recklinghausen, Deutschland 
+51D 37M N
+7D 12M O
+MEZ 
+Regensburg, Deutschland 
+49D 01M N
+12D 06M O
+MEZ 
+Regina, Kanada 
+50D 25M N
+104D 39M W
+CST 
+Remich, Luxemburg 
+49D 33M N
+6D 23M O
+MEZ 
+Remscheid, Deutschland 
+51D 11M N
+7D 12M O
+MEZ 
+Reno, Nevada (USA) 
+39D 31M N
+119D 49M W
+PST 
+Reykjavik, Island 
+64D 09M N
+21D 57M W
+GMT 
+Riad, Saudi-Arabien 
+24D 38M N
+46D 43M O
+GMT+3 
+Richmond, Virginia (USA) 
+37D 32M N
+77D 26M W
+EST 
+Riga, Lettland
+56D 57M N
+24D 06M O
+GMT+2 
+Rio De Janeiro, Brasilien 
+22D 54M S
+43D 14M W
+GMT-3 
+Rivera, Uruguay 
+31D 00M S
+55D 50M W
+GMT-3 
+Riverside, California (USA) 
+33D 59M N
+117D 22M W
+PST 
+Roanoke, Virginia (USA) 
+37D 16M N
+79D 57M W
+EST 
+Rochester, Minnesota (USA) 
+44D 01M N
+92D 28M W
+CST 
+Rochester, New York (USA) 
+43D 10M N
+77D 36M W
+EST 
+Rock Island, Illinois (USA) 
+41D 29M N
+90D 34M W
+CST 
+Rockford, Illinois (USA) 
+42D 17M N
+89D 06M W
+CST 
+Rom, Italien 
+41D 54M N
+12D 29M O
+MEZ 
+Roodepoort, Suedafrika 
+26D 10M S
+27D 53M O
+GMT+2 
+Rosario, Argentinien 
+32D 57M S
+60D 40M W
+GMT-3 
+Roseau, Dominica 
+15D 18M N
+61D 23M W
+GMT-4 
+Roskilde, Daenemark 
+55D 39M N
+12D 07M O
+MEZ 
+Rostock, Deutschland 
+54D 05M N
+12D 08M O
+MEZ 
+Rostow, Russland 
+47D 14M N
+39D 42M O
+GMT+3 
+Rotterdam, Niederlande 
+51D 55M N
+4D 29M O
+MEZ 
+Ruse, Bulgarien 
+43D 50M N
+27D 59M O
+GMT+2 
+Saarbruecken, Deutschland 
+49D 14M N
+7D 00M O
+MEZ 
+Sacramento, California (USA) 
+38D 35M N
+121D 30M W
+PST 
+Safi, Marokko 
+32D 18M N
+9D 20M W
+GMT+1 
+Saginaw, Michigan (USA) 
+43D 26M N
+83D 56M W
+CST 
+Saint Augustine, Florida (USA) 
+29D 53M N
+81D 19M W
+EST 
+Saint Catharine's, Kanada 
+43D 10M N
+79D 15M W
+EST 
+Saint John's, Kanada 
+47D 33M N
+52D 43M W
+GMT-4 
+Saint Joseph, Missouri (USA) 
+39D 46M N
+94D 51M W
+CST 
+Saint Louis, Missouri (USA) 
+38D 38M N
+90D 12M W
+CST 
+Saint Paul, Minnesota (USA) 
+44D 57M N
+93D 06M W
+CST 
+Saint Petersburg, Florida (USA) 
+27D 46M N
+82D 38M W
+EST 
+Saint-Etienne, Frankreich 
+45D 26M N
+4D 23M O
+MEZ 
+Saint-Louis, Senegal 
+16D 01M N
+16D 30M W
+GMT 
+Salem, Massachusetts (USA) 
+42D 31M N
+70D 53M W
+EST 
+Salem, Oregon (USA) 
+44D 56M N
+123D 02M W
+PST 
+Salinas, California (USA) 
+36D 40M N
+121D 39M W
+PST 
+Saliyan, Nepal 
+28D 21M N
+82D 11M O
+GMT+5 
+Salt Lake City, Utah 
+40D 45M N
+111D 53M W
+MST 
+Salta, Argentinien 
+24D 47M S
+65D 25M W
+GMT-3 
+Salto, Uruguay 
+31D 27M S
+57D 50M W
+GMT-3 
+Salvador, Brasilien 
+12D 59M S
+38D 31M W
+GMT-3 
+Salzburg, OEsterreich 
+47D 48M N
+13D 03M O
+MEZ 
+Salzgitter, Deutschland 
+52D 05M N
+10D 20M O
+MEZ 
+San Antonio, Texas (USA) 
+29D 26M N
+98D 29M W
+CST 
+San Bernardino, California (USA) 
+34D 06M N
+117D 17M W
+PST 
+San Cristobal, Venezuela 
+7D 46M N
+72D 15M W
+GMT-4 
+San Diego, California (USA) 
+32D 43M N
+117D 09M W
+PST 
+San Francisco, California (USA) 
+37D 47M N
+122D 25M W
+PST 
+San Jose, California (USA) 
+37D 20M N
+121D 53M W
+PST 
+San Jose, Costa Rica 
+9D 56M N
+84D 05M W
+GMT-6 
+San Juan, Argentinien 
+31D 32M S
+68D 31M W
+GMT-3 
+San Juan, Dominikan. Republik
+18D 49M N
+71D 12M W
+GMT-4 
+San Juan, Puerto Rico 
+18D 28M N
+66D 07M W
+GMT-5 
+San Lorenzo, Paraguay 
+25D 20M S
+57D 32M W
+GMT-4 
+San Luis Potosi, Mexiko 
+22D 09M N
+100D 59M W
+GMT-6 
+San Marino, San Marino 
+43D 55M N
+12D 28M O
+MEZ 
+San Miguel de Tucuman, Argentinien 
+26D 47M S
+65D 15M W
+GMT-3 
+San Miguel, El Salvador 
+13D 28M N
+88D 10M W
+GMT-6 
+San Pedro Sula, Honduras 
+15D 26M N
+88D 01M W
+GMT-6 
+San Salvador, El Salvador 
+13D 42M N
+89D 12M W
+GMT-6 
+Sana, Jemen 
+15D 23M N
+44D 12M O
+GMT+3 
+Sankt Poelten, OEsterreich 
+48D 13M N
+15D 37M O
+MEZ 
+Sansibar, Tansania 
+6D 12M S
+39D 12M O
+GMT+3 
+Santa Ana, El Salvador 
+14D 00M N
+89D 31M W
+GMT-6 
+Santa Barbara, California (USA) 
+34D 25M N
+119D 42M W
+PST 
+Santa Clara, Kuba 
+22D 25M N
+79D 58M W
+GMT-5 
+Santa Cruz, Bolivien 
+17D 48M S
+63D 10M W
+GMT-4 
+Santa Fe, Argentinien 
+31D 35M S
+60D 41M W
+GMT-3 
+Santa Fe, New Mexico (USA) 
+35D 41M N
+105D 56M W
+MST 
+Santa Rosa, California (USA) 
+38D 26M N
+122D 43M W
+PST 
+Santiago De Chile, Chile 
+33D 27M S
+70D 40M W
+GMT-4 
+Santiago De Cuba, Kuba 
+20D 00M N
+75D 49M W
+GMT-5 
+Santiago, Dominikan. Republik
+19D 30M N
+70D 40M W
+GMT-4 
+Santiago, Panama 
+8D 08M N
+80D 59M W
+GMT-5 
+Santo Domingo, Dominikan. Republik
+18D 28M N
+69D 54M W
+GMT-4 
+Sao Paulo, Brasilien 
+23D 32M S
+46D 37M W
+GMT-3 
+Sao Tome, Sao Tome Und Principe 
+0D 12M N
+6D 43M O
+GMT 
+Sapporo, Japan 
+43D 03M N
+141D 21M O
+GMT+9 
+Sarajewo, Bosnien und Herzegowina
+43D 50M N
+18D 25M O
+MEZ 
+Sarh, Tschad 
+9D 08M N
+18D 22M O
+GMT+1 
+Savannah, Georgia (USA) 
+32D 05M N
+81D 06M W
+EST 
+Savannakhet, Laos 
+16D 34M N
+104D 45M O
+GMT+7 
+Schaffhausen, Schweiz 
+47D 40M N
+8D 40M O
+MEZ 
+Schenectady, New York (USA) 
+42D 49M N
+73D 57M W
+EST 
+Schwerin, Deutschland 
+53D 38M N
+11D 23M O
+MEZ 
+Scranton, Pennsylvania (USA) 
+41D 25M N
+75D 40M W
+EST 
+Seattle, Washington (USA) 
+47D 37M N
+122D 20M W
+PST 
+Segou, Mali 
+13D 28M N
+6D 18M W
+GMT 
+Semarang, Indonesien 
+6D 58M S
+110D 29M O
+GMT+7 
+Seoul, Korea 
+37D 34M N
+127D 00M O
+GMT+9 
+Serangoon, Singapur 
+1D 23M N
+103D 55M O
+GMT+7 
+Serka, Jordanien 
+32D 04M N
+36D 06M O
+GMT+2 
+Serres, Griechenland 
+41D 05M N
+23D 31M O
+GMT+2 
+Setif, Algerien 
+36D 11M N
+5D 24M O
+GMT+1 
+Setubal, Portugal 
+38D 31M N
+8D 54M W
+GMT 
+Sevilla, Spanien 
+37D 23M N
+5D 59M W
+MEZ 
+Sfax, Tunesien 
+34D 45M N
+10D 43M O
+GMT+1 
+Shanghai, China 
+31D 14M N
+121D 28M O
+GMT+8 
+Sharjah, Vereinigte Arabische Emirate
+25D 20M N
+55D 26M O
+GMT+4 
+Sheffield, Grossbritannien 
+53D 23M N
+1D 30M W
+GMT 
+Shenyang, China 
+41D 50M N
+123D 26M O
+GMT+8 
+Shiraz, Iran 
+29D 38M N
+52D 34M O
+GMT+3 
+Shkoder, Albanien 
+42D 03M N
+19D 01M O
+MEZ 
+Shreveport, Louisiana (USA) 
+32D 31M N
+93D 45M W
+CST 
+Shubra Al-khaima, AEgypten 
+30D 06M N
+31D 15M O
+GMT+2 
+Sidi-Bel-Abbes, Algerien 
+35D 15M N
+0D 39M W
+GMT+1 
+Siegen, Deutschland 
+50D 52M N
+8D 02M O
+MEZ 
+Siguiri, Guinea 
+11D 28M N
+9D 07M W
+GMT 
+Sikasso, Mali 
+11D 18M N
+5D 38M W
+GMT 
+Singapur, Singapur 
+1D 17M N
+103D 51M O
+GMT+7 
+Sioux City, Iowa (USA) 
+42D 30M N
+96D 24M W
+CST 
+Sioux Falls, South Dakota (USA) 
+43D 33M N
+96D 44M W
+CST 
+Skopje, Mazedonien
+42D 00M N
+21D 29M O
+MEZ 
+Sliema, Malta 
+35D 55M N
+14D 31M O
+MEZ 
+Sofia, Bulgarien 
+42D 41M N
+23D 19M O
+GMT+2 
+Solingen, Deutschland 
+51D 11M N
+7D 05M O
+MEZ 
+Songkhla, Thailand 
+7D 12M N
+100D 35M O
+GMT+7 
+Sosnowitz, Polen 
+50D 16M N
+19D 07M O
+MEZ 
+South Bend, Indiana (USA) 
+41D 41M N
+86D 15M W
+EST 
+Southampton, Grossbritannien 
+50D 54M N
+1D 23M W
+GMT 
+Spartanburg, South Carolina (usa 
+34D 56M N
+81D 57M W
+EST 
+Split, Kroatien
+43D 31M N
+16D 28M O
+MEZ 
+Spokane, Washington (USA) 
+47D 40M N
+117D 26M W
+PST 
+Springfield, Illinois (USA) 
+39D 48M N
+89D 39M W
+CST 
+Springfield, Massachusetts (USA) 
+42D 06M N
+72D 36M W
+EST 
+Springfield, Missouri (USA) 
+37D 13M N
+93D 18M W
+CST 
+St.catharine's, Kanada 
+45D 24M N
+73D 34M W
+GMT-5 
+St.gallen, Schweiz 
+47D 25M N
+9D 23M O
+MEZ 
+St.george's, Bermuda-Inseln 
+32D 24M N
+64D 42M W
+GMT-4 
+St.george's, Grenada 
+12D 04M N
+61D 44M W
+GMT-4 
+St.john's, Antigua 
+17D 08M N
+61D 50M W
+GMT-4 
+St.laurent, Franzoesisch-Guayana 
+5D 29M N
+54D 03M W
+GMT-3 
+Stamford, Connecticut (USA) 
+41D 03M N
+73D 32M W
+EST 
+Stara Zagora, Bulgarien 
+42D 25M N
+25D 37M O
+GMT+2 
+Stavanger, Norwegen 
+58D 58M N
+5D 45M O
+MEZ 
+Stettin, Polen 
+53D 25M N
+14D 32M O
+MEZ 
+Steyr, OEsterreich 
+48D 04M N
+14D 25M O
+MEZ 
+Stockholm, Schweden 
+59D 20M N
+18D 03M O
+MEZ 
+Stockton, California (USA) 
+37D 57M N
+121D 17M W
+PST 
+Strasbourg, Frankreich 
+48D 35M N
+7D 45M O
+MEZ 
+Stuttgart, Deutschland 
+48D 46M N
+9D 11M O
+MEZ 
+Sucre, Bolivien 
+19D 02M S
+65D 17M W
+GMT-4 
+Sudbury, Kanada 
+46D 30M N
+81D 00M W
+GMT-5 
+Suedpol 
+89D 59M S
+00D 00M W
+GMT 
+Suez, AEgypten 
+29D 59M N
+32D 33M O
+GMT+2 
+Sunnyvale, California (USA) 
+37D 23M N
+122D 02M W
+PST 
+Surabaya, Indonesien 
+7D 14M S
+112D 45M O
+GMT+7 
+Surakarta, Indonesien 
+7D 32M S
+110D 50M O
+GMT+7 
+Suva, Fidschi 
+18D 08M S
+178D 25M O
+GMT+1 
+Swerdlowsk, Ukraine
+56D 51M N
+60D 36M O
+GMT+5 
+Sydney, Australien 
+33D 53M S
+151D 12M O
+GMT+10
+Syracuse, New York (USA) 
+43D 03M N
+76D 09M W
+EST 
+Szeged, Ungarn 
+46D 15M N
+20D 09M O
+MEZ 
+Tabouk, Saudi-Arabien 
+28D 22M N
+36D 32M O
+GMT+3 
+Tabriz, Iran 
+38D 05M N
+46D 18M O
+GMT+3 
+Tacoma, Washington (USA) 
+47D 15M N
+122D 26M W
+PST 
+Taegu, Korea 
+35D 52M N
+128D 36M O
+GMT+9 
+Taejeon, Korea 
+36D 20M N
+127D 26M O
+GMT+9 
+Tahoua, Niger 
+14D 57M N
+5D 19M O
+GMT+1 
+Taichung, Taiwan 
+24D 09M N
+120D 40M O
+GMT+8 
+Taif, Saudi-Arabien 
+21D 15M N
+40D 21M O
+GMT+3 
+Tainan, Taiwan 
+23D 01M N
+120D 14M O
+GMT+8 
+Taipeh, Taiwan 
+25D 03M N
+121D 30M O
+GMT+8 
+Tais, Jemen 
+13D 35M N
+44D 02M O
+GMT+3 
+Talca, Chile 
+35D 28M S
+71D 40M W
+GMT-4 
+Talcahuano, Chile 
+36D 40M S
+73D 10M W
+GMT-4 
+Tallahassee, Florida (USA) 
+30D 27M N
+84D 17M W
+EST 
+Tamale, Ghana 
+9D 26M N
+0D 49M W
+GMT 
+Tampa, Florida (USA) 
+27D 57M N
+82D 27M W
+EST 
+Tampere, Finnland 
+61D 32M N
+23D 45M O
+GMT+2 
+Tampico, Mexiko 
+22D 13M N
+97D 51M W
+GMT-5 
+Tanga, Tansania 
+5D 07M S
+30D 50M O
+GMT+3 
+Tanger, Marokko 
+35D 48M N
+5D 50M W
+GMT+1 
+Tanta, AEgypten 
+30D 48M N
+31D 00M O
+GMT+2 
+Tarawa, Kiribati 
+1D 30M N
+173D 00M O
+GMT-1 
+Taschkent, Usbekistan
+41D 20M N
+69D 18M O
+GMT+6 
+Taunggyi, Myanmar 
+20D 55M N
+96D 53M O
+GMT+6 
+Tbilisi, Georgien
+41D 42M N
+44D 45M O
+GMT+3 
+Tegucigalpa, Honduras 
+14D 06M N
+87D 13M W
+GMT-6 
+Teheran, Iran 
+35D 40M N
+51D 26M O
+GMT+3 
+Tel Aviv, Israel 
+32D 05M N
+34D 46M O
+GMT+2 
+Temeschburg, Rumaenien 
+45D 45M N
+21D 15M O
+GMT+2 
+Tempe, Arizona (USA) 
+33D 25M N
+111D 56M W
+PST 
+Temuco, Chile 
+38D 45M S
+72D 40M W
+GMT-4 
+Ternitz, OEsterreich 
+47D 43M N
+16D 02M O
+MEZ 
+Terre Haute, Indiana (USA) 
+39D 28M N
+87D 24M W
+EST 
+Tetouan, Marokko 
+35D 34M N
+5D 22M W
+GMT+1 
+Thessaloniki, Griechenland 
+40D 38M N
+22D 58M O
+GMT+2 
+Thies, Senegal 
+14D 49M N
+16D 52M W
+GMT 
+Thimbu, Bhutan 
+27D 32M N
+89D 45M O
+GMT+5 
+Thun, Schweiz 
+46D 46M N
+7D 38M O
+MEZ 
+Tianjin, China 
+39D 08M N
+117D 12M O
+GMT+8 
+Tijuana, Mexiko 
+32D 32M N
+117D 01M W
+GMT-8 
+Tilburg, Niederlande 
+51D 34M N
+5D 05M O
+MEZ 
+Timbuktu, Mali 
+16D 46M N
+3D 01M W
+GMT 
+Tirana, Albanien 
+41D 20M N
+19D 50M O
+MEZ 
+Tlemcen, Algerien 
+34D 53M N
+1D 21M W
+GMT+1 
+Toamasina, Madagaskar 
+18D 10M S
+49D 23M O
+GMT+3 
+Tokyo, Japan 
+35D 42M N
+139D 46M O
+GMT+9 
+Toledo, Ohio (USA) 
+41D 39M N
+83D 33M W
+EST 
+Toliary, Madagaskar 
+23D 20M S
+43D 41M O
+GMT+3 
+Topeka, Kansas (USA) 
+39D 03M N
+95D 40M W
+CST 
+Toronto, Kanada 
+43D 39M N
+79D 23M W
+GMT-5 
+Torreon, Mexiko 
+25D 33M N
+103D 26M W
+GMT-6 
+Toulouse, Frankreich 
+43D 37M N
+1D 27M O
+MEZ 
+Tours, Frankreich 
+47D 23M N
+0D 41M O
+MEZ 
+Traun, OEsterreich 
+48D 13M N
+14D 14M O
+MEZ 
+Trenton, New Jersey (USA) 
+40D 13M N
+74D 46M W
+EST 
+Tripoli, Libanon 
+34D 27M N
+35D 50M O
+GMT+2 
+Tripolis, Libyen 
+32D 54M N
+13D 11M O
+GMT+1 
+Trondheim, Norwegen 
+63D 25M N
+10D 25M O
+MEZ 
+Troy, New York (USA) 
+42D 44M N
+73D 41M W
+EST 
+Trujillo, Peru 
+8D 07M S
+79D 02M W
+GMT-5 
+Tschoudjo, Togo 
+8D 59M N
+1D 11M O
+GMT 
+Tsumeb, Namibia 
+19D 13M S
+17D 42M O
+GMT+2 
+Tucson, Arizona (USA) 
+32D 13M N
+110D 58M W
+PST 
+Tulsa, Oklahoma (USA) 
+36D 09M N
+96D 00M W
+CST 
+Tunis, Tunesien 
+36D 48M N
+10D 12M O
+GMT+1 
+Turin, Italien 
+45D 03M N
+7D 40M O
+MEZ 
+Turku, Finnland 
+60D 27M N
+22D 15M O
+GMT+2 
+Tuscaloosa, Alabama (USA) 
+33D 12M N
+87D 34M W
+CST 
+Ujung Padang, Indonesien 
+5D 09M S
+119D 28M O
+GMT+8 
+Ulan Bator, Mongolei 
+47D 55M N
+106D 53M O
+GMT+8 
+Ulm, Deutschland 
+48D 25M N
+10D 00M O
+MEZ 
+Umhlazi, Suedafrika 
+29D 53M S
+31D 00M O
+GMT+2 
+Uppsala, Schweden 
+59D 55M N
+17D 38M O
+MEZ 
+Utica, New York (USA) 
+43D 06M N
+75D 14M W
+EST 
+Utrecht, Niederlande 
+52D 06M N
+5D 07M O
+MEZ 
+Vaduz, Liechtenstein 
+47D 08M N
+9D 32M O
+MEZ 
+Valencia, Spanien 
+39D 28M N
+0D 22M W
+MEZ 
+Valencia, Venezuela 
+10D 11M N
+68D 00M W
+GMT-4 
+Valladolid, Spanien 
+41D 39M N
+4D 45M W
+MEZ 
+Valletta, Malta 
+35D 54M N
+14D 32M O
+MEZ 
+Valparaiso, Chile 
+33D 05M S
+71D 40M W
+GMT-4 
+Vancouver, Kanada 
+49D 17M N
+123D 07M W
+GMT-8 
+Vantaa, Finnland 
+60D 18M N
+24D 57M O
+GMT+2 
+Varna, Bulgarien 
+43D 12M N
+27D 57M O
+GMT+2 
+Vaesteras, Schweden 
+59D 36M N
+16D 32M O
+MEZ 
+Vejle, Daenemark 
+55D 43M N
+9D 33M O
+MEZ 
+Venedig, Italien 
+45D 27M N
+12D 21M O
+MEZ 
+Vera Cruz, Mexiko 
+19D 12M N
+96D 08M W
+GMT-6 
+Victoria, Hongkong 
+22D 16M N
+114D 13M O
+GMT+8 
+Victoria, Kanada 
+48D 25M N
+123D 22M W
+GMT-7 
+Victoria, Seschellen 
+4D 38M S
+55D 28M O
+GMT+4 
+Vientiane, Laos 
+17D 58M N
+102D 36M O
+GMT+7 
+Vila Nova De Gaia, Portugal 
+41D 04M N
+8D 40M W
+GMT 
+Villach, OEsterreich 
+46D 37M N
+13D 51M O
+MEZ 
+Vina Del Mar, Chile 
+33D 02M S
+71D 35M W
+GMT-4 
+Vineland, New Jersey (USA) 
+39D 29M N
+75D 02M W
+EST 
+Volos, Griechenland 
+39D 22M N
+22D 57M O
+GMT+2 
+Waco, Texas (USA) 
+31D 33M N
+97D 08M W
+CST 
+Wadi Medani, Sudan 
+14D 24M N
+33D 03M O
+GMT+2 
+Warschau, Polen 
+52D 15M N
+21D 00M O
+MEZ 
+Warwick, Rhode Island (USA) 
+41D 42M N
+71D 27M W
+EST 
+Washington, D.c. (USA) 
+38D 54M N
+77D 01M W
+EST 
+Waterbury, Connecticut (USA) 
+41D 33M N
+73D 03M W
+EST 
+Waterford, Irland 
+52D 15M N
+7D 06M W
+GMT 
+Waterloo, Iowa (USA) 
+42D 30M N
+92D 20M W
+CST 
+Wellington, Neuseeland 
+41D 28M S
+174D 51M O
+GMT+1 
+Wels, OEsterreich 
+48D 10M N
+14D 02M O
+MEZ 
+West Palm Beach, Florida (USA) 
+26D 43M N
+80D 03M W
+EST 
+Wheeling, West Virginia (USA) 
+40D 04M N
+80D 43M W
+EST 
+Wichita Falls, Texas (USA) 
+33D 55M N
+98D 29M W
+CST 
+Wichita, Kansas (USA) 
+37D 41M N
+97D 20M W
+CST 
+Wien, OEsterreich 
+48D 12M N
+16D 22M O
+MEZ 
+Wiener Neustadt, OEsterreich 
+47D 48M N
+16D 15M O
+MEZ 
+Wiesbaden, Deutschland 
+50D 05M N
+8D 15M O
+MEZ 
+Wilkes Barre, Pennsylvania (USA) 
+41D 15M N
+75D 53M W
+EST 
+Willemstad, Curacao (niederl.ant 
+12D 06M N
+68D 57M W
+GMT-4 
+Williamsburg, Virginia (USA) 
+37D 16M N
+76D 42M W
+EST 
+Williston, North Dakota (USA) 
+48D 11M N
+103D 37M W
+CST 
+Wilmington, Delaware (USA) 
+39D 45M N
+75D 33M W
+EST 
+Wilmington, North Carolina (USA) 
+34D 14M N
+77D 55M W
+EST 
+Windhuk, Namibia 
+22D 34M S
+17D 06M O
+GMT+2 
+Windsor, Kanada 
+42D 18M N
+83D 01M W
+GMT-5 
+Winnipeg, Kanada 
+49D 53M N
+97D 09M W
+GMT-6 
+Winston Salem, North Carolina (USA) 
+36D 06M N
+80D 15M W
+EST 
+Winterthur, Schweiz 
+47D 30M N
+8D 45M O
+MEZ 
+Witten, Deutschland 
+51D 26M N
+7D 20M O
+MEZ 
+Wladiwostok, Russland 
+43D 08M N
+131D 54M O
+GMT+9 
+Wolfsberg, OEsterreich 
+46D 50M N
+14D 50M O
+MEZ 
+Wolfsburg, Deutschland 
+52D 26M N
+10D 48M O
+MEZ 
+Wolgograd, Russland 
+48D 45M N
+44D 25M O
+GMT+3 
+Wollongong, Australien 
+17D 13M S
+137D 57M O
+GMT+11 
+Worcester, Massachusetts (USA) 
+42D 16M N
+71D 48M W
+EST 
+Wuhan, China 
+36D 45M N
+114D 15M O
+GMT+8 
+Wuppertal, Deutschland 
+51D 16M N
+7D 11M O
+MEZ 
+Wuerzburg, Deutschland 
+49D 48M N
+9D 56M O
+MEZ 
+Xian, China 
+34D 16M N
+108D 54M O
+GMT+8 
+Yakima, Washington (USA) 
+46D 36M N
+120D 31M W
+PST 
+Yaounde, Kamerun 
+3D 51M N
+11D 31M O
+GMT+1 
+Yaren, Nauru 
+1D 50M S
+167D 10M O
+GMT+1 
+Yokohama, Japan 
+41D 04M N
+141D 15M O
+GMT+9 
+York, Grossbritannien 
+53D 57M N
+1D 05M W
+GMT 
+York, Pennsylvania (USA) 
+39D 58M N
+76D 44M W
+EST 
+Youngstown, Pennsylvania (USA) 
+41D 06M N
+80D 39M W
+EST 
+Yunghu, Taiwan 
+24D 51M N
+120D 03M O
+GMT+8 
+Zagazig, AEgypten 
+30D 35M N
+31D 30M O
+GMT+2 
+Zagreb, Kroatien 
+45D 48M N
+16D 00M O
+MEZ 
+Zamboanga, Philippinen 
+6D 55M N
+122D 05M O
+GMT+8 
+Zaragoza, Spanien 
+41D 39M N
+0D 54M W
+MEZ 
+Ziguinchor, Senegal 
+12D 35M N
+16D 20M W
+GMT 
+Zinder, Niger 
+13D 46M N
+8D 58M O
+GMT+1 
+Zomba, Malawi 
+15D 22M S
+35D 22M O
+GMT+2 
+Zuerich, Schweiz 
+47D 22M N
+8D 31M O
+MEZ 
+Zwickau, Deutschland 
+50D 44M N
+12D 30M O
+MEZ 
+

@@ -1,0 +1,7523 @@
+alpha/And Alpheratz;S;AND;PEG
+beta/And Mirach;S;AND;PSC
+gamma/And Alamak;S;AND;TRI
+gammaB/And;S;AND;TRI
+delta/And;S;AND;PEG
+epsilon/And;S;AND;PSC
+theta/And;S;AND;CAS
+iota/And;S;AND;CAS
+omikron/And;S;AND;LAC
+pi/And;S;AND;PEG
+rho/And;S;AND;CAS
+sigma/And;S;AND;CAS
+ypsilon/And;S;AND;TRI
+chi/And;S;AND;PER
+psi/And;S;AND;CAS
+omega/And;S;AND;LAC
+AN/And;S;AND;CAS
+lambda/And;S;AND;CAS
+R/And;S;AND;CAS
+zeta/And;S;AND;PSC
+2/And;S;AND;LAC
+kappa/And;S;AND;CAS
+phi/And;S;AND;CAS
+tau/And;S;AND;TRI
+mu/And;S;AND;CAS
+nu/And;S;AND;PSC
+ Adhil;S-;AND;CAS
+alpha/Aql Altair;S;AQL;SGE
+beta/Aql Alschain;S;AQL;SGE
+gamma/Aql Tarazed;S;SGE;VUL
+delta/Aql;S;AQL;SER2
+epsilon/Aql Deneb el Okab;S;AQL;SGE
+lambda/Aql Al Thalimain Prior;S;AQL;SCT
+zeta/Aql Deneb el Okab Australis;S;AQL;SGE
+theta/Aql;S;AQL;CAP
+sigma/Aql;S;AQL;SER2
+eta/Aql;S;AQL;SER2
+iota/Aql Al Thalimain;S;AQL;SER2
+kappa/Aql;S;AQL;SCT
+mu/Aql;S;AQL;SGE
+nu/Aql;S;AQL;SER2
+xi/Aql;S;AQL;SGE
+omikron/Aql;S;SGE;AQL
+pi/Aql;S;SGE;VUL
+Tau/Aql;S;AQL;SGE
+ypsilon/Aql;S;AQL;SGE
+phi/Aql;S;SGE;AQL
+chi/Aql;S;SGE;VUL
+psi/Aql;S;SGE;VUL
+omega1/Aql;S;VUL;SGE
+omega2/Aql;S;VUL;SGE
+Y/Aql;S;AQL;SGE
+QS/Aql;S;SGE;VUL
+15/Aql;S;AQL;SCT
+23/Aql;S;AQL;SER2
+57/Aql;S;AQL;SCT
+alpha/Aqr Sadalmelik;S;PEG;AQR
+beta/Aqr Sadalsuud;S;AQR;PEG
+gamma/Aqr Sadachbia;S;AQR;PEG
+epsilon/Aqr Albali;S;AQR;CAP
+lambda/Aqr Hydor;S;PSC;AQR
+delta/Aqr Scheat;S;AQR;PSA
+tau1/Aqr;S;AQR;PSC
+tau2/Aqr;S;AQR;PSC
+eta/Aqr;S;AQR;PEG
+zeta/Aqr;S;AQR;PEG
+theta/Aqr Ancha;S;AQR;PSC
+iota/Aqr;S;AQR;CAP
+kappa/Aqr Situla;S;AQR;PEG
+mu/Aqr Albulaan;S;AQR;CAP
+nu/Aqr Albulaan;S;AQR;CAP
+ypsilon/Aqr;S;PSA;AQR
+phi/Aqr;S;PSC;AQR
+chi/Aqr;S;PSC;AQR
+psi1/Aqr;S;PSC;AQR
+psi2/Aqr;S;PSC;AQR
+psi3/Aqr;S;PSC;AQR
+omega1/Aqr;S;AQR;CAP
+omega2/Aqr;S;AQR;CAP
+88/Aqr;S;SCL;PSA
+R/Aqr;S;AQR;SCL
+R2/Aqr;S;AQL;SCT
+1/Aqr;S;AQL;AQR
+89/Aqr;S;SCL;PSA
+94/Aqr;S;AQR;CAP
+101/Aqr;S;SCL;AQR
+107/Aqr;S;SCL;AQR
+alpha/Ara Choo;S;NOR;SCO
+beta/Ara;S;ARA;TRA
+gamma/Ara;S;ARA;TRA
+delta/Ara;S;ARA;APS
+epsilon1/Ara;S;ARA;TRA
+epsilon2/Ara;S;ARA;TRA
+zeta/Ara;S;ARA;TRA
+eta/Ara;S;ARA;TRA
+theta/Ara;S;ARA;TEL
+iota/Ara;S;NOR;SCO
+kappa/Ara;S;NOR;ARA
+lambda/Ara;S;PAV;ARA
+mu/Ara;S;PAV;ARA
+nu1/Ara;S;ARA;SCO
+nu2/Ara;S;ARA;PAV
+pi/Ara;S;PAV;ARA
+rho1/Ara;S;ARA;NOR
+rho2/Ara;S;ARA;NOR
+sigma/Ara;S;SCO;NOR
+alpha/Ari Hamal;S;TRI;ARI
+beta/Ari Scheratan;S;TRI;ARI
+gamma/Ari Mesarthim;S;TRI;PSC
+delta/Ari Botein;S;ARI;TAU
+epsilon/Ari;S;ARI;TRI
+zeta/Ari;S;ARI;TRI
+eta/Ari;S;TRI;ARI
+theta/Ari;S;ARI;CET
+iota/Ari;S;TRI;ARI
+kappa/Ari;S;TRI;ARI
+lambda/Ari;S;TRI;ARI
+mu/Ari;S;ARI;TRI
+nu/Ari;S;TRI;ARI
+xi/Ari;S;CET;PSC
+omikron/Ari;S;CET;ARI
+pi/Ari;S;ARI;CET
+rho1/Ari;S;ARI;CET
+rho2/Ari;S;ARI;TRI
+rho3/Ari;S;ARI;TRI
+sigma/Ari;S;ARI;CET
+tau1/Ari;S;ARI;TAU
+tau2/Ari;S;ARI;TAU
+14/Ari;S;AND;TRI
+21/Ari;S;TRI;ARI
+33/Ari;S;TRI;PER
+41/Ari;S;TRI;PER
+SX/Ari;S;PER;TRI
+alpha/Aur Capella;S;AUR;CAM
+beta/Aur Menkalinan;S;AUR;CAM
+delta/Aur;S;AUR;CAM
+iota/Aur Hassaleh;S;TAU;AUR
+eta/Aur HaedusII;S;AUR;PER
+theta/Aur;S;TAU;AUR
+theta2/Aur;S;TAU;AUR
+kappa/Aur;S;GEM;ORI
+lambda/Aur Al Hurr;S;AUR;PER
+mu/Aur;S;AUR;TAU
+xi/Aur;S;AUR;CAM
+omikron/Aur;S;AUR;CAM
+pi/Aur;S;AUR;CAM
+epsilon/Aur Almaaz;S;CAM;AUR
+sigma/Aur;S;TAU;AUR
+nu/Aur;S;TAU;AUR
+tau/Aur;S;AUR;TAU
+upsilon/Aur;S;TAU;AUR
+phi/Aur;S;TAU;AUR
+chi/Aur;S;TAU;AUR
+psi1/Aur;S;LYN;AUR
+psi2/Aur;S;AUR;GEM
+psi3/Aur;S;AUR;GEM
+psi4/Aur;S;AUR;LYN
+psi5/Aur;S;GEM;AUR
+psi6/Aur;S;LYN;AUR
+psi7/Aur;S;AUR;LYN
+psi8/Aur;S;LYN;AUR
+psi9/Aur;S;LYN;AUR
+zeta/Aur Haedus;S;AUR;PER
+omega/Aur;S;TAU;AUR
+AE/Aur;S;AUR;TAU
+AR/Aur;S;AUR;TAU
+RT/Aur;S;GEM;ORI
+WW/Aur;S;GEM;AUR
+UU/Aur;S;GEM;AUR
+9/Aur;S;CAM;AUR
+16/Aur;S;AUR;TAU
+rho/Aur;S;AUR;PER
+alpha/Boo Arktur/Arkturus;S;BOO;CVN
+beta/Boo Nekkar;S;BOO;CVN
+gamma/Boo;S;BOO;CVN
+delta/Boo;S;BOO;CRB
+epsilon/Boo Izar;S;BOO;CVN
+zeta/Boo;S;VIR;BOO
+zeta2/Boo;S;VIR;BOO
+rho/Boo;S;BOO;CVN
+eta/Boo Muphrid/Saak;S;COM;BOO
+theta/Boo Asellus Primus;S;BOO;DRA
+tau/Boo;S;BOO;COM
+13/Boo;S;BOO;UMA
+kappa/Boo;S;BOO;UMA
+15/Boo;S;BOO;VIR
+iota/Boo Asellus Secundus;S;BOO;UMA
+18/Boo;S;VIR;BOO
+sigma/Boo;S;BOO;CVN
+pi/Boo;S;BOO;COM
+iota2/Boo;S;BOO;DRA
+xsi/Boo;S;BOO;CVN
+xsi2/Boo;S;BOO;CVN
+44/Boo;S;BOO;DRA
+45/Boo;S;BOO;DRA
+45-2/Boo;S;BOO;DRA
+mu/Boo;S;BOO;CRB
+alpha/Cae;S;CAE;ERI
+beta/Cae;S;CAE;ERI
+gamma/Cae;S;CAE;COL
+delta/Cae;S;PIC;DOR
+zeta/Cae;S;CAE;ERI
+nu/Cae;S;PIC;CAE
+alpha/Cam;S;CAM;CAS
+beta/Cam;S;CAM;AUR
+gamma/Cam;S;CAM;CEP
+TU/Cam;S;AUR;CAM
+7/Cam;S;AUR;CAM
+11/Cam;S;CAM;AUR
+BE/Cam;S;CAM;CAS
+gamma/Cam;S;CAM;CEP
+CS/Cam;S;CAM;PER
+M/Cam;S;CAM;CEP
+alpha/Cnc Akubens;S;HYA;CNC
+beta/Cnc Altarf;S;HYA;CMI
+gamma/Cnc Asellus Borealis;S;GEM;CNC
+delta/Cnc Asellus Australis;S;CNC;GEM
+epsilon/Cnc;S;GEM;CNC
+rho/Cnc;S;CNC;GEM
+X/Cnc;S;CMI;CNC
+zeta/Cnc Tegmine;S;CNC;GEM
+eta/Cnc;S;GEM;CNC
+theta/Cnc;S;GEM;CNC
+iota/Cnc;S;CNC;GEM
+kappa/Cnc;S;HYA;CNC
+lambda/Cnc;S;CNC;GEM
+mu1/Cnc;S;GEM;CNC
+mu2/Cnc;S;GEM;CNC
+nu/Cnc;S;CNC;GEM
+xi/Cnc;S;GEM;CNC
+omikron1/Cnc;S;HYA;CNC
+omikron2/Cnc;S;HYA;CNC
+pi2/Cnc;S;HYA;LEO
+pi1/Cnc;S;HYA;CNC
+rho1/Cnc;S;CNC;GEM
+rho2/Cnc;S;CNC;GEM
+sigma1/Cnc;S;LYN;CNC
+sigma2/Cnc;S;GEM;LYN
+sigma3/Cnc;S;LYN;CNC
+tau/Cnc;S;LYN;CNC
+upsilon1/Cnc;S;LYN;CNC
+upsilon2/Cnc;S;LYN;CNC
+phi1/Cnc;S;CNC;GEM
+phi2/Cnc;S;CNC;GEM
+chi/Cnc;S;CNC;GEM
+psi1/Cnc;S;GEM;CNC
+psi2/Cnc;S;GEM;CNC
+omega/Cnc;S;GEM;CNC
+alpha1/Cap Algiedi;S;AQL;CAP
+alpha11/Cap;S;AQL;CAP
+alpha2/Cap;S;AQL;CAP
+alpha21/Cap;S;AQL;CAP
+beta/Cap Dabih;S;CAP;AQL
+beta1/Cap;S;CAP;AQL
+delta/Cap Deneb Algedi;S;AQR;CAP
+gamma/Cap Nashira;S;AQR;CAP
+pi/Cap Okul;S;MIC;CAP
+rho/Cap;S;MIC;CAP
+rho1/Cap;S;MIC;CAP
+sigma/Cap;S;CAP;SGR
+theta/Cap;S;CAP;AQR
+nu/Cap;S;AQL;CAP
+eta/Cap Arm;S;CAP;AQR
+xsi/Cap;S;CAP;AQR
+zeta/Cap;S;CAP;PSA
+psi/Cap;S;CAP;MIC
+omega/Cap Baten Algiedi;S;MIC;CAP
+alpha/Car Canopus;S;CAR;PIC
+beta/Car Miaplacidus;S;CAR;VOL
+epsilon/Car She/(Avior);S;VEL;CAR
+iota/Car Tureis;S;CAR;VOL
+mu/Car;S;CAR;VOL
+theta/Car;S;CAR;VOL
+alpha/Cas Schedir;S;AND;CAS
+beta/Cas Caph;S;CAS;CEP
+gamma/Cas Cih;S;CAS;CEP
+delta/Cas Ksora;S;CAS;PER
+epsilon/Cas Segin;S;CAS;PER
+AR/Cas;S;AND;CAS
+AR/Cas;S;AND;CAS
+AR/Cas;S;AND;CAS
+AR/Cas;S;AND;CAS
+AR/Cas;S;AND;CAS
+6/Cas;S;CAS;CEP
+6/Cas;S;CAS;CEP
+sigma/Cas;S;CAS;AND
+lambda/Cas;S;CAS;AND
+omikron/Cas;S;AND;CAS
+eta/Cas;S;CAS;AND
+eta/Cas;S;CAS;AND
+eta/Cas;S;CAS;AND
+mu/Cas;S;AND;CAS
+theta/Cas;S;AND;CAS
+phi/Cas;S;AND;CAS
+phi/Cas;S;AND;CAS
+psi/Cas;S;CAS;CEP
+psi/Cas;S;CAS;CEP
+48/Cas;S;CAS;CEP
+iota/Cas;S;CAS;PER
+iota/Cas;S;CAS;PER
+alpha1/Cen Rigil Kent;S;CEN;CIR
+alpha2/Cen;S;CEN;CIR
+beta/Cen Hadar;S;CIR;MUS
+gamma/Cen Koo Low;S;CEN;CRU
+delta/Cen;S;CRU;CEN
+epsilon/Cen;S;CEN;CRU
+eta/Cen;S;LUP;CEN
+iota/Cen;S;CEN;HYA
+zeta/Cen;S;CEN;LUP
+1/Cen;S;HYA;CEN
+2/Cen;S;HYA;VIR
+theta/Cen Haratan;S;CEN;HYA
+alpha/Cep Alderamin;S;CEP;CYG
+beta/Cep Alfirk;S;CEP;DRA
+gamma/Cep Errai;S;CEP;CAS
+delta/Cep;S;LAC;CEP
+iota/Cep;S;CEP;LAC
+zeta/Cep;S;LAC;CEP
+eta/Cep Al Kidr;S;DRA;CEP
+epsilon/Cep;S;LAC;CEP
+mu/Cep Granatstern;S;CEP;CYG
+kappa/Cep;S;DRA;CEP
+pi/Cep;S;CEP;DRA
+ksi/Cep Kurhah;S;CYG;CEP
+omikron/Cep;S;CAS;CEP
+T/Cep;S;CEP;DRA
+alpha/Cet Menkar;S;CET;ERI
+beta/Cet Deneb Kaitos;S;CET;SCL
+gamma/Cet Kaffaljidhm;S;CET;ERI
+delta/Cet;S;CET;ERI
+eta/Cet Deneb Algenubi;S;CET;PSC
+iota/Cet Shemali;S;PSC;CET
+lambda/Cet;S;CET;PSC
+1/Cet;S;CET;PSC
+2/Cet;S;CET;PSC
+zeta/Cet Baten Kaitos;S;CET;PSC
+omikron/Cet Mira;S;CET;ERI
+mu/Cet;S;CET;ARI
+nu/Cet;S;CET;PSC
+kappa/Cet;S;CET;TAU
+tau/Cet;S;CET;FOR
+theta/Cet;S;CET;PSC
+ypsilon/Cet;S;CET;FOR
+xi2/Cet;S;CET;PSC
+xi1/Cet;S;CET;PSC
+alpha/CMa Sirius;S;CMA;MON
+beta/CMa Murzim;S;CMA;MON
+gamma/CMa Muliphein;S;MON;CMA
+delta/CMa Wezen;S;CMA;PUP
+epsilon/CMa Adhara;S;CMA;PUP
+eta/CMa Aludra;S;CMA;PUP
+zeta/CMa Furud;S;CMA;COL
+omikron2/CMa;S;CMA;PUP
+omikron1/CMa;S;CMA;PUP
+pi/CMa;S;CMA;MON
+my/CMa;S;MON;ORI
+xsi1/CMa;S;CMA;COL
+tau/CMa;S;CMA;PUP
+tau2/CMa;S;CMA;PUP
+UW/CMa;S;CMA;PUP
+27/CMa;S;CMA;PUP
+sigma/CMa;S;CMA;PUP
+VY/CMa;S;CMA;PUP
+alpha2/CMi Procyon;S;GEM;CMI
+beta/CMi;S;CMI;MON
+eta/CMi;S;CMI;MON
+gamma/CMi;S;CMI;MON
+delta1/CMi;S;CMI;MON
+delta2/CMi;S;GEM;CMI
+delta3/CMi;S;GEM;CMI
+epsilon/CMi;S;CMI;MON
+zeta/CMi;S;CMI;CNC
+alpha/Col Phact;S;COL;CAE
+beta/Col Wezen;S;COL;PIC
+gamma/Col;S;PIC;COL
+delta/Col;S;COL;CMA
+epsilon/Col;S;PIC;COL
+eta/Col;S;PIC;CAR
+theta/Col;S;COL;CMA
+kappa/Col;S;CMA;COL
+lambda/Col Tsze;S;COL;PIC
+mu/Col;S;COL;LEP
+nu1/Col;S;COL;LEP
+nu2/Col;S;COL;LEP
+xi/Col;S;PIC;COL
+omikron/Col;S;COL;PIC
+pi1/Col;S;PIC;COL
+pi2/Col;S;PIC;COL
+sigma/Col;S;COL;LEP
+alpha/Com Diadem;S;COM;VIR
+beta/Com Al Dafirah;S;COM;CVN
+gamma/Com;S;COM;CVN
+UU/Com;S;COM;CVN
+17/Com;S;COM;CVN
+24/Com;S;COM;VIR
+35/Com;S;COM;VIR
+alpha/CrA Alfecca Meridiana;S;CRA;TEL
+beta/CrA;S;CRA;TEL
+gamma/CrA;S;CRA;ARA
+delta/CrA;S;CRA;TEL
+epsilon/CrA;S;CRA;SGR
+lambda/CrA;S;CRA;ARA
+zeta/CrA;S;CRA;SGR
+eta1/CrA;S;CRA;TEL
+eta2/CrA;S;CRA;ARA
+theta/CrA;S;CRA;TEL
+kappa1/CrA;S;CRA;TEL
+kappa2/CrA;S;CRA;TEL
+mu/CrA;S;CRA;TEL
+alpha/CrB Alphecca/Gemma;S;BOO;CRB
+beta/CrB Nusakan;S;BOO;CRB
+gamma/CrB;S;BOO;CRB
+delta/CrB;S;BOO;CRB
+lambda/CrB;S;BOO;CRB
+rho/CrB;S;HER;CRB
+sigma/CrB;S;CRB;HER
+sigma/CrB;S;CRB;HER
+theta/CrB;S;BOO;CRB
+epsilon/CrB;S;HER;SER1
+iota/CrB;S;HER;SER1
+zeta2/CrB;S;BOO;CRB
+eta/CrB;S;BOO;CRB
+kappa/CrB;S;BOO;CRB
+mu/CrB;S;BOO;CRB
+xi/CrB;S;CRB;HER
+omikron/CrB;S;BOO;CRB
+rho/CrB;S;HER;CRB
+tau/CrB;S;CRB;HER
+R/CrB;S;BOO;CRB
+T/CrB;S;HER;SER1
+alpha1/Cru Acrux;S;CEN;CRU
+alpha2/Cru;S;CEN;CRU
+beta/Cru Mimosa;S;CEN;CRU
+gamma/Cru Gacrux;S;CRU;CEN
+delta/Cru;S;CEN;CRU
+epsilon/Cru;S;CEN;CRU
+zeta/Cru;S;CEN;CRU
+theta1/Cru;S;CRU;CEN
+theta2/Cru;S;CRU;CEN
+iota/Cru;S;CEN;CRU
+kappa/Cru;S;CRU;CEN
+lambda/Cru;S;CRU;CEN
+mu1/Cru;S;CRU;CEN
+mu2/Cru;S;CRU;CEN
+alpha/Crv Alchiba;S;HYA;COM
+beta/Crv Kraz;S;HYA;CRV
+gamma/Crv Gienah Corvi;S;HYA;CRV
+delta/Crv Algorab;S;CRV;CRT
+epsilon/Crv Minkar;S;HYA;CRV
+eta/Crv;S;CRV;CRT
+zeta/Crv;S;HYA;CRV
+alpha/Crt Alkes;S;CRT;HYA
+beta/Crt Al Sharasif;S;HYA;CRT
+gamma/Crt;S;CRT;HYA
+delta/Crt;S;CRT;HYA
+lambda/Crt;S;CRT;HYA
+eta/Crt;S;CRT;CRV
+theta/Crt;S;LEO;VIR
+zeta/Crt;S;CRT;HYA
+iota/Crt;S;CRT;LEO
+epsilon/Crt;S;CRT;HYA
+SZ/Crt;S;CRT;HYA
+alpha/CVn Cor Caroli;S;COM;CVN
+beta/CVn Asterion;S;CVN;COM
+2/CVn;S;CVN;UMA
+4/CVn;S;COM;CVN
+5/CVn;S;CVN;UMA
+6/CVn;S;COM;CVN
+19/CVn;S;COM;CVN
+20/CVn;S;COM;CVN
+21/CVn;S;CVN;UMA
+24/CVn;S;CVN;UMA
+25/CVn;S;COM;BOO
+Y/CVn La Superba;S;CVN;UMA
+alpha/Cyg Deneb;S;CYG;LYR
+beta/Cyg Albireo;S;CYG;LYR
+gamma/Cyg Sadr;S;CYG;LYR
+delta/Cyg Rukh;S;CYG;LYR
+epsilon/Cyg Gienah;S;VUL;CYG
+lambda/Cyg;S;VUL;CYG
+lambda2/Cyg;S;VUL;CYG
+phi/Cyg;S;DRA;CEP
+phi2/Cyg;S;DRA;CEP
+mu/Cyg;S;PEG;CYG
+eta/Cyg;S;VUL;CYG
+eta1/Cyg;S;VUL;CYG
+iota1/Cyg;S;CYG;DRA
+iota2/Cyg;S;CYG;DRA
+theta/Cyg;S;CYG;DRA
+zeta/Cyg;S;VUL;CYG
+pi1/Cyg Azelfafage;S;CYG;LAC
+pi2/Cyg Pennae Caudalis;S;CYG;CEP
+rho/Cyg;S;CYG;PEG
+sigma/Cyg;S;VUL;CYG
+chi/Cyg;S;VUL;CYG
+V380/Cyg;S;CYG;LYR
+V695/Cyg;S;CYG;LYR
+P/Cyg;S;VUL;CYG
+V832/Cyg;S;CYG;CEP
+DT/Cyg;S;VUL;CYG
+W/Cyg;S;CYG;PEG
+17/Cyg;S;VUL;CYG
+19/Cyg;S;VUL;CYG
+26/Cyg;S;DRA;CYG
+29/Cyg;S;VUL;CYG
+30/Cyg;S;CYG;DRA
+31/Cyg;S;CYG;LYR
+32/Cyg;S;CYG;DRA
+33/Cyg;S;DRA;CEP
+35/Cyg;S;VUL;CYG
+39/Cyg;S;VUL;CYG
+41/Cyg;S;VUL;DEL
+omega1/Cyg;S;CYG;CEP
+omega2/Cyg;S;CYG;CEP
+47/Cyg;S;VUL;CYG
+52/Cyg;S;VUL;CYG
+55/Cyg;S;CYG;CEP
+56/Cyg;S;CYG;LYR
+57/Cyg;S;CYG;LYR
+59/Cyg;S;CYG;CEP
+60/Cyg;S;CYG;CEP
+61/Cyg Bessels Stern;S;VUL;CYG
+63/Cyg;S;CYG;LAC
+tau/Cyg;S;VUL;CYG
+ypsilon/Cyg;S;VUL;CYG
+68/Cyg;S;CYG;LYR
+71/Cyg;S;CYG;PEG
+72/Cyg;S;VUL;PEG
+74/Cyg;S;CYG;LYR
+75/Cyg;S;CYG;LYR
+191/Cyg;S;VUL;CYG
+261/Cyg;S;DRA;CYG
+311/Cyg;S;CYG;LYR
+291/Cyg;S;VUL;CYG
+292/Cyg;S;VUL;CYG
+611/Cyg;S;VUL;CYG
+612/Cyg;S;VUL;CYG
+613/Cyg;S;VUL;CYG
+tau1/Cyg;S;VUL;CYG
+ypsilon1/Cyg;S;VUL;CYG
+751/Cyg;S;CYG;LYR
+alpha/Del Sualocin;S;VUL;DEL
+beta/Del Rotanev;S;VUL;DEL
+beta1/Del;S;VUL;DEL
+gamma/Del;S;DEL;EQU
+delta/Del;S;VUL;DEL
+epsilon/Del Deneb Dulfim;S;DEL;VUL
+kappa/Del;S;AQL;AQR
+zeta/Del;S;VUL;DEL
+eta/Del;S;VUL;DEL
+theta/Del;S;VUL;DEL
+iota/Del;S;DEL;VUL
+kappa/Del;S;AQL;AQR
+rho~Aql/Del;S;SGE;DEL
+18/Del;S;EQU;DEL
+EU/Del;S;VUL;DEL
+U/Del;S;DEL;VUL
+alpha/Dra Thuban;S;UMI;DRA
+beta/Dra Alwaid;S;DRA;HER
+gamma/Dra Etamin;S;HER;DRA
+delta/Dra Altais;S;DRA;CYG
+eta/Dra Aldhibain;S;DRA;UMI
+eta1/Dra;S;DRA;UMI
+xi/Dra Grumium;S;DRA;HER
+lambda/Dra Gianfar;S;DRA;UMA
+AF/Dra;S;DRA;CEP
+17/Dra;S;DRA;HER
+16/Dra;S;DRA;HER
+nu/Dra;S;HER;DRA
+26/Dra;S;DRA;UMI
+psi/Dra Dziban;S;UMI;DRA
+phi/Dra;S;DRA;UMI
+39/Dra;S;DRA;HER
+39/Dra;S;DRA;HER
+46/Dra;S;DRA;HER
+omikron/Dra;S;DRA;HER
+epsilon/Dra;S;DRA;UMI
+chi/Dra;S;DRA;UMI
+zeta/Dra Aldhibah;S;DRA;UMI
+theta/Dra;S;DRA;HER
+iota/Dra Edasich;S;BOO;DRA
+kappa/Dra;S;DRA;UMA
+pi/Dra;S;DRA;CYG
+rho/Dra;S;DRA;CEP
+sigma/Dra Alsafi;S;DRA;CYG
+tau/Dra;S;DRA;UMI
+ypsilon/Dra;S;DRA;CEP
+omega/Dra;S;DRA;UMI
+alpha/Equ Kitalpha;S;PEG;EQU
+beta/Equ;S;PEG;EQU
+gamma/Equ;S;PEG;EQU
+delta/Equ;S;PEG;EQU
+epsilon/Equ;S;EQU;DEL
+zeta/Equ;S;PEG;EQU
+lambda/Equ;S;EQU;DEL
+alpha/Eri Archenar;S;ERI;PHE
+beta/Eri Cursa;S;ERI;ORI
+gamma/Eri Zaurak;S;ERI;CET
+delta/Eri;S;TAU;ERI
+epsilon/Eri;S;TAU;ERI
+theta/Eri;S;ERI;HOR
+eta/Eri Azha;S;CET;ERI
+phi/Eri;S;HOR;ERI
+chi/Eri;S;ERI;PHE
+pi/Eri;S;ERI;CET
+kappa/Eri;S;ERI;HOR
+nu/Eri;S;ERI;TAU
+mu/Eri;S;ERI;ORI
+rho2/Eri;S;CET;ERI
+zeta/Eri Zibal;S;CET;ERI
+15/Eri;S;ERI;CET
+tau4/Eri;S;ERI;CET
+tau41/Eri;S;ERI;CET
+tau42/Eri;S;ERI;CET
+tau43/Eri;S;ERI;CET
+tau44/Eri;S;ERI;CET
+S/Eri;S;ERI;LEP
+f/Eri;S;FOR;ERI
+30/Eri;S;ERI;TAU
+32/Eri;S;ERI;TAU
+39/Eri;S;ERI;TAU
+391/Eri;S;ERI;TAU
+omikron1/Eri Beid;S;ERI;TAU
+omikron2/Eri Keid;S;ERI;TAU
+53/Eri Sceptrum;S;ERI;FOR
+54/Eri;S;ERI;CAE
+62/Eri;S;ERI;LEP
+66/Eri;S;ERI;LEP
+omega/Eri;S;CET;FOR
+ypsilon1/Eri Theemin;S;CAE;ERI
+ypsilon2/Eri Beemin;S;CAE;ERI
+ypsilon3/Eri;S;CAE;ERI
+ypsilon4/Eri;S;CAE;ERI
+lambda/Eri;S;ERI;ORI
+psi/Eri;S;ERI;LEP
+xi/Eri;S;ERI;TAU
+alpha/Gem Castor;S;GEM;LYN
+alpha/Gem Castor;S;GEM;LYN
+beta/Gem Pollux;S;GEM;LYN
+beta/Gem Pollux;S;GEM;LYN
+beta/Gem Pollux;S;GEM;LYN
+gamma/Gem Almisan;S;GEM;MON
+delta/Gem Wasat;S;CMI;GEM
+epsilon/Gem Mebsuta;S;GEM;AUR
+lambda/Gem;S;GEM;CMI
+rho/Gem;S;GEM;LYN
+sigma/Gem;S;GEM;LYN
+iota/Gem;S;GEM;LYN
+kappa/Gem;S;GEM;AUR
+mu/Gem Tejat Posterior;S;GEM;ORI
+pi/Gem;S;GEM;LYN
+chi/Gem;S;GEM;CNC
+nu/Gem;S;GEM;ORI
+eta/Gem Tejat Prior;S;GEM;ORI
+zeta1/Gem;S;GEM;CMI
+zeta/Gem Mekbuda;S;GEM;CMI
+tau/Gem;S;GEM;AUR
+theta/Gem;S;AUR;GEM
+xi/Gem Alzirr;S;GEM;MON
+omikron/Gem;S;GEM;LYN
+51/Gem;S;GEM;CMI
+51/Gem;S;GEM;CMI
+R/Gem;S;GEM;CMI
+38/Gem;S;GEM;MON
+38/Gem;S;GEM;MON
+63/Gem;S;GEM;CMI
+63/Gem;S;GEM;CMI
+gamma/Gen;S;CEN;CRU
+alpha/Gru Al Na'ir;S;GRU;IND
+beta/Gru Al Dhanab;S;GRU;TUC
+gamma/Gru;S;MIC;GRU
+alpha/Her Rasalgethi;S;OPH;HER
+beta/Her Kornephoros;S;CRB;HER
+gamma/Her;S;CRB;HER
+delta/Her Sarin;S;HER;CRB
+kappa/Her;S;HER;SER1
+lambda/Her Maasym;S;HER;CRB
+mu/Her;S;HER;OPH
+rho/Her;S;HER;CRB
+zeta/Her;S;HER;CRB
+epsilon/Her Cujam;S;HER;CRB
+eta/Her Sophian;S;HER;LYR
+pi/Her;S;HER;CRB
+sigma/Her;S;HER;DRA
+tau/Her Rukbalgethi Shemali;S;CRB;HER
+phi/Her;S;HER;BOO
+chi/Her;S;BOO;HER
+omega/Her Kajam;S;HER;SER1
+omikron/Her Atia;S;HER;LYR
+iota/Her;S;HER;DRA
+theta/Her Rukbalgethi Genubi;S;HER;CRB
+xi/Her;S;HER;CRB
+30/Her;S;CRB;HER
+43/Her;S;OPH;HER
+45/Her;S;OPH;HER
+52/Her;S;HER;DRA
+60/Her;S;HER;OPH
+68/Her;S;HER;CRB
+72/Her;S;HER;CRB
+70/Her;S;HER;CRB
+83/Her;S;HER;OPH
+90/Her;S;HER;LYR
+95/Her;S;OPH;HER
+99/Her;S;HER;LYR
+109/Her;S;HER;OPH
+111/Her;S;AQL;OPH
+111/Her;S;AQL;OPH
+111/Her;S;AQL;OPH
+113/Her;S;HER;VUL
+U/Her;S;HER;CRB
+V441/Her;S;HER;CRB
+alpha/Hya Alphard;S;HYA;PYX
+beta/Hya;S;CRT;HYA
+gamma/Hya;S;HYA;VIR
+delta/Hya;S;HYA;CMI
+epsilon/Hya;S;HYA;CMI
+eta/Hya;S;HYA;CMI
+phi/Hya;S;HYA;CMI
+theta/Hya;S;HYA;CMI
+iota/Hya;S;HYA;SEX
+lambda/Hya;S;HYA;SEX
+omikron/Hya;S;ANT;HYA
+pi/Hya;S;HYA;VIR
+rho/Hya;S;HYA;CMI
+sigma/Hya;S;HYA;CMI
+psi/Hya;S;HYA;VIR
+tau1/Hya;S;HYA;SEX
+tau2/Hya;S;HYA;LEO
+nu/Hya;S;CRT;HYA
+mu/Hya;S;HYA;CRT
+ypsilon1/Hya;S;ANT;HYA
+ypsilon2/Hya;S;HYA;SEX
+xi/Hya;S;ANT;HYA
+zeta/Hya;S;HYA;CMI
+omega/Hya;S;HYA;CMI
+19/Hya;S;HYA;PYX
+23/Hya;S;SGR;AQL
+27/Hya;S;HYA;SEX
+54/Hya;S;LIB;HYA
+U/Hya;S;HYA;SEX
+R/Hya;S;HYA;VIR
+alpha/Hyi;S;ERI;HOR
+beta/Hyi;S;HYI;TUC
+alpha/Lac;S;LAC;CEP
+beta/Lac;S;LAC;CEP
+2/Lac;S;LAC;CEP
+4/Lac;S;LAC;CEP
+5/Lac;S;LAC;CEP
+10/Lac;S;LAC;PEG
+12/Lac;S;LAC;PEG
+13/Lac;S;LAC;PEG
+DD/Lac;S;LAC;PEG
+EN/Lac;S;LAC;PEG
+EW/Lac;S;LAC;CAS
+alpha/Leo Regulus;S;LEO;SEX
+beta/Leo Denebola;S;LEO;VIR
+gamma/Leo Algieba;S;LMI;LEO
+gamma/Leo Algieba;S;LMI;LEO
+gamma/Leo Algieba;S;LMI;LEO
+delta/Leo Zosma;S;LEO;COM
+epsilon/Leo Algenubi;S;LEO;LMI
+phi/Leo;S;LEO;COM
+iota/Leo;S;LEO;SEX
+lambda/Leo Alterf;S;LEO;LMI
+pi/Leo;S;LEO;SEX
+mu/Leo Rasalas;S;LEO;LMI
+tau/Leo;S;LEO;SEX
+kappa/Leo Minchir el-asad;S;LEO;LMI
+kappa/Leo Minchir el-asad;S;LEO;LMI
+6/Leo;S;HYA;LEO
+omikron/Leo Subra;S;HYA;LEO
+psi/Leo;S;HYA;LEO
+xi/Leo;S;HYA;LEO
+eta/Leo;S;CMI;CNC
+theta/Leo Chertan;S;LEO;LMI
+zeta/Leo Adhafera;S;LMI;LEO
+chi/Leo;S;LEO;SEX
+rho4/Leo;S;LEO;SEX
+sigma/Leo;S;LEO;SEX
+54/Leo;S;LMI;LEO
+93/Leo;S;LEO;COM
+R/Leo;S;HYA;LEO
+TX/Leo;S;LEO;SEX
+46/LMi Praecipula;S;LMI;UMA
+beta/LMi;S;LMI;UMA
+10/LMi;S;LMI;LYN
+20/LMi Cor;S;LEO;LMI
+21/LMi;S;LMI;LEO
+30/LMi;S;LMI;UMA
+37/LMi Praecipua;S;LEO;LMI
+42/LMi;S;LEO;LMI
+alpha/Lep Arneb;S;ORI;LEP
+beta/Lep Nihal;S;ORI;LEP
+gamma/Lep;S;COL;LEP
+delta/Lep;S;MON;LEP
+epsilon/Lep;S;LEP;CAE
+iota/Lep;S;ERI;ORI
+kappa/Lep;S;ERI;ORI
+zeta/Lep;S;ORI;LEP
+eta/Lep;S;MON;LEP
+theta/Lep;S;LEP;MON
+lambda/Lep;S;ORI;ERI
+mu/Lep;S;ERI;LEP
+R/Lep;S;ERI;LEP
+RX/Lep;S;ERI;ORI
+alpha1/Lib;S;LIB;VIR
+alpha2/Lib Zubenelgenubi;S;LIB;VIR
+beta/Lib Zubeneschamali;S;LIB;SER1
+gamma/Lib Zuben-el-Akrab;S;LIB;VIR
+delta/Lib Zuben Elakribi;S;LIB;SER1
+epsilon/Lib;S;LIB;SER1
+iota/Lib;S;LIB;HYA
+nu/Lib;S;LIB;HYA
+kappa/Lib;S;LIB;SCO
+sigma/Lib;S;LIB;HYA
+theta/Lib;S;LIB;SCO
+tau/Lib;S;LIB;HYA
+ypsilon/Lib;S;LIB;HYA
+alpha/Lup;S;LUP;CEN
+beta/Lup;S;LUP;CEN
+gamma/Lup;S;NOR;LUP
+delta/Lup;S;LUP;CEN
+epsilon/Lup;S;NOR;LUP
+zeta/Lup;S;NOR;LUP
+eta/Lup;S;LUP;NOR
+theta/Lup;S;SCO;LUP
+iota/Lup;S;LUP;CEN
+kappa/Lup;S;NOR;LUP
+lambda/Lup;S;LUP;NOR
+mu/Lup;S;NOR;LUP
+nu1/Lup;S;NOR;LUP
+nu2/Lup;S;NOR;LUP
+omikron/Lup;S;CEN;HYA
+pi/Lup;S;LUP;CEN
+rho/Lup;S;LUP;CEN
+xi/Lup;S;COL;CMA
+phi1/Lup;S;LUP;CEN
+;;LUP;LIB
+alpha/Lyn;S;LYN;LMI
+16/Lyn psi10 Aurigae;S;LYN;AUR
+31/Lyn Alsciauka;S;LYN;GEM
+10UMa/Lyn;S;LYN;UMA
+38/Lyn;S;LYN;LMI
+5/Lyn;S;LYN;AUR
+12/Lyn;S;LYN;AUR
+12/Lyn;S;LYN;AUR
+15/Lyn;S;LYN;AUR
+22/Lyn;S;LYN;AUR
+24/Lyn;S;CAM;LYN
+alpha/Lyr Wega;S;LYR;HER
+alpha/Lyr Wega;S;LYR;HER
+alpha/Lyr Wega;S;LYR;HER
+beta/Lyr Sheliak;S;HER;LYR
+gamma/Lyr Sulafat;S;HER;LYR
+delta1/Lyr;S;LYR;HER
+delta2/Lyr;S;LYR;HER
+epsilon1/Lyr Double Double;S;HER;LYR
+epsilon2/Lyr Double Double;S;HER;LYR
+zeta/Lyr;S;HER;LYR
+eta/Lyr Aladfar;S;CYG;LYR
+theta1/Lyr;S;CYG;LYR
+theta2/Lyr;S;CYG;LYR
+theta3/Lyr;S;CYG;LYR
+16/Lyr;S;LYR;DRA
+17/Lyr;S;LYR;VUL
+17/Lyr;S;LYR;VUL
+17/Lyr;S;LYR;VUL
+17/Lyr;S;LYR;VUL
+17/Lyr;S;LYR;VUL
+alpha/Mon Lukida;S;MON;PUP
+beta/Mon;S;MON;ORI
+beta/Mon;S;MON;ORI
+gamma/Mon Tempestris;S;MON;ORI
+delta/Mon;S;CMI;MON
+epsilon/Mon;S;MON;ORI
+zeta/Mon;S;HYA;CMI
+zeta/Mon;S;HYA;CMI
+3/Mon;S;MON;ORI
+10/Mon;S;MON;ORI
+10/Mon;S;MON;ORI
+15/Mon;S;GEM;MON
+15/Mon;S;GEM;MON
+15/Mon;S;GEM;MON
+15/Mon;S;GEM;MON
+15/Mon;S;GEM;MON
+15/Mon;S;GEM;MON
+15/Mon;S;GEM;MON
+20/Mon;S;CMI;MON
+alpha/Mus;S;CEN;CRU
+alpha/Oph Ras Alhague;S;OPH;HER
+beta/Oph Celbalrai;S;OPH;SER2
+gamma/Oph;S;OPH;SER2
+delta/Oph Yed Prior;S;HER;SER1
+epsilon/Oph Yed Posterior;S;OPH;SER1
+eta/Oph Sabik;S;OPH;SER2
+zeta/Oph Han;S;OPH;SCO
+theta/Oph;S;OPH;SER2
+kappa/Oph;S;OPH;HER
+;S-;OPH;SER2
+nu/Oph;S;OPH;SER2
+chi/Oph;S;SCO;OPH
+lambda/Oph Marfik;S;OPH;HER
+lambda/Oph Marfik;S;OPH;HER
+sigma/Oph;S;OPH;SER2
+rho/Oph;S;SCO;OPH
+rho/Oph;S;SCO;OPH
+rho/Oph;S;SCO;OPH
+rho/Oph;S;SCO;OPH
+omikron/Oph;S;OPH;SER2
+xi/Oph;S;OPH;SER2
+tau/Oph;S;OPH;SER2
+tau/Oph;S;OPH;SER2
+phi/Oph;S;SCO;OPH
+psi/Oph;S;SCO;OPH
+omega/Oph;S;SCO;OPH
+U/Oph;S;OPH;SER2
+X/Oph;S;AQL;SER2
+u/Oph;S;OPH;SER1
+30/Oph;S;OPH;HER
+36/Oph;S;OPH;SCO
+36/Oph;S;OPH;SCO
+36/Oph;S;OPH;SCO
+41/Oph;S;OPH;SER2
+67/Oph;S;OPH;SER2
+67/Oph;S;OPH;SER2
+68/Oph;S;OPH;SER2
+70/Oph;S;OPH;SER2
+alpha/Ori Beteigeuze;S;TAU;ORI
+beta/Ori Rigel;S;ERI;ORI
+delta/Ori Mintaka;S;ORI;ERI
+epsilon/Ori Alnilam;S;ORI;ERI
+gamma/Ori Bellatrix;S;TAU;ORI
+lambda/Ori Meissa;S;TAU;ORI
+phi2/Ori;S;ORI;MON
+phi2/Ori;S;ORI;MON
+eta/Ori Saiph;S;ORI;ERI
+eta/Ori Saiph;S;ORI;ERI
+theta1/Ori;S;ORI;MON
+iota/Ori Hatsya;S;ORI;MON
+kappa/Ori Saiph;S;ORI;MON
+rho/Ori;S;ERI;ORI
+sigma/Ori;S;ORI;ERI
+sigma/Ori;S;ORI;ERI
+sigma/Ori;S;ORI;ERI
+sigma/Ori;S;ORI;ERI
+zeta/Ori Alnitak;S;ORI;ERI
+tau/Ori;S;ERI;ORI
+pi1/Ori;S;TAU;ORI
+pi3/Ori Tabit;S;ORI;TAU
+pi4/Ori;S;ERI;ORI
+pi5/Ori;S;ERI;ORI
+mu/Ori;S;ORI;TAU
+psi/Ori;S;ORI;TAU
+W/Ori;S;ERI;ORI
+VV/Ori;S;ORI;ERI
+U/Ori;S;TAU;ORI
+16/Ori;S;TAU;ORI
+23/Ori;S;ORI;TAU
+31/Ori;S;ORI;MON
+32/Ori;S;TAU;ORI
+42/Ori;S;ORI;MON
+71/Ori;S;GEM;ORI
+71/Ori;S;GEM;ORI
+74/Ori;S;ORI;GEM
+75/Ori;S;ORI;GEM
+alpha/Pav Joo Tseo;S;PAV;IND
+alpha/Peg Markab;S;PEG;PSC
+beta/Peg Scheat;S;PEG;AND
+gamma/Peg Algenib;S;PEG;AND
+epsilon/Peg Enif;S;PEG;AQR
+eta/Peg Matar;S;LAC;PEG
+zeta/Peg Homam;S;PEG;AQR
+theta/Peg Baham;S;PEG;AQR
+kappa/Peg Jih;S;PEG;CYG
+kappa/Peg Jih;S;PEG;CYG
+lambda/Peg Sadalpheretz;S;PEG;CYG
+mu/Peg Sadalbari;S;PEG;CYG
+nu/Peg;S;PEG;AQR
+xi/Peg;S;PEG;PSC
+iota/Peg;S;PEG;LAC
+tau/Peg Kerb;S;PEG;AND
+omikron/Peg;S;LAC;PEG
+rho/Peg;S;PSC;PEG
+chi/Peg;S;PEG;AND
+psi/Peg;S;AND;PEG
+1/Peg;S;PEG;VUL
+13/Peg;S;PEG;VUL
+30/Peg;S;AQR;PEG
+32/Peg;S;LAC;PEG
+35/Peg;S;AQR;PEG
+35/Peg;S;AQR;PEG
+57/Peg;S;PSC;PEG
+64/Peg;S;PEG;AND
+78/Peg;S;AND;PEG
+alpha/Per Mirfak;S;CAM;PER
+beta/Per Algol;S;PER;TRI
+gamma/Per;S;PER;CAS
+delta/Per;S;CAM;PER
+epsilon/Per;S;PER;TAU
+lambda/Per;S;CAM;PER
+phi/Per;S;AND;PER
+psi/Per;S;CAM;PER
+rho/Per Gorgonea Tertia;S;PER;TRI
+theta/Per;S;AND;PER
+pi/Per Gorgonea Secunda;S;PER;TRI
+zeta/Per;S;PER;TAU
+eta/Per Miram;S;PER;CAM
+omikron/Per Atik;S;TAU;PER
+sigma/Per;S;CAM;PER
+chi/Per;S;TAU;PER
+tau/Per;S;PER;AND
+omega/Per Gorgonea Quarta;S;PER;TRI
+iota/Per;S;PER;CAS
+kappa/Per Misam;S;PER;TRI
+mu/Per;S;CAM;PER
+nu/Per;S;PER;CAM
+xi/Per Menkib;S;PER;TAU
+b1/Per;S;CAM;PER
+IW/Per;S;ARI;PER
+16/Per;S;TRI;PER
+34/Per;S;CAM;PER
+40/Per;S;TAU;PER
+43/Per;S;CAM;PER
+alpha/Psc Alrescha;S;CET;PSC
+beta/Psc Fum al Samakah;S;PSC;AQR
+gamma/Psc;S;PSC;AQR
+delta/Psc;S;PSC;CET
+epsilon/Psc;S;PSC;CET
+zeta1/Psc;S;PSC;CET
+zeta2/Psc;S;PSC;CET
+phi/Psc;S;AND;PSC
+mu/Psc;S;PSC;CET
+nu/Psc;S;PSC;ARI
+xi/Psc;S;PSC;ARI
+omikron/Psc Torcularis septentrionalis;S;PSC;ARI
+eta/Psc Alpherg;S;PSC;AND
+theta/Psc;S;PSC;PEG
+iota/Psc;S;PSC;PEG
+kappa/Psc;S;PSC;AQR
+lambda/Psc;S;PSC;PEG
+pi/Psc;S;PSC;AND
+rho/Psc;S;TRI;PSC
+sigma/Psc;S;AND;PSC
+tau/Psc;S;AND;PSC
+ypsilon/Psc;S;AND;PSC
+chi/Psc;S;AND;PSC
+psi1/Psc;S;AND;PSC
+psi2/Psc;S;AND;PSC
+omega/Psc;S;PEG;PSC
+20/Psc;S;PSC;AQR
+27/Psc;S;PSC;AQR
+34/Psc;S;PEG;PSC
+55/Psc;S;AND;PEG
+80/Psc;S;PSC;CET
+UU/Psc;S;PEG;PSC
+TV/Psc;S;PSC;AND
+alpha/Phe Ankaa;S;SCL;GRU
+alpha/PsA Fomalhaut;S;PSA;AQR
+beta/PsA;S;PSA;AQR
+gamma/PsA;S;PSA;AQR
+delta/PsA;S;PSA;AQR
+epsilon/PsA;S;PSA;AQR
+zeta/PsA;S;PSA;AQR
+eta/PsA;S;PSA;AQR
+theta/PsA;S;PSA;CAP
+iota/PsA;S;PSA;CAP
+lambda/PsA;S;PSA;AQR
+mu/PsA;S;PSA;AQR
+pi/PsA;S;SCL;PSA
+tau/PsA;S;PSA;AQR
+ypsilon/PsA;S;PSA;AQR
+rho/Pub;S;PUP;HYA
+tau/Pub;S;CAR;PIC
+kappa/Pub;S;PUP;CMA
+nu/Pub;S;COL;PUP
+omikron/Pub;S;PUP;CMA
+pi/Pub;S;PUP;CMA
+sigma/Pub Hadir;S;CMA;PUP
+zeta/Pup Naos;S;VEL;PUP
+xi/Pub Azmidiske;S;PUP;CMA
+alpha/Pyx;S;PYX;HYA
+beta/Pyx;S;VEL;PYX
+gamma/Pyx;S;PYX;HYA
+delta/Pyx;S;PYX;HYA
+epsilon/Pyx;S;PYX;HYA
+zeta/Pyx;S;PYX;HYA
+eta/Pyx;S;PYX;HYA
+theta/Pyx;S;PYX;ANT
+kappa/Pyx;S;PYX;HYA
+lambda/Pyx;S;PYX;ANT
+alpha/Sge Sham;S;VUL;CYG
+beta/Sge;S;VUL;SGE
+gamma/Sge;S;SGE;AQL
+delta/Sge;S;VUL;CYG
+epsilon/Sge;S;SGE;VUL
+zeta/Sge;S;VUL;CYG
+eta/Sge;S;SGE;AQL
+theta/Sge;S;AQL;SGE
+alpha/Scl;S;CET;SCL
+beta/Scl;S;SCL;GRU
+gamma/Scl;S;SCL;GRU
+delta/Scl;S;SCL;GRU
+epsilon/Scl;S;CET;FOR
+zeta/Scl;S;CET;SCL
+eta/Scl;S;CET;SCL
+theta/Scl;S;SCL;GRU
+iota/Scl;S;CET;SCL
+kappa1/Scl;S;CET;SCL
+kappa2/Scl;S;CET;SCL
+lambda1/Scl;S;SCL;GRU
+lambda2/Scl;S;SCL;GRU
+mu/Scl;S;SCL;GRU
+xi/Scl;S;SCL;GRU
+pi/Scl;S;FOR;CET
+sigma/Scl;S;CET;SCL
+tau/Scl;S;CET;SCL
+R/Scl;S;CET;SCL
+alpha/Sct;S;SER2;SCT
+beta/Sct;S;AQL;SER2
+gamma/Sct;S;SCT;SGR
+delta/Sct;S;AQL;SER2
+epsilon/Sct;S;AQL;SER2
+zeta/Sct;S;SER2;SCT
+eta/Sct;S;AQL;SCT
+alpha/Sco Antares;S;SCO;OPH
+beta/Sco Akrab;S;LIB;SCO
+beta/Sco Akrab;S;LIB;SCO
+delta/Sco Dschubba;S;LIB;SCO
+epsilon/Sco Wei;S;SCO;OPH
+zeta1/Sco;S;SCO;ARA
+zeta2/Sco;S;SCO;ARA
+eta/Sco;S;SCO;ARA
+theta/Sco Sargas;S;SCO;ARA
+iota1/Sco;S;SCO;OPH
+iota2/Sco;S;SCO;OPH
+kappa/Sco Girtab;S;SCO;OPH
+lambda/Sco Shaula;S;SCO;OPH
+lambda/Sco Shaula;S;SCO;OPH
+mu1/Sco Denebakrab;S;SCO;OPH
+mu2/Sco;S;SCO;OPH
+nu/Sco Jabbah;S;SCO;OPH
+omikron/Sco;S;SCO;OPH
+pi/Sco;S;LIB;SCO
+rho/Sco;S;SCO;LIB
+theta/Sco Sargas;S;SCO;ARA
+sigma/Sco Al Niyat;S;SCO;OPH
+tau/Sco Alniyat;S;SCO;OPH
+ypsilon/Sco Lesath;S;SCO;OPH
+xi/Sco;S;LIB;SCO
+xi/Sco;S;LIB;SCO
+chi/Sco;S;SCO;OPH
+psi/Sco;S;OPH;SCO
+omega1/Sco;S;SCO;LIB
+omega1/Sco;S;SCO;LIB
+RR/Sco;S;SCO;OPH
+b/Sco;S;LIB;SCO
+2/Sco;S;LIB;SCO
+alpha/Ser Unukalhai;S;SER1;BOO
+beta/Ser Chow;S;SER1;HER
+beta/Ser Chow;S;SER1;HER
+gamma/Ser;S;HER;SER1
+gamma/Ser;S;HER;SER1
+delta/Ser Tsin;S;BOO;SER1
+epsilon/Ser;S;LIB;SER1
+zeta/Ser;S;OPH;SER2
+eta/Ser Tang;S;SER2;OPH
+theta/Ser Alya;S;AQL;SER2
+iota/Ser;S;SER1;HER
+kappa/Ser;S;SER1;HER
+lambda/Ser;S;SER1;BOO
+mu/Ser;S;LIB;SER1
+nu/Ser;S;OPH;SER2
+xi/Ser;S;OPH;SER2
+omikron/Ser;S;OPH;SER2
+pi/Ser;S;HER;SER1
+rho/Ser;S;SER1;HER
+sigma/Ser;S;OPH;SER1
+Tau1/Ser;S;SER1;BOO
+Tau2/Ser;S;SER1;BOO
+Tau3/Ser;S;SER1;BOO
+Tau4/Ser;S;SER1;BOO
+Tau5/Ser;S;SER1;BOO
+Tau6/Ser;S;SER1;HER
+Tau7/Ser;S;SER1;HER
+Tau8/Ser;S;SER1;HER
+ypsilon/Ser;S;SER1;HER
+phi/Ser;S;LIB;OPH
+chi/Ser;S;SER1;HER
+psi/Ser;S;LIB;SER1
+omega/Ser;S;LIB;SER1
+e/Ser;S;AQL;SER2
+R/Ser;S;SER1;HER
+5/Ser;S;SER1;LIB
+5/Ser;S;SER1;LIB
+6/Ser;S;SER1;LIB
+59/Ser;S;SER2;OPH
+zeta/Sge;S;VUL;CYG
+zeta/Sge;S;VUL;CYG
+zeta/Sge;S;VUL;CYG
+alpha/Sgr Rukbat;S;CRA;SGR
+beta1/Sgr Arkab Prior;S;CRA;SGR
+beta2/Sgr Arkab Posterior;S;CRA;SGR
+gamma/Sgr Alnasl;S;CRA;SCO
+delta/Sgr Kaus Media;S;SGR;SCO
+epsilon/Sgr Kaus Australis;S;SGR;SCO
+eta/Sgr;S;SGR;SCO
+eta/Sgr;S;SGR;SCO
+theta1/Sgr;S;SGR;CRA
+theta2/Sgr;S;SGR;CRA
+iota/Sgr;S;SGR;CRA
+kappa1/Sgr;S;MIC;IND
+kappa2/Sgr;S;MIC;IND
+lambda/Sgr Kaus Borealis;S;SCT;SGR
+mu/Sgr Polis;S;SGR;SCO
+mu/Sgr Polis;S;SGR;SCO
+nu1/Sgr Ain al Rami;S;SCT;SGR
+nu2/Sgr;S;SCT;SGR
+xi1/Sgr;S;SCT;SGR
+xi2/Sgr;S;SCT;SGR
+zeta/Sgr Ascella;S;SGR;SCO
+zeta/Sgr Ascella;S;SGR;SCO
+omikron/Sgr;S;SCT;SGR
+pi/Sgr Albaldah;S;SGR;AQL
+rho1/Sgr;S;SGR;AQL
+rho2/Sgr;S;SGR;AQL
+sigma/Sgr Nunki;S;SGR;SCO
+tau/Sgr;S;SGR;SCO
+ypsilon/Sgr;S;SGR;AQL
+phi/Sgr;S;SGR;SCO
+chi1/Sgr;S;SGR;SCT
+chi2/Sgr;S;SGR;SCT
+chi3/Sgr;S;SGR;SCT
+psi/Sgr;S;SGR;SCT
+omega/Sgr;S;SGR;SCO
+b1/Sgr;S;SGR;CRA
+1/Sgr;S;SGR;SCO
+21/Sgr;S;SCT;SGR
+52/Sgr;S;SGR;SCT
+54/Sgr;S;SGR;AQL
+X/Sgr;S;SCO;OPH
+W/Sgr;S;CRA;SCO
+RS/Sgr;S;SGR;SCO
+Y/Sgr;S;SCT;SGR
+RT/Sgr;S;SGR;CRA
+alpha/Tau Aldebaran;S;TAU;ARI
+beta/Tau El Nath;S;TAU;AUR
+gamma/Tau Hyadum I;S;TAU;ARI
+delta1/Tau Hyadum II;S;TAU;ARI
+delta2/Tau;S;TAU;ARI
+delta3/Tau CleeiaCleeia;S;TAU;ARI
+delta3/Tau Cleeia;S;TAU;ARI
+epsilon/Tau Ain;S;TAU;ARI
+zeta/Tau Tien Kwan;S;TAU;ORI
+eta/Tau Alcyone;S;TAU;ARI
+eta/Tau Alcyone;S;TAU;ARI
+eta/Tau Alcyone;S;TAU;ARI
+theta1/Tau;S;TAU;ARI
+theta2/Tau;S;TAU;ARI
+iota/Tau;S;TAU;ORI
+kappa1/Tau;S;TAU;ARI
+kappa2/Tau;S;TAU;ARI
+lambda/Tau Pectus Tauri;S;TAU;ARI
+mu/Tau;S;TAU;ERI
+nu/Tau;S;TAU;ERI
+xi/Tau;S;TAU;ARI
+omikron/Tau;S;CET;TAU
+pi/Tau;S;TAU;ARI
+rho/Tau;S;TAU;ARI
+sigma1/Tau;S;TAU;ORI
+sigma2/Tau;S;TAU;ORI
+tau/Tau;S;TAU;AUR
+tau/Tau;S;TAU;AUR
+ypsilon/Tau;S;TAU;ARI
+phi/Tau;S;TAU;ARI
+phi2/Tau;S;TAU;ARI
+chi/Tau;S;TAU;ARI
+psi/Tau;S;TAU;ARI
+omega1/Tau;S;TAU;ARI
+omega2/Tau;S;TAU;ARI
+BU/Tau;S;TAU;ARI
+19/Tau;S;TAU;ARI
+30/Tau;S;TAU;ARI
+37/Tau;S;TAU;ARI
+47/Tau;S;TAU;ERI
+81/Tau;S;TAU;ARI
+88/Tau;S;TAU;ERI
+c/Tau;S;TAU;ORI
+103/Tau;S;TAU;ORI
+111/Tau;S;TAU;ORI
+115/Tau;S;TAU;ORI
+114/Tau;S;TAU;ORI
+114/Tau;S;TAU;ORI
+134/Tau;S;TAU;ORI
+alpha/TrA RasAlMuthallath;S;ARA;TRA
+beta/TrA;S;NOR;TRA
+gamma/TrA;S;TRA;CIR
+alpha/Tri Metallah;S;TRI;PSC
+beta/Tri;S;AND;TRI
+gamma/Tri;S;TRI;AND
+delta/Tri;S;TRI;AND
+epsilon/Tri;S;TRI;AND
+iota/Tri;S;AND;TRI
+R/Tri;S;TRI;PER
+10/Tri;S;TRI;ARI
+alpha/Tuc;S;TUC;IND
+alpha/UMa Dubhe;S;UMA;LYN
+beta/UMa Merak;S;UMA;LYN
+gamma/UMa Phecda;S;UMA;COM
+delta/UMa Megrez;S;CVN;UMA
+epsilon/UMa Alioth;S;UMA;CVN
+zeta/UMa Mizar;S;UMA;CVN
+zeta/UMa Mizar;S;UMA;CVN
+eta/UMa Alkaid (Benetnasch);S;UMA;CVN
+theta/UMa Alhaud;S;UMA;LYN
+iota/UMa Talitha Borealis;S;LYN;UMA
+kappa/UMa Talitha Australis;S;LYN;UMA
+lambda/UMa Tania Borealis;S;LMI;UMA
+mu/UMa Tania Australis;S;LMI;UMA
+nu/UMa Alula Borealis;S;LEO;LMI
+xi/UMa Alula Australis;S;LEO;LMI
+omikron/UMa Muscida;S;LYN;UMA
+omikron/UMa Muscida;S;LYN;UMA
+pi1/UMa;S;LYN;UMA
+pi2/UMa Muscida;S;LYN;UMA
+rho/Uma;S;UMA;LYN
+sigma1/UMa;S;UMA;LYN
+sigma2/UMa;S;UMA;LYN
+sigma2/UMa;S;UMA;LYN
+tau/UMa;S;UMA;LYN
+ypsilon/UMa;S;UMA;LYN
+phi/UMa;S;UMA;LYN
+chi/UMa;S;UMA;LMI
+psi/UMa;S;UMA;LMI
+omega/UMa;S;LMI;UMA
+VY/UMa;S;DRA;UMA
+23/UMa;S;DRA;UMA
+23/UMa;S;DRA;UMA
+57/UMa;S;UMA;CVN
+61/UMa;S;LEO;LMI
+67/UMa;S;CVN;COM
+78/UMA;S;UMA;DRA
+g/UMa Alkor;S;UMA;CVN
+alpha/UMi Polarstern;S;CEP;CAM
+beta/UMi Kochab;S;UMI;DRA
+gamma/UMi Pherkad;S;DRA;UMI
+delta/UMi Yildun;S;UMI;DRA
+epsilon/UMi;S;UMI;DRA
+zeta/UMi Akhfa al Farkadain;S;UMI;DRA
+eta/UMi Alasco;S;UMI;DRA
+theta/UMi;S;UMI;CAM
+lambda/UMi;S;UMI;DRA
+pi1/UMi;S;UMI;CAM
+pi2/UMi;S;UMI;DRA
+delta/Vel Koo She;S;CAR;VEL
+gamma/Vel Regor;S;VEL;CAR
+kappa/Vel Cih;S;CAR;VEL
+lambda/Vel Suhail;S;VEL;PYX
+mu/Vel;S;VEL;ANT
+alpha/Vir Spica;S;VIR;COM
+beta/Vir Zavijava;S;CRT;VIR
+beta/Vir Zavijava;S;CRT;VIR
+gamma/Vir Porrima;S;VIR;CRT
+delta/Vir Auva;S;COM;VIR
+epsilon/Vir Vindemiatrix;S;COM;VIR
+zeta/Vir Heze;S;BOO;VIR
+eta/Vir Zaniah;S;VIR;CRT
+theta/Vir;S;VIR;CRV
+iota/Vir Syrma;S;LIB;VIR
+kappa/Vir;S;VIR;CRV
+lambda/Vir Khambalia;S;LIB;VIR
+mu/Vir Rijl al Awwa;S;LIB;VIR
+nu/Vir;S;LEO;VIR
+xi/Vir;S;LEO;VIR
+omikron/Vir;S;COM;VIR
+pi/Vir;S;COM;LEO
+rho/Vir;S;COM;VIR
+sigma/Vir;S;COM;VIR
+tau/Vir;S;BOO;VIR
+ypsilon/Vir;S;LIB;VIR
+phi/Vir;S;LIB;VIR
+chi/Vir;S;VIR;CRV
+chi/Vir;S;VIR;CRV
+chi/Vir;S;VIR;CRV
+psi/Vir;S;VIR;CRV
+omega/Vir;S;LEO;VIR
+ph1/Vir;S;VIR;CRV
+ph1/Vir;S;VIR;CRV
+phi2/Vir;S;LIB;VIR
+CU/Vir;S;BOO;VIR
+CS/Vir;S;LIB;HYA
+53/Vir;S;VIR;HYA
+61/Vir;S;VIR;HYA
+70/Vir;S;COM;VIR
+84/Vir;S;VIR;BOO
+alpha/Vul Lukida;S;CYG;LYR
+23/Vul;S;VUL;SGE
+31/Vul;S;VUL;DEL
+13/Vul;S;SGE;AQL
+15/Vul;S;VUL;SGE
+T/Vul;S;VUL;DEL
+2/Vul;S;VUL;LYR
+2/Vul;S;VUL;LYR
+4/Vul;S;VUL;SGE
+61 B/Cyg;S;VUL;CYG
+61 A/Cyg;S;VUL;CYG
+HD 203112;S;CYG;LYR
+V1334/Cyg;S;VUL;CYG
+HD 206261;S;CYG;LYR
+77/Cyg;S;CYG;LYR
+HD 206267A;S;CEP;CYG
+76/Cyg;S;CYG;LYR
+HD 213061;S;LAC;PEG
+HR 8617;S;LAC;CEP
+HD 214608;S;LAC;CEP
+BD+43 4260A;S;LAC;CEP
+HR 8708;S;LAC;PEG
+BD+43 4331A;S;LAC;PEG
+4/And;S;AND;CAS
+HR 9011;S;AND;CAS
+HD 222516;S;AND;CAS
+HR 1;S;AND;CAS
+HD 3531;S;AND;CAS
+HR 283;S;AND;CAS
+HR 282;S;AND;CAS
+HD 7722;S;AND;CAS
+HR 483;S;AND;TRI
+gam02/And;S;AND;TRI
+gam01/And;S;AND;TRI
+HR 687;S;AND;PER
+HR 746;S;TRI;PER
+20/Per;S;TRI;PER
+BD+37 655A;S;TRI;PER
+BD+37 655B;S;TRI;PER
+HR 768;S;TRI;PER
+HD 200077;S;CYG;LYR
+HD 200031;S;VUL;CYG
+HD 200465;S;CYG;LYR
+HR 8155;S;CYG;LYR
+V1942/Cyg;S;LAC;CYG
+AR/Lac;S;LAC;CEP
+HD 210387;S;LAC;PEG
+V402/Lac;S;LAC;PEG
+HR 8652;S;LAC;CEP
+HD 215344;S;LAC;CEP
+HD 218674;S;CAS;AND
+8/And;S;CAS;AND
+HD 219962;S;CAS;AND
+HD 3211;S;AND;CAS
+HR 164;S;AND;CAS
+HD 2301;S;CAS;AND
+CCDM J01030+4723AB;S;AND;CAS
+BD+46 275A;S;AND;CAS
+b/And;S;AND;PER
+12/Per;S;TRI;PER
+HD 196850;S;VUL;CYG
+HR 7922;S;VUL;CYG
+V367/Cyg;S;VUL;CYG
+HR 8009;S;CYG;LYR
+HD 197018;S;CYG;LYR
+HR 8071;S;CYG;LYR
+nu/Cyg;S;CYG;LYR
+ksi/Cyg;S;CYG;LYR
+HD 204710;S;CYG;LYR
+HR 8445;S;LAC;CEP
+HD 211660;S;LAC;CEP
+V350/Lac;S;LAC;CEP
+9/Lac;S;CEP;LAC
+HR 9028;S;AND;CAS
+HD 223916;S;AND;CAS
+R/Cas;S;AND;CAS
+HR 91;S;CAS;AND
+AO/Cas;S;AND;CAS
+HD 6084;S;AND;CAS
+CCDM J01106+5101AP;S;AND;CAS
+HD 9901;S;PER;AND
+CCDM J01493+4754AB;S;PER;AND
+BD+47 508A;S;PER;AND
+CCDM J02140+4729AB;S;AND;PER
+BD+46 536A;S;AND;PER
+HD 17246;S;TRI;PER
+HD 18392;S;PER;TRI
+CCDM J03172+4029AB;S;PER;TRI
+BD+39 743A;S;PER;TRI
+BD+39 743B;S;PER;TRI
+HD 194558;S;CYG;LYR
+ADS 13728;S;CYG;LYR
+BD+38 4021A;S;CYG;LYR
+HD 194206;S;VUL;CYG
+HR 8064;S;CYG;CEP
+HD 200407;S;CYG;LYR
+HR 8023;S;CYG;LYR
+HR 8107;S;CYG;CEP
+HD 201599;S;CYG;LAC
+V1934/Cyg;S;CYG;LAC
+HR 8246;S;CYG;LAC
+pi.02/Cyg;S;CYG;CEP
+HR 8463;S;LAC;CEP
+HD 213388;S;LAC;CEP
+HD 217833;S;CAS;LAC
+HD 219623;S;CAS;CEP
+HD 224320;S;AND;CAS
+HD 761;S;AND;CAS
+HR 196;S;AND;CAS
+HR 250;S;AND;CAS
+HR 318;S;AND;CAS
+HD 10497;S;AND;PER
+6/Per;S;AND;PER
+65/And;S;PER;AND
+HR 792;S;AND;PER
+HD 17891;S;PER;TRI
+HD 19092;S;PER;TRI
+HD 192659;S;CYG;LYR
+HD 193322A;S;CYG;LYR
+HR 7795;S;CYG;LYR
+HR 7759;S;CYG;LYR
+HD 193322;S;CYG;LYR
+HR 7802;S;CYG;LYR
+HR 7969;S;CYG;LAC
+HR 7958;S;CYG;CEP
+HR 7966;S;CYG;CEP
+HR 7983;S;CYG;LAC
+f02/Cyg;S;CYG;LAC
+f01/Cyg;S;CYG;CEP
+HD 203746;S;CYG;CEP
+HR 8242;S;CYG;LAC
+HD 208253;S;LAC;CYG
+V416/Lac;S;CEP;LAC
+V509/Cas;S;CAS;LAC
+CCDM J23101+5727AB;S;CAS;CEP
+HR 8832;S;CAS;CEP
+HD 220007;S;CAS;CEP
+HD 220562;S;AND;CAS
+WDS J23102+5727A;S;CAS;CEP
+CCDM J00049+5832AB;S;CAS;AND
+GJ 4.1;S;CAS;AND
+V640/Cas;S;CAS;AND
+HD 2170;S;CAS;CEP
+tet/Cas;S;AND;CAS
+HD 10495;S;AND;PER
+HD 15703;S;CAS;PER
+tet/Per;S;AND;PER
+HR 865;S;PER;TRI
+HR 849;S;PER;CAS
+IDS 02465+4810;S;PER;CAS
+HR 949;S;CAS;CAM
+CCDM J19579+4216ABC;S;CYG;LYR
+HR 7733;S;CYG;LYR
+HD 193793;S;CYG;LYR
+CCDM J20198+4522AB;S;CYG;LYR
+HD 196865;S;CYG;CEP
+V2015/Cyg;S;CYG;CEP
+51/Cyg;S;CYG;CEP
+HD 198624;S;CYG;LAC
+CCDM J20512+5126AB;S;CYG;CEP
+HR 8025;S;CYG;LAC
+CCDM J20585+5028AB;S;CYG;CEP
+HD 203320;S;CYG;LAC
+HD 206040;S;CYG;LAC
+HD 208063;S;CYG;CEP
+HR 8357;S;CYG;CEP
+14/Cep;S;CYG;CEP
+HD 210855;S;LAC;CEP
+HD 213307;S;LAC;CEP
+HD 213470;S;LAC;CEP
+ADS 16001;S;LAC;CEP
+HR 8778;S;CAS;CEP
+HR 8777;S;CAS;CEP
+2/Cas;S;CAS;CEP
+HD 220819;S;AND;CAS
+HR 8990;S;CAS;CEP
+HD 224364;S;CAS;CEP
+HD 223866;S;CAS;CEP
+HR 60;S;CAS;CEP
+HR 113;S;CAS;CEP
+HR 244;S;CAS;CEP
+HR 266;S;CAS;AND
+HD 5408A;S;CAS;AND
+HD 5408B;S;CAS;AND
+ups01/Cas;S;CAS;AND
+HD 9353;S;CAS;PER
+HD 7902;S;AND;CAS
+HR 391;S;CAS;AND
+HR 482;S;AND;PER
+HD 10806;S;PER;CAS
+V773/Cas;S;PER;AND
+V440/Per;S;PER;AND
+i/Per;S;PER;AND
+V551/Per;S;PER;AND
+HD 15407;S;CAS;PER
+CCDM J02294+5532AB;S;PER;AND
+HR 787;S;AND;PER
+HR 846;S;PER;CAS
+HR 891;S;PER;AND
+HR 890;S;PER;AND
+ADS 2270;S;PER;AND
+HD 21641;S;CAM;PER
+HR 1047;S;CAM;PER
+HD 20675;S;CAM;PER
+HR 1141;S;CAM;PER
+HD 24689;S;PER;TRI
+HR 7646;S;CYG;LYR
+HD 192578;S;CYG;LYR
+31 B/Cyg;S;CYG;LYR
+omi02/Cyg;S;CYG;DRA
+ome01/Cyg;S;CYG;CEP
+HD 195710;S;CYG;CEP
+ome02/Cyg;S;CYG;CEP
+U/Cyg;S;CYG;DRA
+HD 196088;S;CYG;DRA
+HR 7972;S;CYG;LAC
+HD 198513;S;CYG;CEP
+HD 198513A;S;CYG;CEP
+HD 206267;S;CEP;CYG
+HR 8479;S;LAC;CEP
+15/Cep;S;CYG;CEP
+V442/Cep;S;CYG;CEP
+CCDM J21565+5948AB;S;CYG;CEP
+CCDM J22514+6142AB;S;CAS;LAC
+ADS 16317;S;CAS;LAC
+HR 8808;S;CAS;CEP
+V649/Cas;S;CAS;CEP
+HD 218375;S;CAS;CEP
+4/Cas;S;AND;CAS
+HR 8886;S;CAS;CEP
+V816/Cas;S;CAS;CEP
+HD 222407;S;CAS;CEP
+BD+61 2533A;S;CAS;CEP
+BD+61 2533B;S;CAS;CEP
+HD 222275;S;CAS;CEP
+V639/Cas;S;CAS;CEP
+9/Cas;S;CAS;CEP
+HR 237;S;CAS;CEP
+V761/Cas;S;CAS;CEP
+HR 292;S;CAS;CEP
+HD 10332;S;AND;PER
+44/Cas;S;AND;PER
+HD 12112;S;CAS;PER
+5/Per;S;AND;PER
+HD 14143;S;PER;AND
+V520/Per;S;PER;AND
+V480/Per;S;PER;AND
+V572/Per;S;CAM;PER
+HR 1127;S;CAM;PER
+HD 25932;S;PER;CAM
+HR 7492;S;CYG;LYR
+HR 7495;S;CYG;LYR
+HR 7684;S;CYG;DRA
+HR 7577;S;CYG;DRA
+HR 7755;S;CYG;CEP
+e/Cyg;S;DRA;CYG
+HR 7791;S;DRA;CEP
+HR 7726;S;CEP;CYG
+HR 7955;S;DRA;CEP
+HD 200575;S;CYG;CEP
+HD 200614;S;CYG;CEP
+HD 203551;S;CEP;CYG
+HD 202214;S;CEP;CYG
+V426/Cep;S;CEP;CYG
+HR 8153;S;CEP;CYG
+V381/Cep;S;CEP;CYG
+HR 8399;S;CYG;CEP
+HR 8327;S;CYG;CEP
+19/Cep;S;CYG;CEP
+VV/Cep;S;CYG;CEP
+AH/Cep;S;CEP;LAC
+HD 220940;S;CAS;CEP
+V650/Cas;S;CAS;CEP
+HD 4523;S;CAS;CEP
+HR 233;S;CAS;CEP
+35/Cas;S;CAS;CEP
+HD 11092;S;CAS;PER
+HR 511;S;CAS;PER
+HD 9546;S;CAS;PER
+HD 14172;S;PER;CAS
+HR 839;S;PER;CAS
+HR 964;S;CAM;PER
+HR 1046;S;CAM;PER
+HD 23552;S;CAM;PER
+HR 1371;S;PER;TRI
+psi/Cyg;S;DRA;CEP
+BD+52 2572A;S;DRA;CEP
+HD 191195;S;DRA;CEP
+HR 7843;S;CEP;CYG
+BD+54 2329A;S;DRA;CEP
+CCDM J20185+5524AB;S;DRA;CEP
+HR 7827;S;DRA;CEP
+HD 198679;S;CEP;CYG
+CCDM J20537+5918AB;S;CEP;DRA
+HD 199306;S;CEP;DRA
+HR 8133;S;CEP;CYG
+HD 203374;S;CEP;CYG
+HD 207826;S;CEP;DRA
+HR 8361;S;CEP;LAC
+HR 8384;S;CEP;DRA
+HD 208971;S;CEP;DRA
+HR 8375;S;CYG;CEP
+HD 208141;S;CEP;CYG
+HD 212392;S;LAC;CEP
+HD 212391;S;LAC;CEP
+BD+67 1468B;S;CEP;DRA
+BD+67 1468A;S;CEP;DRA
+CCDM J22490+6834AB;S;CEP;DRA
+HD 216606;S;CAS;CEP
+31/Cas;S;CAS;CEP
+HD 6840;S;CAS;CEP
+HD 5839;S;CAS;CEP
+HR 567;S;CAS;PER
+55/Cas;S;PER;CAS
+HD 16218;S;CAS;PER
+HR 860;S;CAS;PER
+HD 18757;S;CAS;PER
+CCDM J03302+5922AB;S;CAM;PER
+HR 1068;S;CAM;PER
+ADS 2592;S;CAM;PER
+HR 1071;S;CAM;PER
+HD 23675;S;CAM;PER
+HD 24431;S;CAM;PER
+HD 24421;S;CAM;PER
+HD 28693;S;PER;AUR
+m/Per;S;PER;AUR
+V2083/Cyg;S;CYG;DRA
+R/Cyg;S;CYG;DRA
+HR 7477;S;CYG;DRA
+tet/Cyg;S;CYG;DRA
+16 B/Cyg;S;CYG;DRA
+16 A/Cyg;S;CYG;DRA
+HR 7818;S;DRA;CEP
+HD 205022;S;CEP;DRA
+HD 205741;S;CEP;DRA
+HR 8474;S;CEP;DRA
+HR 8598;S;CEP;DRA
+HR 8595;S;CEP;DRA
+HD 220841;S;CAS;CEP
+HD 3366;S;CAS;CEP
+HD 9165;S;CAS;CEP
+HR 861;S;PER;CAS
+HR 1033;S;CAM;PER
+HD 21903;S;CAS;CAM
+HD 21903A;S;CAS;CAM
+HR 1112;S;CAM;CAS
+HR 1161;S;CAM;PER
+HD 25362;S;CAM;PER
+b/Per;S;CAM;PER
+HD 27673;S;CAM;PER
+HD 179959;S;CYG;LYR
+HD 179958;S;CYG;LYR
+HD 179957;S;CYG;LYR
+BD+49 2959;S;CYG;LYR
+HR 7311;S;CYG;LYR
+HD 182353;S;CYG;DRA
+HD 184195;S;DRA;CYG
+HD 184170;S;DRA;CYG
+HD 185414;S;DRA;CYG
+23/Cyg;S;DRA;CYG
+HR 7611;S;DRA;CYG
+HR 7695;S;DRA;CEP
+HD 191940;S;DRA;CYG
+68/Dra;S;DRA;CEP
+HR 7805;S;DRA;CEP
+16/Cep;S;CEP;DRA
+HR 8493;S;CEP;DRA
+ADS 15764;S;CEP;DRA
+HR 9038;S;CAS;CEP
+HD 224098;S;CAS;CEP
+21/Cas;S;CAS;CEP
+40/Cas;S;CAS;CEP
+CCDM J01356+7227AB;S;CAS;CEP
+BD+70 153A;S;CAS;CEP
+BD+70 153B;S;CAS;CEP
+HR 967;S;CAM;CAS
+HR 985;S;CAM;CAS
+HD 22399;S;CAS;CAM
+NAME MOAI;S;CAM;CAS
+HR 1129;S;CAM;CAS
+HD 24409;S;CAM;CAS
+HR 1205;S;CAM;CAS
+HR 1382;S;CAM;PER
+1/Cam;S;PER;CAM
+1 B/Cam;S;PER;CAM
+2/Cam;S;PER;CAM
+STF/566AB;S;PER;CAM
+3/Cam;S;PER;CAM
+HR 1493;S;PER;CAM
+HD 30649;S;PER;AUR
+HD 176003;S;LYR;DRA
+HR 7154;S;DRA;HER
+HR 7229;S;DRA;CYG
+HR 7252;S;DRA;CYG
+HD 184467;S;DRA;CYG
+HR 7500;S;CYG;DRA
+HR 7448;S;CYG;DRA
+HD 188772;S;DRA;CYG
+HD 191700;S;DRA;CEP
+e/Dra;S;DRA;CEP
+65/Dra;S;DRA;CEP
+CCDM J00162+7657AB;S;CEP;CAS
+HD 3553;S;CAS;CEP
+HR 579;S;CAS;CEP
+49/Cas;S;CAS;CEP
+V779/Cas;S;CAS;CEP
+HD 20273;S;CAS;CAM
+HR 1260;S;CAM;CAS
+SZ/Cam;S;CAM;CAS
+HR 1352;S;CAM;CAS
+4/Cam;S;CAM;PER
+HR 1515;S;CAM;PER
+HD 30136;S;CAM;PER
+HD 32416;S;CAM;AUR
+HD 32296;S;CAM;AUR
+HR 7090;S;DRA;HER
+CCDM J18575+5814AB;S;DRA;HER
+HR 7361;S;CYG;DRA
+HD 217992;S;CEP;CAS
+BD+78 1;S;CEP;UMI
+BD+78 1B;S;CEP;UMI
+HD 7505;S;CAS;CEP
+HD 9899;S;CAS;CEP
+47/Cas;S;CAS;CEP
+HD 12927;S;CEP;CAS
+HD 19615;S;CAS;CAM
+HD 22912;S;CAM;CEP
+HD 28342;S;CAM;CEP
+HD 26669;S;CAM;CAS
+HR 1486;S;PER;AUR
+5/Cam;S;CAM;PER
+HD 32903;S;CAM;AUR
+V390/Aur;S;CAM;AUR
+HR 1736;S;CAM;AUR
+HD 34903;S;CAM;AUR
+HR 6983;S;DRA;HER
+BD+52 2258;S;DRA;HER
+HD 172712;S;DRA;HER
+HD 172713;S;DRA;HER
+c/Dra;S;DRA;HER
+CCDM J18443+6103AB;S;DRA;HER
+HR 7191;S;DRA;UMI
+HD 181043;S;DRA;CYG
+HD 185713;S;DRA;CEP
+HD 186063;S;DRA;UMI
+69/Dra;S;DRA;CEP
+HR 8423;S;CEP;DRA
+HD 215318;S;UMI;CEP
+HR 8702;S;UMI;CEP
+U/Cep;S;CAS;CEP
+HD 12543;S;CEP;CAS
+HR 906;S;CEP;CAM
+HR 881;S;CEP;CAS
+HR 961;S;CAS;CAM
+HR 1401;S;CAM;CEP
+HR 1527;S;CAM;AUR
+HD 31151;S;AUR;CAM
+HD 32893;S;CAM;AUR
+12/Cam;S;CAM;AUR
+HR 1593;S;CAM;AUR
+16/Cam;S;CAM;AUR
+R/Aur;S;CAM;AUR
+BD+49 1364;S;AUR;CAM
+b/Dra;S;DRA;HER
+HD 172825;S;DRA;HER
+HD 172923;S;DRA;UMI
+HR 6979;S;DRA;UMI
+HR 7199;S;DRA;UMI
+74/Dra;S;UMI;CEP
+HD 194375;S;CEP;DRA
+HD 196565;S;CEP;DRA
+75/Dra;S;UMI;CEP
+V377/Cep;S;CEP;CAS
+HD 5621;S;CAS;CEP
+HD 20084;S;CEP;CAS
+HR 1230;S;CAM;CEP
+HR 1491;S;CAM;CEP
+HR 1589;S;CAM;CEP
+HR 1925;S;CAM;AUR
+HR 6792;S;HER;LYR
+HR 6753;S;HER;DRA
+HR 6849;S;HER;DRA
+HD 173831;S;DRA;UMI
+40/Dra;S;DRA;UMI
+41/Dra;S;DRA;UMI
+HR 7425;S;DRA;UMI
+HR 1686;S;CAM;CEP
+HR 1650;S;CAM;CEP
+HR 1853;S;CAM;CAS
+HD 38475;S;CAM;AUR
+19/Cam;S;CAM;AUR
+CCDM J05491+6248AB;S;CAM;AUR
+29/Cam;S;CAM;AUR
+HD 40143;S;AUR;CAM
+HD 164059;S;HER;DRA
+30/Dra;S;DRA;HER
+ksi/Dra;S;DRA;HER
+HD 162898;S;DRA;UMI
+f/Dra;S;UMI;DRA
+psi01 A/Dra;S;UMI;DRA
+psi01 B/Dra;S;UMI;DRA
+HD 42951;S;CAM;CEP
+HD 44472;S;CAM;LYN
+HD 40034;S;CAM;AUR
+40/Cam;S;LYN;CAM
+HR 2123;S;AUR;CAM
+ADS 4655;S;AUR;CAM
+41 A/Aur;S;LYN;AUR
+41 B/Aur;S;LYN;AUR
+41/Aur;S;LYN;AUR
+HR 6641;S;DRA;HER
+nu.01/Dra;S;HER;DRA
+nu.02/Dra;S;HER;DRA
+HR 6560;S;DRA;HER
+26 A/Dra;S;DRA;UMI
+HD 151746;S;UMI;DRA
+HD 152303;S;UMI;DRA
+HR 3082;S;CAM;UMA
+HR 2581;S;LYN;CAM
+HD 47659;S;LYN;AUR
+4/Lyn;S;LYN;CAM
+8/Lyn;S;LYN;AUR
+10/Lyn;S;LYN;AUR
+6/Lyn;S;LYN;AUR
+HD 45175;S;LYN;CAM
+HD 156162;S;HER;DRA
+HD 156890;S;DRA;HER
+20/Dra;S;UMI;DRA
+pi.02/UMi;S;UMI;DRA
+HD 139777;S;UMI;CAM
+HD 128642;S;UMI;CAM
+HR 4892;S;DRA;CAM
+HR 4639;S;DRA;CAM
+HR 4893;S;DRA;CAM
+HD 50904;S;LYN;CAM
+ADS 5400;S;LYN;AUR
+CCDM J06462+5926B;S;LYN;AUR
+14/Lyn;S;LYN;AUR
+HR 2486;S;LYN;AUR
+HR 2485;S;LYN;AUR
+HR 6399;S;HER;DRA
+HR 6383;S;DRA;HER
+mu/Dra;S;DRA;HER
+mu/Dra;S;DRA;HER
+mu/Dra;S;DRA;HER
+HD 145309;S;UMI;DRA
+8/UMi;S;UMI;DRA
+HD 132698;S;UMI;CAM
+4/UMi;S;UMI;DRA
+HR 5009;S;UMI;CAM
+HD 69054;S;CAM;UMA
+HR 3352;S;CAM;CEP
+HR 3236;S;CAM;UMA
+HD 49902;S;LYN;AUR
+HR 6237;S;DRA;HER
+CCDM J16238+6142AB;S;DRA;UMI
+5/UMi;S;UMI;CAM
+HD 119702;S;UMI;CAM
+CCDM J09379+7305AB;S;DRA;CAM
+IDS 07377+6418;S;CAM;LYN
+HD 58917;S;LYN;CAM
+47/Cam;S;CAM;LYN
+19 A/Lyn;S;CAM;LYN
+19 B/Lyn;S;CAM;LYN
+HR 2644;S;LYN;AUR
+BD+52 1165B;S;LYN;AUR
+CCDM J07057+5245AB;S;LYN;AUR
+HR 6286;S;HER;DRA
+42/Her;S;HER;DRA
+17 A/Dra;S;DRA;HER
+17 B/Dra;S;DRA;HER
+HR 6036;S;DRA;HER
+HR 5073;S;UMI;DRA
+CCDM J13048+7301AB;S;UMI;DRA
+HD 103246;S;DRA;CAM
+HR 3112;S;CAM;LYN
+53/Cam;S;LYN;CAM
+ADS 6004;S;LYN;CAM
+HR 6150;S;DRA;HER
+PX/Dra;S;BOO;DRA
+HD 126028;S;DRA;UMI
+HD 121146;S;DRA;UMI
+HR 4021;S;DRA;CAM
+HD 94132;S;DRA;CAM
+sig02/UMa;S;UMA;LYN
+sig02 A/UMa;S;UMA;LYN
+HR 3221;S;UMA;CAM
+HD 66286;S;CAM;LYN
+HD 68771;S;UMA;CAM
+HR 2844;S;LYN;AUR
+BD+48 1538A;S;LYN;AUR
+HR 6162;S;HER;DRA
+BD+46 2169A;S;CRB;HER
+IDS 15485+5312;S;BOO;DRA
+HR 5887;S;BOO;DRA
+HD 138367;S;BOO;DRA
+HD 115061;S;DRA;UMI
+HD 115136;S;DRA;UMI
+4/Dra;S;DRA;UMA
+HR 3859;S;UMA;DRA
+28/UMa;S;UMA;DRA
+h/UMa;S;DRA;UMA
+c/UMa;S;UMA;LYN
+HR 2969;S;LYN;AUR
+HR 5818;S;BOO;DRA
+HD 137588;S;BOO;DRA
+HD 130173;S;DRA;BOO
+DL/Dra;S;DRA;BOO
+i/Dra;S;DRA;UMA
+HR 5074;S;DRA;UMA
+HR 3911;S;UMA;LYN
+27/Lyn;S;CAM;LYN
+CC/Lyn;S;LYN;AUR
+HR 6050;S;HER;CRB
+14/Her;S;HER;BOO
+HR 5715;S;BOO;DRA
+HD 135944;S;BOO;DRA
+HD 132910;S;BOO;DRA
+HD 124319;S;BOO;UMA
+HR 4974;S;UMI;DRA
+HD 113337;S;UMI;DRA
+HR 4727;S;DRA;UMA
+HR 4610;S;DRA;UMA
+CCDM J11388+6421AB;S;DRA;UMA
+ups/UMa;S;UMA;LYN
+HD 138302;S;BOO;CRB
+HR 5537;S;BOO;DRA
+HD 125193;S;UMA;BOO
+HR 5372;S;UMA;BOO
+HR 5085;S;UMA;DRA
+HR 4840;S;CVN;UMA
+HR 4867;S;CVN;UMA
+HR 4439;S;DRA;UMA
+GJ 431.1;S;DRA;UMA
+HD 91948;S;UMA;LYN
+HR 3922;S;UMA;LYN
+MCC 541;S;LYN;UMA
+HD 68562;S;LYN;CNC
+k/Boo;S;BOO;DRA
+BX/Boo;S;BOO;DRA
+i/Boo;S;BOO;DRA
+i/Boo;S;BOO;DRA
+i/Boo;S;BOO;DRA
+39/Boo;S;BOO;DRA
+BD+49 2326A;S;BOO;DRA
+BD+49 2326B;S;BOO;DRA
+kap01/Boo;S;BOO;UMA
+tet/Boo;S;BOO;DRA
+HD 122200;S;UMA;CVN
+84/UMa;S;UMA;CVN
+zet02/UMa;S;UMA;CVN
+zet01/UMa;S;UMA;CVN
+HD 115043;S;UMA;CVN
+78/UMa;S;UMA;DRA
+78 A/UMa;S;UMA;DRA
+36/UMa;S;UMA;LYN
+HR 3725;S;LYN;UMA
+HR 3697;S;LYN;UMA
+tet/UMa;S;UMA;LYN
+HD 80608;S;LYN;UMA
+HR 3287;S;LYN;GEM
+nu.02/Boo;S;BOO;CRB
+HD 139341;S;BOO;CRB
+HR 5612;S;BOO;CVN
+HR 4917;S;UMA;CVN
+HD 86942;S;LMI;UMA
+CCDM J13377+5043AB;S;CVN;UMA
+HR 5148;S;CVN;UMA
+7/CVn;S;CVN;UMA
+HR 4363;S;UMA;LYN
+HR 4098;S;LMI;UMA
+HD 88230;S;LMI;UMA
+HR 3743;S;LMI;LYN
+10/UMa;S;LYN;UMA
+10 A/UMa;S;LYN;UMA
+10 B/UMa;S;LYN;UMA
+HD 128092;S;BOO;UMA
+HD 92787;S;LMI;UMA
+HR 4044;S;LMI;UMA
+HR 3586;S;LYN;UMA
+HD 121247;S;CVN;UMA
+HR 4945;S;CVN;UMA
+DN/UMa;S;UMA;COM
+65 D/UMa;S;UMA;COM
+HD 101177;S;UMA;LMI
+HD 89269;S;LMI;UMA
+A/Hya;S;LYN;LMI
+CCDM J09210+3811AB;S;LYN;LMI
+BD+38 2025A;S;LYN;LMI
+BD+38 2025B;S;LYN;LMI
+HR 3566;S;LYN;CNC
+HD 18715;S;PER;TRI
+52/Ari;S;ARI;PER
+52 A/Ari;S;ARI;PER
+50/Ari;S;ARI;TRI
+HR 935;S;CET;ERI
+rho02/Eri;S;CET;ERI
+HR 913;S;CET;ERI
+BD+35 668s;S;PER;ARI
+V423/Per;S;PER;TRI
+HR 975;S;PER;TRI
+HD 20078;S;ARI;PER
+tau01/Ari;S;ARI;TAU
+HD 20716;S;ARI;TAU
+HR 952;S;ARI;CET
+EL/Cet;S;CET;TAU
+kap01/Cet;S;CET;TAU
+94 A/Cet;S;CET;ERI
+95/Cet;S;CET;TAU
+94/Cet;S;CET;ERI
+HR 955;S;CET;ERI
+CCDM J03160-0555AB;S;CET;ERI
+14/Eri;S;CET;ERI
+ADS 2465;S;ERI;CET
+HD 20911;S;ERI;CET
+tau04/Eri;S;ERI;CET
+alf/For;S;FOR;ERI
+CCDM J03245+3332AB;S;ARI;PER
+UX/Ari;S;ARI;TAU
+HD 21743;S;ARI;TAU
+HD 21743B;S;ARI;TAU
+66/Ari;S;ARI;TAU
+HD 21437;S;ARI;TAU
+HR 1036;S;ARI;TAU
+HD 21915;S;ARI;TAU
+HD 21524;S;ARI;TAU
+ksi/Tau;S;TAU;ARI
+HR 1023;S;CET;TAU
+HD 21019;S;CET;TAU
+chi03/For;S;HOR;ERI
+IX/Per;S;TAU;PER
+o/Per;S;TAU;PER
+HD 22963;S;TAU;PER
+BD+31 642A;S;TAU;PER
+BD+31 642B;S;TAU;PER
+HD 23245;S;TAU;ARI
+HD 23257;S;TAU;ARI
+7/Tau;S;ARI;TAU
+17/Tau;S;TAU;ARI
+16/Tau;S;TAU;ARI
+HR 1110;S;TAU;ARI
+HD 22878;S;TAU;ERI
+HR 1099;S;TAU;ERI
+HR 1125;S;ERI;CET
+20/Eri;S;ERI;FOR
+HR 1093;S;FOR;ERI
+HR 1095;S;FOR;ERI
+h/Eri;S;ERI;FOR
+HD 23922;S;TAU;PER
+HR 1163;S;PER;TAU
+HR 1191;S;PER;TAU
+ADS 2843;S;PER;TAU
+X/Per;S;TAU;PER
+q/Tau;S;TAU;ARI
+21/Tau;S;TAU;ARI
+22/Tau;S;TAU;ARI
+24/Tau;S;TAU;ARI
+20/Tau;S;TAU;ARI
+HD 23568;S;TAU;ARI
+HR 1188;S;TAU;ARI
+HD 23873;S;TAU;ARI
+HD 23410;S;TAU;ARI
+23/Tau;S;TAU;ARI
+27/Tau;S;TAU;ARI
+HD 23964;S;TAU;ARI
+28/Tau;S;TAU;ARI
+HD 24496;S;TAU;ARI
+e/Tau;S;TAU;ARI
+HD 23990;S;ERI;TAU
+u/Tau;S;TAU;ERI
+31/Tau;S;ERI;TAU
+HD 23992;S;ERI;TAU
+HD 24325;S;ERI;TAU
+32 A/Eri;S;ERI;TAU
+32 B/Eri;S;ERI;TAU
+ADS 2850;S;ERI;TAU
+ADS 2832;S;ERI;TAU
+HR 1206;S;FOR;ERI
+HIP 17797;S;FOR;ERI
+HD 24745;S;ERI;HOR
+HR 1219;S;ERI;HOR
+ADS 2888;S;PER;TAU
+HR 1229;S;PER;TAU
+ksi/Per;S;PER;TAU
+AG/Per;S;PER;TAU
+36/Tau;S;TAU;ARI
+HD 25556;S;TAU;ARI
+HD 25201;S;TAU;ARI
+39/Tau;S;TAU;ARI
+HR 1238;S;TAU;ARI
+HR 1243;S;ERI;TAU
+HD 25477;S;TAU;ERI
+HD 26040;S;ERI;TAU
+HD 26087;S;ERI;FOR
+HD 25535;S;ERI;HOR
+HD 26161;S;PER;TAU
+HD 26128;S;TAU;ARI
+51/Tau;S;TAU;ARI
+ome02/Tau;S;TAU;ARI
+HR 1280;S;TAU;ARI
+48/Tau;S;TAU;ARI
+HR 1279;S;TAU;ARI
+HR 1308;S;TAU;ERI
+46/Tau;S;TAU;ERI
+BD+07 617A;S;TAU;ERI
+HR 1322;S;TAU;ERI
+45/Tau;S;ERI;TAU
+HR 1321;S;TAU;ERI
+HD 26573;S;ERI;TAU
+HD 26584;S;ERI;TAU
+omi02/Eri;S;ERI;TAU
+GW/Eri;S;ERI;FOR
+HD 26757;S;ERI;CAE
+HD 26428;S;ERI;FOR
+ups04/Eri;S;CAE;ERI
+54/Per;S;TAU;PER
+56/Per;S;PER;TAU
+HR 1406;S;PER;TAU
+ADS 3179;S;TAU;ARI
+62/Tau;S;TAU;ARI
+kap01/Tau;S;TAU;ARI
+kap02/Tau;S;TAU;ARI
+HR 1403;S;TAU;ARI
+CCDM J04224+2049AB;S;TAU;ARI
+HR 1375;S;TAU;ARI
+ups/Tau;S;TAU;ARI
+HD 28150;S;TAU;ARI
+del02/Tau;S;TAU;ARI
+del03/Tau;S;TAU;ARI
+HD 28406;S;TAU;ARI
+HD 28363;S;TAU;ARI
+70/Tau;S;TAU;ARI
+tet01/Tau;S;TAU;ARI
+71/Tau;S;TAU;ARI
+tet02/Tau;S;TAU;ARI
+HU/1080A;S;TAU;ARI
+55/Tau;S;TAU;ARI
+h/Tau;S;TAU;ARI
+HR 1358;S;TAU;ARI
+60/Tau;S;TAU;ARI
+HD 27762;S;TAU;ARI
+HR 1402;S;TAU;ARI
+r/Tau;S;ERI;TAU
+BD+09 570A;S;ERI;TAU
+HD 27516;S;ERI;TAU
+HR 1366;S;ERI;TAU
+HD 28053;S;ERI;TAU
+HD 27528;S;ERI;FOR
+CCDM J04279-2130AB;S;ERI;CAE
+ADS 3159;S;ERI;FOR
+GJ 168.3;S;ERI;FOR
+GJ 168.3;S;ERI;FOR
+HR 1410;S;ERI;FOR
+HR 1359;S;CAE;ERI
+HR 1386;S;CAE;ERI
+HR 1398;S;CAE;ERI
+58/Per;S;PER;AUR
+HD 28503;S;TAU;AUR
+HR 1419;S;PER;TAU
+HR 1445;S;AUR;PER
+CCDM J04385+2656AB;S;AUR;PER
+BD+26 731A;S;AUR;PER
+BD+26 731B;S;AUR;PER
+HD 28976;S;TAU;AUR
+HR 1455;S;TAU;ARI
+sig02/Tau;S;TAU;ORI
+HR 1427;S;TAU;ARI
+HD 28568;S;TAU;ARI
+89/Tau;S;TAU;ORI
+80/Tau;S;TAU;ARI
+83/Tau;S;TAU;ARI
+sig01/Tau;S;TAU;ORI
+HR 1480;S;TAU;ORI
+c/Eri;S;ERI;TAU
+HR 1462;S;ERI;TAU
+HR 1441;S;TAU;ERI
+46/Eri;S;TAU;ERI
+ADS 3318;S;ERI;TAU
+HR 1460;S;ERI;TAU
+HR 1483;S;ERI;ORI
+HR 1438;S;CET;PSC
+l/Eri;S;ERI;FOR
+HR 1439;S;CAE;ERI
+HD 30090;S;PER;AUR
+HR 1528;S;AUR;TAU
+HR 1490;S;AUR;PER
+i/Tau;S;TAU;AUR
+96/Tau;S;TAU;ORI
+HD 30869;S;TAU;ORI
+HR 1519;S;TAU;ORI
+HR 1507;S;TAU;ORI
+HD 30810;S;TAU;ORI
+HD 29819;S;ORI;TAU
+pi.03/Ori;S;ORI;TAU
+HS/Eri;S;ERI;ORI
+DW/Eri;S;ERI;ORI
+55/Eri;S;ERI;ORI
+HD 31142;S;CAE;ERI
+HR 1559;S;CAE;ERI
+HR 1557;S;PIC;CAE
+5/Aur;S;AUR;TAU
+HD 31806;S;TAU;AUR
+HD 32092;S;TAU;ORI
+k/Tau;S;TAU;AUR
+99/Tau;S;TAU;AUR
+101/Tau;S;TAU;ORI
+HR 1600;S;TAU;ORI
+g/Ori;S;TAU;ORI
+omi02/Ori;S;TAU;ORI
+pi.01/Ori;S;TAU;ORI
+V1834/Ori;S;TAU;ORI
+HR 1610;S;ERI;ORI
+HD 32273;S;ERI;ORI
+HR 1596;S;ERI;LEP
+HD 32526;S;ERI;LEP
+HD 31297;S;ERI;LEP
+HD 31768;S;ERI;LEP
+b/Eri;S;ERI;LEP
+63/Eri;S;ERI;LEP
+HR 1604;S;ERI;LEP
+HD 31925A;S;ERI;LEP
+HR 1639;S;AUR;TAU
+HD 33632;S;AUR;TAU
+HD 33203B;S;AUR;TAU
+HD 33185;S;TAU;AUR
+HD 33204;S;TAU;AUR
+HD 33252;S;TAU;AUR
+V1154/Tau;S;TAU;ORI
+CCDM J05055+1948AB;S;TAU;ORI
+105/Tau;S;TAU;ORI
+m/Tau;S;TAU;ORI
+GJ 188;S;TAU;ORI
+GJ 188;S;TAU;ORI
+15/Ori;S;TAU;ORI
+13/Ori;S;TAU;ORI
+h/Ori;S;TAU;ORI
+i/Ori;S;TAU;ORI
+ADS 3712;S;TAU;ORI
+BD+08 866A;S;TAU;ORI
+HD 33340;S;TAU;ORI
+HD 33236;S;ERI;ORI
+HR 1701;S;ERI;ORI
+ADS 3799;S;ERI;ORI
+V1085/Ori;S;ERI;ORI
+CCDM J05118+0102AB;S;ERI;ORI
+HR 1703;S;ERI;ORI
+HD 32622;S;ERI;LEP
+CCDM J05147-0704AB;S;ERI;ORI
+HR 1671;S;ERI;ORI
+HD 33095;S;LEP;CAE
+gam02/Cae;S;CAE;COL
+HD 33473;S;PIC;CAE
+IDS 05053-4121;S;PIC;CAE
+HR 1738;S;AUR;PER
+HD 34656;S;TAU;AUR
+HD 34078;S;AUR;TAU
+HR 1779;S;TAU;AUR
+18/Aur;S;AUR;TAU
+14/Aur;S;TAU;AUR
+108/Tau;S;ORI;TAU
+CD/Tau;S;ORI;TAU
+HR 1741;S;TAU;ORI
+ADS 3962;S;ORI;TAU
+HR 1803;S;ORI;ERI
+psi01/Ori;S;ORI;ERI
+HR 1764;S;ORI;ERI
+HR 1800;S;ORI;ERI
+HR 1782;S;ORI;ERI
+CCDM J05239-0052A;S;ORI;ERI
+TYC 4757-1588-2;S;ORI;ERI
+HD 35456;S;ORI;ERI
+HD 34880;S;ORI;ERI
+HR 1778;S;ORI;ERI
+HD 34527;S;ORI;ERI
+HD 34721;S;LEP;ORI
+HR 1754;S;LEP;ORI
+HR 1753;S;LEP;ORI
+HR 1812;S;ORI;LEP
+IDS 05162-2120;S;COL;LEP
+HR 1771;S;COL;LEP
+HD 35163;S;COL;LEP
+HD 35811;S;COL;LEP
+HR 1772;S;COL;PIC
+HD 34358;S;COL;LEP
+HR 1825;S;AUR;TAU
+HD 35681;S;TAU;AUR
+HD 35921;S;TAU;AUR
+BD+25 839B;S;TAU;ORI
+118/Tau;S;TAU;ORI
+CCDM J05371+2656AB;S;TAU;AUR
+BD+26 870A;S;TAU;AUR
+HR 1889;S;TAU;ORI
+o/Tau;S;TAU;ORI
+HD 37013;S;TAU;ORI
+HD 35985;S;TAU;ORI
+BD+16 794B;S;TAU;ORI
+HR 1847;S;TAU;ORI
+HD 35956;S;TAU;ORI
+HR 1883;S;TAU;ORI
+phi01/Ori;S;TAU;ORI
+BD+05 939A;S;TAU;ORI
+BD+05 939B;S;TAU;ORI
+CCDM J05265+0256AB;S;ORI;TAU
+psi02/Ori;S;ORI;TAU
+n01/Ori;S;ORI;TAU
+38/Ori;S;ORI;ERI
+HD 36013;S;ORI;ERI
+CCDM J05297-0048AB;S;ORI;ERI
+HR 1861;S;ORI;ERI
+HR 1863;S;ORI;ERI
+HR 1873;S;ORI;ERI
+HR 1826;S;ORI;ERI
+HR 1900;S;ORI;MON
+HR 1891;S;ORI;MON
+c/Ori;S;ORI;MON
+HR 1898;S;ORI;MON
+45/Ori;S;ORI;MON
+tet01 D/Ori;S;ORI;MON
+tet01 A/Ori;S;ORI;MON
+ADS 4186;S;ORI;MON
+tet02 A/Ori;S;ORI;MON
+tet02 B/Ori;S;ORI;MON
+tet01 C/Ori;S;ORI;MON
+HR 1886;S;ORI;MON
+ADS 4182;S;ORI;MON
+HD 36151;S;ORI;MON
+HR 1911;S;ORI;ERI
+HR 1887;S;ORI;MON
+HD 36059;S;ORI;ERI
+HD 36094;S;COL;LEP
+HD 37224;S;COL;PIC
+HR 1827;S;PIC;COL
+IDS 05281-4223;S;PIC;COL
+HD 36648;S;PIC;COL
+HD 38503;S;TAU;AUR
+HD 37859;S;TAU;AUR
+26/Aur;S;TAU;AUR
+HD 38583;S;TAU;ORI
+HR 1945;S;TAU;AUR
+HD 38584;S;TAU;ORI
+HR 1997;S;TAU;ORI
+127/Tau;S;TAU;ORI
+HD 37603;S;TAU;ORI
+126/Tau;S;TAU;ORI
+BD+16 841A;S;TAU;ORI
+131/Tau;S;TAU;ORI
+133/Tau;S;TAU;ORI
+HD 38672;S;TAU;ORI
+HR 1987;S;TAU;ORI
+52/Ori;S;TAU;ORI
+HR 1978;S;TAU;ORI
+V1030/Ori;S;ORI;ERI
+HR 1959;S;ORI;MON
+HR 1986;S;ORI;ERI
+HR 1967;S;ORI;ERI
+BD-06 1293A;S;ORI;ERI
+V1031/Ori;S;ORI;MON
+HR 1944;S;ORI;LEP
+HD 37702;S;ORI;LEP
+HD 38426;S;COL;LEP
+AK/Lep;S;COL;LEP
+tet/Aur;S;TAU;AUR
+V440/Aur;S;TAU;ORI
+HR 2013;S;TAU;ORI
+136/Tau;S;TAU;ORI
+132/Tau;S;TAU;ORI
+HR 2030;S;TAU;ORI
+chi01/Ori;S;TAU;ORI
+CCDM J05508+1427AB;S;TAU;ORI
+HD 39729;S;ORI;TAU
+HD 38797;S;TAU;ORI
+134/Tau;S;TAU;ORI
+HD 39881;S;ORI;TAU
+HR 2099;S;ORI;TAU
+HR 2050;S;ORI;TAU
+HR 2014;S;TAU;ORI
+HD 39773;S;ORI;MON
+HR 2024;S;ORI;MON
+56/Ori;S;MON;ORI
+59/Ori;S;MON;ORI
+HD 40210;S;MON;ORI
+60/Ori;S;MON;ORI
+HR 2071;S;MON;ORI
+HD 40397;S;MON;ORI
+CCDM J05496-1429AB;S;ORI;LEP
+HD 40100;S;LEP;COL
+HR 2086;S;LEP;COL
+HR 2068;S;COL;LEP
+HD 39148;S;COL;LEP
+HR 2053;S;PIC;COL
+HR 2055;S;PIC;COL
+HR 2096;S;AUR;CAM
+HR 2137;S;TAU;AUR
+HD 41330;S;TAU;AUR
+V394/Aur;S;GEM;TAU
+HR 2111;S;GEM;TAU
+BD+23 1170A;S;GEM;TAU
+BD+23 1170B;S;GEM;TAU
+4/Gem;S;GEM;ORI
+3/Gem;S;GEM;ORI
+1/Gem;S;GEM;TAU
+64/Ori;S;GEM;TAU
+CCDM J06084+1358AB;S;GEM;ORI
+BD+13 1124A;S;GEM;ORI
+HR 2127;S;MON;ORI
+ADS 4749;S;MON;ORI
+HD 42092;S;MON;ORI
+HR 2174;S;MON;ORI
+HR 2154;S;MON;LEP
+HR 2142;S;MON;ORI
+HD 42116;S;CMA;MON
+HR 2182;S;CMA;LEP
+HR 2163;S;CMA;COL
+HR 2186;S;CMA;COL
+HR 2140;S;COL;LEP
+72/Col;S;COL;LEP
+pi.02/Col;S;PIC;COL
+HR 2187;S;PIC;CAR
+HD 42196;S;AUR;LYN
+HR 2217;S;AUR;GEM
+HR 2272;S;GEM;ORI
+12/Gem;S;GEM;ORI
+68/Ori;S;GEM;ORI
+HR 2214;S;GEM;ORI
+ksi/Ori;S;ORI;GEM
+HR 2253;S;ORI;GEM
+HR 2222;S;ORI;GEM
+HD 43931;S;ORI;GEM
+k/Ori;S;ORI;GEM
+l/Ori;S;ORI;MON
+HD 44109;S;ORI;MON
+HD 43587;S;MON;ORI
+HR 2280;S;MON;ORI
+BD+02 1197A;S;MON;ORI
+HR 2236;S;MON;ORI
+V638/Mon;S;CMA;MON
+HR 2224;S;MON;ORI
+HR 2234;S;MON;ORI
+HD 43857;S;MON;ORI
+7/Mon;S;MON;ORI
+HR 2237;S;MON;ORI
+HR 2284;S;MON;ORI
+HD 43745;S;CMA;COL
+HD 43162;S;CMA;COL
+HD 43369;S;CMA;COL
+HD 44404;S;COL;CMA
+HD 44926;S;GEM;ORI
+HR 2304;S;GEM;ORI
+HD 45769;S;GEM;ORI
+15/Gem;S;GEM;ORI
+CCDM J06228+1734AB;S;ORI;GEM
+HD 45088;S;ORI;MON
+HR 2366;S;ORI;GEM
+20/Gem;S;MON;GEM
+BD+17 1286B;S;MON;GEM
+HD 45180;S;ORI;MON
+HD 45314;S;ORI;GEM
+HR 2370;S;ORI;GEM
+HR 2378;S;MON;GEM
+CCDM J06237+0436AB;S;MON;ORI
+HD 44771;S;MON;ORI
+HR 2355;S;MON;ORI
+HR 2312;S;MON;ORI
+HD 45317;S;MON;ORI
+HD 44948;S;MON;ORI
+HD 45974;S;MON;ORI
+HR 2386;S;MON;ORI
+IDS 06275-0548;S;MON;ORI
+HR 2328;S;MON;ORI
+HR 2309;S;MON;ORI
+HR 2379;S;MON;ORI
+HR 2373;S;MON;ORI
+HD 45016;S;MON;CMA
+KL/CMa;S;MON;CMA
+IU/CMa;S;MON;CMA
+CCDM J06294-2235AB;S;CMA;COL
+ksi01/CMa;S;CMA;COL
+HD 46523;S;CMA;COL
+HD 45588;S;CMA;COL
+HD 44978;S;CMA;COL
+HR 2397;S;CMA;COL
+HR 2364;S;CMA;COL
+HR 2329;S;COL;CMA
+HR 2388;S;COL;CMA
+HR 2316;S;COL;CMA
+HD 45158;S;COL;CMA
+HR 2353;S;COL;CMA
+HD 45501;S;COL;CMA
+HD 46288;S;COL;CMA
+psi02/Aur;S;AUR;GEM
+HD 47412;S;AUR;GEM
+HD 48228;S;AUR;GEM
+HD 46296;S;AUR;GEM
+HR 2452;S;GEM;AUR
+53/Aur;S;GEM;AUR
+54/Aur;S;GEM;AUR
+25/Gem;S;GEM;AUR
+HD 46780;S;GEM;AUR
+HD 47176;S;GEM;AUR
+HD 47086;S;GEM;AUR
+HR 2449;S;GEM;MON
+30/Gem;S;GEM;MON
+HD 47127;S;GEM;MON
+HD 47888;S;GEM;MON
+14/Mon;S;GEM;MON
+HD 47129;S;MON;GEM
+HR 2467;S;GEM;MON
+V689/Mon;S;MON;ORI
+HD 46644;S;MON;CMI
+HD 48106;S;MON;ORI
+nu.01/CMa;S;CMA;MON
+ADS 5253;S;PSC;CET
+HR 2433;S;CMA;COL
+V350/CMa;S;CMA;COL
+S/534;S;CMA;COL
+HR 2455;S;CMA;COL
+10/CMa;S;CMA;COL
+HR 2431;S;COL;PUP
+HD 47144;S;COL;PUP
+HD 47500;S;COL;PUP
+HR 2444;S;COL;PUP
+HR 2482;S;COL;PUP
+HR 2475;S;COL;PUP
+psi05/Aur;S;GEM;AUR
+psi07/Aur;S;AUR;LYN
+59/Aur;S;LYN;AUR
+HD 50576;S;LYN;AUR
+tet/Gem;S;AUR;GEM
+HD 48640;S;GEM;AUR
+d/Gem;S;GEM;AUR
+HD 50482;S;GEM;AUR
+HD 50634;S;GEM;AUR
+CCDM J06474+1812AB;S;GEM;MON
+HD 48953;S;GEM;MON
+33/Gem;S;GEM;MON
+e/Gem;S;GEM;MON
+e/Gem;S;GEM;MON
+HD 49932;S;MON;GEM
+HD 49933;S;MON;ORI
+HR 2521;S;MON;CMI
+HD 50281;S;MON;ORI
+CCDM J06541-0551AB;S;MON;ORI
+mu/CMa;S;MON;ORI
+HR 2522;S;CMA;MON
+HR 2565;S;CMA;MON
+17/CMa;S;CMA;MON
+HD 51200;S;CMA;COL
+CCDM J06497-2405AB;S;CMA;PUP
+KX/CMa;S;CMA;PUP
+HR 2497;S;CMA;COL
+HR 2501;S;CMA;COL
+HD 49095;S;CMA;COL
+HR 2598;S;CMA;PUP
+HZ/CMa;S;CMA;PUP
+x/Pup;S;PUP;CMA
+HR 2579;S;PUP;CAR
+HD 52822;S;LYN;AUR
+HR 2620;S;GEM;AUR
+39/Gem;S;GEM;AUR
+40/Gem;S;GEM;AUR
+HD 53472;S;GEM;LYN
+HD 53766;S;GEM;LYN
+HD 52309;S;MON;GEM
+HR 2610;S;GEM;MON
+HR 2654;S;MON;CMI
+HR 2636;S;CMI;MON
+V926/Mon;S;CMI;MON
+HR 2599;S;MON;ORI
+HR 2624;S;MON;ORI
+V569/Mon;S;MON;ORI
+HD 53367;S;MON;ORI
+HD 52721;S;MON;ORI
+FN/CMa;S;MON;ORI
+CCDM J07018-1053AB;S;MON;ORI
+HD 53013;S;MON;CMA
+HD 51573;S;CMA;MON
+HD 52485;S;MON;CMA
+HR 2628;S;CMA;COL
+HR 2690;S;CMA;PUP
+HR 2614;S;CMA;PUP
+HR 2616;S;CMA;PUP
+HR 2607;S;CMA;PUP
+HR 2621;S;CMA;PUP
+HR 2612;S;CMA;PUP
+GJ 255;S;CMA;PUP
+t/Pup;S;PUP;CMA
+HR 2677;S;PUP;CMA
+C/Pup;S;PUP;CMA
+HR 2667;S;PUP;VEL
+CCDM J07039-4336AB;S;PUP;VEL
+HR 2668;S;PUP;VEL
+HD 54159;S;LYN;AUR
+CCDM J07128+2713AB;S;GEM;AUR
+HD 56176;S;GEM;AUR
+52/Gem;S;GEM;LYN
+V356/Gem;S;GEM;LYN
+HD 56200;S;CMI;GEM
+45/Gem;S;GEM;CMI
+HD 56515;S;CMI;MON
+24/Mon;S;CMI;MON
+CCDM J07142-0354AB;S;CMI;MON
+HR 2739;S;MON;ORI
+HD 56593;S;MON;ORI
+HR 2705;S;CMA;MON
+OS/CMa;S;MON;CMA
+HD 54519;S;CMA;MON
+HR 2695;S;CMA;PUP
+HD 55271;S;CMA;COL
+HR 2733;S;CMA;COL
+145/CMa;S;CMA;PUP
+CCDM J07166-2319AB;S;CMA;PUP
+HD 56578;S;CMA;PUP
+CCDM J07138-2254AB;S;CMA;COL
+LZ/CMa;S;CMA;PUP
+HD 55523;S;CMA;PUP
+HR 2768;S;CMA;PUP
+CCDM J07186-3048AB;S;CMA;PUP
+CD-30 4276A;S;CMA;PUP
+HD 55718;S;PUP;CMA
+ups01/Pup;S;PUP;CMA
+ups02/Pup;S;PUP;CMA
+pi/Pup;S;PUP;CMA
+HD 55474;S;PUP;CMA
+E/Pup;S;PUP;CMA
+HD 56531;S;CMA;PUP
+65/Aur;S;LYN;AUR
+b/Gem;S;GEM;LYN
+HD 58712;S;GEM;CMI
+56/Gem;S;CMI;GEM
+HD 58246;S;GEM;CMI
+61/Gem;S;GEM;CMI
+HD 58338;S;GEM;CMI
+HD 57275;S;CMI;MON
+CCDM J07279-1133AB;S;CMA;MON
+HR 2868;S;CMA;MON
+NR/CMa;S;CMA;MON
+HR 2785;S;CMA;MON
+HR 2831;S;CMA;MON
+HD 59408;S;CMA;MON
+HD 59074;S;CMA;MON
+CCDM J07193-2203AB;S;CMA;COL
+HR 2839;S;CMA;PUP
+HR 2874;S;CMA;PUP
+CCDM J07251-2110AB;S;CMA;MON
+MX/CMa;S;CMA;PUP
+HR 2786;S;CMA;PUP
+HQ/CMa;S;CMA;PUP
+HD 59235;S;CMA;PUP
+HR 2834;S;CMA;PUP
+HD 58324;S;CMA;PUP
+HR 2871;S;CMA;PUP
+HR 2870;S;CMA;PUP
+CD-31 4590;S;CMA;PUP
+HR 2829;S;CMA;PUP
+HR 2843;S;CMA;PUP
+V368/Pup;S;CMA;PUP
+70/Gem;S;GEM;LYN
+HR 2896;S;GEM;LYN
+HD 60204;S;GEM;LYN
+ups/Gem;S;GEM;LYN
+HR 2879;S;GEM;CMI
+HR 2877;S;GEM;CMI
+68/Gem;S;GEM;CMI
+CCDM J07401+0514AB;S;GEM;CMI
+alf/CMi;S;GEM;CMI
+del03/CMi;S;GEM;CMI
+HD 59726;S;CMI;MON
+25/Mon;S;MON;PUP
+HR 2883;S;CMA;MON
+ADS 6216;S;MON;PUP
+HD 61017;S;MON;PUP
+HR 2932;S;MON;PUP
+HR 2921;S;MON;PUP
+HD 60552;S;MON;PUP
+HR 2960;S;MON;PUP
+HD 61071;S;PUP;CMA
+m/Pup;S;PUP;CMA
+n/Pup;S;PUP;CMA
+n/Pup;S;PUP;CMA
+n/Pup;S;PUP;CMA
+k01/Pup;S;PUP;CMA
+k02/Pup;S;PUP;CMA
+HIP 37229;S;PUP;CMA
+HD 61687;S;PUP;CMA
+p/Pup;S;PUP;CMA
+HD 61431;S;PUP;CMA
+PS/Pup;S;CMA;PUP
+f/Pup;S;PUP;CMA
+HR 2895;S;CMA;PUP
+d02/Pup;S;PUP;CMA
+HR 3040;S;GEM;LYN
+HD 63610;S;GEM;LYN
+HD 63138;S;GEM;LYN
+82/Gem;S;GEM;CMI
+HD 63241;S;GEM;CMI
+HR 3050;S;CMI;CNC
+CCDM J07431+0011ABC;S;CMI;MON
+CCDM J07521-0303AB;S;CMI;CNC
+HD 63976;S;MON;PUP
+5/Pup;S;MON;PUP
+9/Pup;S;MON;PUP
+9 A/Pup;S;MON;PUP
+9 B/Pup;S;MON;PUP
+HD 64259;S;MON;PUP
+2 A/Pup;S;MON;PUP
+2 B/Pup;S;MON;PUP
+HD 62351;S;MON;PUP
+QY/Pup;S;MON;PUP
+HR 3027;S;MON;PUP
+HR 3048;S;MON;PUP
+188/Pup;S;PUP;CMA
+HR 3060;S;PUP;CMA
+HR 2992;S;PUP;CMA
+ksi/Pup;S;PUP;CMA
+omi/Pup;S;PUP;CMA
+HD 62315;S;PUP;CMA
+1/Pup;S;PUP;CMA
+212/Pup;S;PUP;CMA
+171/Pup;S;PUP;CMA
+HR 3035;S;PUP;CMA
+HD 63898;S;PUP;CMA
+HD 63425;S;PUP;VEL
+a/Pup;S;PUP;CMA
+ome02/Cnc;S;GEM;CNC
+HR 3127;S;GEM;CNC
+HD 66348;S;CNC;CMI
+BV/CMi;S;CMI;CNC
+HR 3136;S;CMI;CNC
+14/CMi;S;CMI;CNC
+HR 3098;S;CMI;CNC
+HR 3145;S;CMI;CNC
+HR 3072;S;MON;PUP
+HD 64611;S;MON;PUP
+HD 66306;S;PUP;PYX
+HR 3160;S;PUP;VEL
+HD 67587;S;GEM;CNC
+HD 66299;S;GEM;CNC
+CCDM J08095+3213AB;S;GEM;CNC
+HD 68017;S;GEM;CNC
+CCDM J08056+2732AB;S;GEM;CNC
+ADS 6569;S;GEM;CNC
+11/Cnc;S;GEM;CNC
+HR 3228;S;CNC;CMI
+zet01 B/Cnc;S;CNC;GEM
+zet01 A/Cnc;S;CNC;GEM
+HR 3231;S;HYA;CMI
+ADS 6588;S;HYA;MON
+HR 3174;S;HYA;MON
+19/Pup;S;HYA;MON
+18/Pup;S;HYA;MON
+HR 3194;S;HYA;MON
+HR 3190;S;HYA;MON
+HD 67698;S;PUP;HYA
+rho/Pup;S;PUP;HYA
+HD 66885;S;PUP;HYA
+HR 3196;S;PUP;VEL
+HD 68978A;S;PUP;VEL
+HR 3239;S;PUP;VEL
+HR 3177;S;VEL;PUP
+HR 3238;S;VEL;PUP
+HD 69280;S;VEL;PUP
+HR 3240;S;VEL;PUP
+HR 3241;S;VEL;PUP
+HR 3219;S;VEL;PUP
+21/Cnc;S;HYA;CNC
+HD 70935;S;HYA;CMI
+HR 3306;S;HYA;CMI
+HR 3269;S;HYA;CMI
+HR 3278;S;HYA;PUP
+1/Hya;S;HYA;PUP
+HR 3276;S;PYX;PUP
+HR 3315;S;PYX;HYA
+HR 3291;S;PYX;HYA
+HR 3251;S;PUP;VEL
+HD 70963;S;PYX;VEL
+HD 70928;S;PYX;VEL
+CCDM J08182-3722AB;S;VEL;PUP
+HR 3283;S;VEL;PUP
+phi01/Cnc;S;CNC;GEM
+HR 3311;S;CNC;GEM
+phi02 B/Cnc;S;CNC;GEM
+HD 71729;S;LYN;CNC
+HR 3312;S;CNC;GEM
+tet/Cnc;S;GEM;CNC
+HR 3380;S;HYA;CMI
+HR 3395;S;HYA;CMI
+LO/Hya;S;HYA;PUP
+2/Hya;S;HYA;PUP
+HD 71499;S;HYA;PUP
+HD 72462;S;HYA;PUP
+HR 3367;S;HYA;PUP
+HR 3345;S;HYA;PUP
+V596/Pup;S;HYA;PUP
+HR 3381;S;PYX;HYA
+HR 3402;S;PYX;HYA
+HR 3397;S;PYX;VEL
+XY/Pyx;S;VEL;PUP
+HR 3419;S;PYX;VEL
+HR 3399;S;VEL;PYX
+40/Cnc;S;GEM;CNC
+HD 73871;S;GEM;CNC
+HD 73598;S;GEM;CNC
+HD 73712;S;GEM;CNC
+HR 3428;S;GEM;CNC
+TYC 4868-1276-2;S;HYA;PUP
+V401/Hya;S;HYA;SEX
+F/Hya;S;HYA;SEX
+HR 3480;S;PYX;HYA
+D/Hya;S;PYX;HYA
+9/Hya;S;PYX;HYA
+HD 75098;S;PYX;HYA
+HR 3425;S;PYX;HYA
+HR 3430;S;PYX;HYA
+HD 74690;S;PYX;HYA
+CCDM J08397-2934AB;S;PYX;HYA
+HD 74822;S;PYX;HYA
+HD 73900;S;VEL;PYX
+HD 75199;S;VEL;PYX
+CCDM J08507+3504AB;S;GEM;LYN
+sig01/Cnc;S;LYN;CNC
+sig03/Cnc;S;LYN;CNC
+57/Cnc;S;LYN;CNC
+61/Cnc;S;LYN;CNC
+53/Cnc;S;CNC;GEM
+HD 76095;S;CNC;GEM
+HD 76924;S;CNC;GEM
+HD 75974;S;GEM;CNC
+HD 75470;S;GEM;CNC
+HD 75767;S;HYA;CMI
+HR 3526;S;HYA;CMI
+HR 3573;S;HYA;CMI
+HD 76735;S;HYA;SEX
+HD 75529;S;HYA;SEX
+15/Hya;S;HYA;SEX
+17 B/Hya;S;HYA;SEX
+17 A/Hya;S;HYA;SEX
+17/Hya;S;HYA;SEX
+HD 76352;S;PYX;HYA
+HR 3529;S;PYX;HYA
+HR 3554;S;PYX;HYA
+HD 199810;S;MIC;CAP
+HD 212386;S;GRU;IND
+sig02/Gru;S;GRU;IND
+rho/Gru;S;GRU;IND
+HR 8814;S;SCL;GRU
+tet/Gru;S;SCL;GRU
+HD 221736;S;SCL;GRU
+iot/Phe;S;SCL;GRU
+HR 9077;S;OCT;SCL
+CCDM J00519-4343AB;S;SCL;GRU
+ups/Phe;S;SCL;GRU
+eta02/For;S;ERI;FOR
+gam/Mic;S;MIC;CAP
+6/PsA;S;PSA;MIC
+CCDM J22120-3818AB;S;GRU;MIC
+nu/Gru;S;GRU;MIC
+CX/Gru;S;GRU;IND
+ups/Gru;S;SCL;GRU
+HD 11262;S;PHE;FOR
+bet/For;S;CET;FOR
+HD 210525;S;PSA;AQR
+HR 8760;S;SCL;GRU
+lam01/Scl;S;SCL;GRU
+HR 576;S;FOR;PHE
+HR 8050;S;MIC;CAP
+HD 201226;S;MIC;CAP
+tet/PsA;S;PSA;CAP
+HR 8680;S;PSA;AQR
+HR 8871;S;SCL;GRU
+HD 656;S;SCL;GRU
+HD 3074;S;SCL;GRU
+HD 6403;S;CET;SCL
+CCDM J02232-2952AB;S;FOR;ERI
+ome/For;S;CET;FOR
+24/Cap;S;CAP;MIC
+HR 8148;S;CAP;MIC
+8/PsA;S;PSA;CAP
+HR 8601;S;PSA;AQR
+TW/PsA;S;PSA;AQR
+HR 8956;S;SCL;GRU
+HR 57;S;CET;SCL
+HD 8887;S;CET;SCL
+HD 17134;S;CET;FOR
+gam01/For;S;CET;FOR
+HD 209506;S;PSA;AQR
+HR 8619;S;PSA;AQR
+HR 8802;S;SCL;PSA
+HD 4691;S;CET;SCL
+kap/For;S;FOR;CET
+TY/For;S;FOR;CET
+chi/Cap;S;CAP;AQR
+41/Cap;S;CAP;PSA
+CD-28 18257;S;SCL;GRU
+CD-28 18257A;S;SCL;GRU
+HR 8999;S;SCL;AQR
+HR 9026;S;SCL;AQR
+ADS 17090;S;CET;SCL
+ADS 17029;S;PSC;CET
+kap01/Scl;S;CET;SCL
+kap02/Scl;S;CET;SCL
+HD 1002;S;CET;SCL
+HD 2947;S;CET;SCL
+HD 3605;S;CET;SCL
+HR 251;S;CET;SCL
+CCDM J01236-2421AB;S;CET;SCL
+HR 436;S;CET;SCL
+HD 9731;S;CET;SCL
+HD 9540;S;CET;SCL
+HR 474;S;CET;SCL
+HR 730;S;FOR;CET
+tau02/Eri;S;FOR;ERI
+eps/Cap;S;CAP;PSA
+41/Aqr;S;PSA;AQR
+41 B/Aqr;S;PSA;AQR
+89/Aqr;S;SCL;PSA
+c01/Aqr;S;SCL;PSA
+CD-23 17771A;S;SCL;PSA
+CD-23 17771B;S;SCL;PSA
+HR 12;S;CET;SCL
+HR 159;S;CET;SCL
+GJ 25;S;CET;SCL
+GJ 25;S;CET;SCL
+HR 228;S;CET;SCL
+HR 247;S;CET;SCL
+48/Cet;S;CET;SCL
+HD 8896;S;CET;SCL
+HD 220466;S;SCL;AQR
+HD 220766;S;SCL;AQR
+b03/Aqr;S;SCL;AQR
+HD 1431;S;CET;SCL
+HR 108;S;CET;SCL
+HR 394;S;CET;SCL
+HD 9336;S;CET;SCL
+BD-17 6422;S;AQR;CAP
+53 A/Aqr;S;AQR;PSA
+53 B/Aqr;S;AQR;PSA
+HD 217684;S;SCL;PSA
+HR 8783;S;SCL;PSA
+104/Aqr;S;SCL;AQR
+i02/Aqr;S;SCL;AQR
+BD-19 6506B;S;SCL;AQR
+CCDM J23460-1841AB;S;SCL;AQR
+HD 5617;S;CET;SCL
+AB/Cet;S;FOR;CET
+sig/Cet;S;CET;FOR
+HR 857;S;CET;PSC
+HD 202929;S;AQR;CAP
+18/Aqr;S;AQR;CAP
+39/Aqr;S;AQR;CAP
+tau01/Aqr;S;AQR;PSC
+97/Aqr;S;SCL;AQR
+BD-15 6406A;S;SCL;AQR
+BD-15 6406B;S;SCL;AQR
+HD 220811;S;SCL;AQR
+ome02/Aqr;S;AQR;CAP
+HR 172;S;CET;SCL
+HR 206;S;CET;SCL
+CCDM J01200-1549AB;S;CET;FOR
+eps/Cet;S;CET;ERI
+GJ 105.4;S;CET;ERI
+GJ 105.4;S;CET;ERI
+14/Aqr;S;AQR;CAP
+HR 8355;S;AQR;CAP
+74/Aqr;S;PSC;AQR
+94/Aqr;S;AQR;CAP
+94 B/Aqr;S;AQR;CAP
+9/Cet;S;CET;PSC
+HD 2488;S;CET;PSC
+HR 227;S;PSC;CET
+18/Cet;S;PSC;CET
+HR 425;S;CET;PSC
+HD 10453;S;CET;PSC
+EZ/Cet;S;CET;PSC
+chi/Cet;S;CET;PSC
+HD 11964;S;CET;ERI
+GAL/315;S;CET;ERI
+HD 14044;S;CET;ERI
+ksi/Aqr;S;AQR;CAP
+CCDM J22430-0818AB;S;AQR;PSC
+HR 8836;S;PSC;AQR
+psi01/Aqr;S;PSC;AQR
+CCDM J23238-0828AB;S;PSC;AQR
+psi03/Aqr;S;PSC;AQR
+HD 2760;S;CET;PSC
+HD 4048;S;CET;PSC
+44/Cet;S;CET;PSC
+tet/Cet;S;CET;PSC
+HR 466;S;CET;ERI
+AR/Cet;S;CET;PSC
+77/Cet;S;CET;PSC
+80/Cet;S;CET;PSC
+CCDM J21041-0549AB;S;AQR;EQU
+12 A/Aqr;S;AQR;EQU
+HD 214448;S;AQR;PSC
+HR 8581;S;AQR;PEG
+h/Aqr;S;AQR;PSC
+BD-08 6018A;S;AQR;PSC
+BD-08 6018B;S;AQR;PSC
+AD/Cet;S;PSC;CET
+IDS 01200-0628;S;PSC;CET
+HR 404;S;CET;PSC
+HD 10725;S;CET;PSC
+HD 13155;S;CET;PSC
+HD 205244;S;PEG;AQR
+HD 207888;S;AQR;CAP
+HR 8363;S;AQR;CAP
+HR 8453;S;PEG;AQR
+51/Aqr;S;AQR;PEG
+HR 8629;S;AQR;PEG
+LP/Aqr;S;AQR;PEG
+HD 216931;S;PSC;AQR
+HR 8716;S;PSC;AQR
+96/Aqr;S;PSC;AQR
+ADS 16676;S;PSC;AQR
+HR 8931;S;PSC;AQR
+24/Psc;S;PSC;AQR
+12/Cet;S;CET;PSC
+13 A/Cet;S;CET;PSC
+13 B/Cet;S;CET;PSC
+HR 174;S;CET;PSC
+25/Cet;S;CET;PSC
+66/Cet;S;CET;ERI
+HD 15005;S;CET;ERI
+79/Cet;S;CET;PSC
+HR 892;S;CET;ERI
+24/Aqr;S;PEG;AQR
+HR 8263;S;PEG;AQR
+HR 8507;S;AQR;PEG
+zet02/Aqr;S;AQR;PEG
+60/Aqr;S;AQR;PEG
+HR 8734;S;PSC;AQR
+10/Cet;S;CET;PSC
+15/Cet;S;CET;PSC
+39/Cet;S;CET;PSC
+38/Cet;S;PSC;CET
+42/Cet;S;CET;PSC
+42 A/Cet;S;CET;PSC
+42 B/Cet;S;CET;PSC
+58/Cet;S;CET;PSC
+61/Cet;S;CET;PSC
+HD 13043;S;CET;PSC
+84/Cet;S;CET;ERI
+CCDM J21031+0132AB;S;EQU;DEL
+d/Aqr;S;PEG;AQR
+HD 215093;S;AQR;PEG
+2/Psc;S;PSC;PEG
+HR 8897;S;PSC;AQR
+9/Psc;S;PSC;AQR
+44/Psc;S;CET;PSC
+26/Cet;S;PSC;CET
+35/Cet;S;PSC;CET
+CCDM J01559+0151AB;S;PSC;ARI
+HR 719;S;CET;PSC
+34/Peg;S;AQR;PEG
+37/Peg;S;AQR;PEG
+37 A/Peg;S;AQR;PEG
+34 A/Peg;S;AQR;PEG
+DL/Psc;S;PSC;AQR
+HD 220512;S;PSC;PEG
+HD 224315;S;PSC;PEG
+HD 2235;S;CET;PSC
+HD 4628;S;PSC;CET
+77 A/Psc;S;PSC;CET
+HD 8686;S;PSC;CET
+HR 419;S;PSC;CET
+HR 775;S;CET;PSC
+4/Equ;S;PEG;EQU
+HD 201221;S;PEG;EQU
+3/Peg;S;PEG;AQR
+4/Peg;S;PEG;AQR
+HR 8359;S;PEG;AQR
+HD 221445;S;PEG;PSC
+BD+06 5168A;S;PEG;PSC
+36/Psc;S;PEG;PSC
+HD 1585;S;PEG;PSC
+51/Psc;S;CET;PSC
+WW/Psc;S;PSC;CET
+e/Psc;S;PSC;CET
+2/Equ;S;EQU;DEL
+HR 8038;S;EQU;DEL
+EE/Peg;S;PEG;AQR
+HD 211048;S;PEG;AQR
+49/Peg;S;PSC;PEG
+BD+08 4973A;S;PEG;PSC
+HR 8737;S;PEG;PSC
+CCDM J00209+1059AB;S;PEG;PSC
+35/Psc;S;PEG;PSC
+HR 426;S;PSC;CET
+HD 9496;S;PSC;CET
+ksi01/Cet;S;CET;PSC
+HD 16160;S;CET;PSC
+6/Equ;S;PEG;EQU
+HD 203345;S;PEG;EQU
+BD+09 4786A;S;PEG;EQU
+CCDM J21289+1106AB;S;PEG;EQU
+42/Peg;S;PEG;AQR
+ksi/Peg;S;PEG;PSC
+HR 8724;S;PEG;PSC
+52/Peg;S;PEG;PSC
+HR 8833;S;PEG;PSC
+66/Peg;S;PEG;PSC
+HD 221813;S;PEG;PSC
+HD 224429;S;PEG;PSC
+HD 224674;S;PEG;PSC
+42/Psc;S;AND;PEG
+HD 4935;S;AND;PSC
+HD 8187;S;PSC;CET
+HD 12773;S;CET;PSC
+VW/Ari;S;CET;ARI
+HR 725;S;CET;ARI
+HR 797;S;CET;ARI
+20/Peg;S;PEG;AQR
+HR 8456;S;PEG;VUL
+HR 8631;S;PEG;VUL
+BD+13 4971A;S;PEG;VUL
+HD 218687;S;PEG;PSC
+HD 2358;S;AND;PEG
+49/Psc;S;PSC;AND
+HD 2954;S;PSC;AND
+72/Psc;S;AND;PSC
+31/Ari;S;ARI;CET
+HN/Peg;S;PEG;VUL
+HD 211076;S;PEG;VUL
+HD 218624;S;PEG;CYG
+HD 219675;S;PEG;VUL
+HD 220091;S;PEG;PSC
+HD 221627;S;PEG;PSC
+74/Peg;S;PEG;PSC
+75/Peg;S;PEG;VUL
+64/Psc;S;AND;PSC
+HD 9312;S;PSC;AND
+103/Psc;S;PSC;AND
+HR 8116;S;PEG;EQU
+BD+15 4375A;S;PEG;EQU
+ADS 15386;S;PEG;CYG
+HR 8455;S;PEG;CYG
+40/Peg;S;PEG;CYG
+51/Peg;S;PEG;PSC
+HD 218381;S;PEG;CYG
+HD 220334;S;PEG;CYG
+HD 222978;S;PEG;CYG
+52/Psc;S;PSC;AND
+66/Psc;S;AND;PSC
+HR 277;S;AND;PSC
+74 A/Psc;S;AND;PSC
+74 B/Psc;S;AND;PSC
+ADS 899;S;AND;PSC
+107/Psc;S;PSC;TRI
+gam01/Ari;S;TRI;PSC
+gam02/Ari;S;TRI;PSC
+HR 8348;S;PEG;CYG
+HR 8364;S;PEG;CYG
+HD 211153;S;PEG;CYG
+33/Peg;S;PEG;AND
+71/Peg;S;PEG;AND
+HD 2925;S;PSC;AND
+HR 178;S;AND;PSC
+36/And;S;AND;PSC
+eta/And;S;AND;PSC
+HD 6886;S;AND;PSC
+HD 9071;S;TRI;PSC
+1/Ari;S;TRI;PSC
+HD 11154;S;TRI;PSC
+HR 577;S;TRI;ARI
+CCDM J02475+1923AB;S;ARI;TRI
+BD+16 355A;S;ARI;CET
+HR 8044;S;VUL;CYG
+NV/Peg;S;PEG;VUL
+HD 207147;S;PEG;CYG
+HD 210211;S;PEG;CYG
+CCDM J22514+2623AB;S;LAC;PEG
+60/Peg;S;PEG;AND
+HD 220288;S;PEG;AND
+HD 223211;S;AND;PEG
+HR 9078;S;AND;PEG
+HR 9109;S;AND;PEG
+85/Peg;S;AND;PEG
+HR 40;S;AND;PEG
+HR 53;S;AND;PEG
+HD 6009;S;AND;PSC
+HR 484;S;TRI;PSC
+HR 8101;S;PEG;VUL
+HR 8190;S;VUL;PEG
+2/Peg;S;VUL;PEG
+HR 8258;S;VUL;PEG
+HR 8274;S;PEG;VUL
+HR 8838;S;AND;PEG
+HD 224083;S;AND;PEG
+HD 166;S;AND;PEG
+HR 134;S;AND;PSC
+28/And;S;AND;PSC
+65 B/Psc;S;AND;PSC
+65 A/Psc;S;AND;PSC
+CCDM J00499+2743AB;S;AND;PSC
+CCDM J00489+2744AB;S;AND;PSC
+HD 6093;S;AND;PSC
+10/Ari;S;TRI;ARI
+11/Ari;S;TRI;ARI
+HR 728;S;TRI;ARI
+30 A/Ari;S;TRI;ARI
+HR 723;S;TRI;ARI
+HD 18484;S;ARI;TRI
+CCDM J02592+2120AB;S;ARI;TRI
+HR 8194;S;VUL;PEG
+HR 8257;S;VUL;PEG
+mu.02/Cyg;S;PEG;CYG
+mu.01/Cyg;S;PEG;CYG
+HD 206874;S;PEG;CYG
+HD 208174;S;PEG;CYG
+HD 208906;S;LAC;PEG
+HD 215549;S;LAC;PEG
+HR 8753;S;AND;LAC
+V343/Peg;S;AND;PEG
+72/Peg;S;AND;PEG
+CCDM J23594+3343AB;S;PEG;AND
+HR 9074;S;PEG;AND
+HR 9075;S;PEG;AND
+CCDM J00076+3140AB;S;AND;PEG
+76/Psc;S;AND;PSC
+HD 7215;S;AND;PSC
+g/Psc;S;AND;PSC
+HR 356;S;AND;PSC
+HR 803;S;TRI;PER
+HR 8261;S;PEG;CYG
+HR 8412;S;LAC;PEG
+pi.01/Peg;S;LAC;PEG
+38/Peg;S;LAC;PEG
+HD 223331;S;AND;PEG
+HD 224492;S;PEG;AND
+HR 122;S;AND;PSC
+ADS 513;S;AND;PEG
+HD 4961;S;AND;PSC
+WSI/96;S;TRI;AND
+HD 8375;S;AND;PSC
+HD 9728;S;TRI;AND
+HD 18104;S;TRI;PER
+V389/Cyg;S;VUL;CYG
+HD 200578;S;VUL;CYG
+HD 201912;S;VUL;PEG
+HD 214652;S;LAC;PEG
+HR 8626;S;LAC;PEG
+HR 8604;S;LAC;PEG
+HR 8723;S;LAC;PEG
+12/And;S;AND;PEG
+HR 8950;S;AND;PEG
+HR 8973;S;AND;PEG
+V413/And;S;AND;PEG
+ADS 17087;S;PSC;CET
+HD 224699;S;AND;PEG
+tet/And;S;AND;CAS
+HD 2923;S;AND;CAS
+HD 3165;S;AND;CAS
+45/And;S;AND;TRI
+HR 379;S;AND;TRI
+HD 9370;S;TRI;AND
+HD 17572;S;TRI;PER
+CCDM J21209+3227AB;S;VUL;PEG
+HD 209394;S;LAC;CYG
+HR 8510;S;LAC;PEG
+HR 8549;S;LAC;PEG
+HR 8588;S;LAC;PEG
+8 A/Lac;S;LAC;PEG
+8 B/Lac;S;LAC;PEG
+HD 215359;S;LAC;PEG
+V399/And;S;AND;PEG
+ADS 30;S;AND;PEG
+HD 445;S;AND;PEG
+HD 290;S;AND;PEG
+HR 556;S;TRI;PSC
+56/And;S;TRI;ARI
+15/Tri;S;TRI;PER
+HD 16070;S;TRI;PER
+HR 8105;S;VUL;CYG
+ups/Cyg;S;VUL;CYG
+HR 8189;S;VUL;CYG
+HR 8193;S;VUL;CYG
+69/Cyg;S;VUL;PEG
+79/Cyg;S;PEG;CYG
+HD 206807;S;PEG;CYG
+HR 8485;S;LAC;PEG
+HR 8553;S;LAC;PEG
+HD 212212;S;LAC;PEG
+HD 213835;S;LAC;PEG
+HD 213976;S;LAC;PEG
+15/Lac;S;LAC;PEG
+14/Lac;S;LAC;PEG
+LN/And;S;AND;LAC
+HD 217073;S;LAC;PEG
+16/Lac;S;LAC;PEG
+HR 8884;S;AND;CAS
+HR 8962;S;AND;CAS
+HD 222207;S;AND;CAS
+V348/And;S;AND;CAS
+HR 56;S;AND;CAS
+26/And;S;AND;CAS
+39/And;S;AND;CAS
+V529/And;S;AND;TRI
+ups/And;S;AND;TRI
+55/And;S;AND;PER
+59 A/And;S;AND;TRI
+59 B/And;S;AND;TRI
+HD 15333;S;TRI;ARI
+HR 748;S;TRI;PER
+HR 820;S;TRI;PER
+66/Cnc;S;GEM;LYN
+67/Cnc;S;CNC;GEM
+75/Cnc;S;CNC;GEM
+HR 3617;S;LEO;LMI
+ksi/Cnc;S;GEM;CNC
+79/Cnc;S;GEM;CNC
+HR 3635;S;HYA;CNC
+HD 78891;S;PYX;HYA
+HD 78302;S;PYX;HYA
+HD 78643;S;PYX;HYA
+HD 78643A;S;PYX;HYA
+38 B/Lyn;S;LYN;LMI
+38/Lyn;S;LYN;LMI
+HR 3664;S;LYN;UMA
+CCDM J09184+3522AB;S;LYN;LMI
+BD+35 1971A;S;LYN;LMI
+BD+35 1971B;S;LYN;LMI
+80/Cnc;S;GEM;CNC
+pi.01/Cnc;S;HYA;CNC
+HR 3689;S;HYA;LEO
+tet/Hya;S;HYA;CMI
+HD 79011;S;HYA;CMI
+HD 79873;S;HYA;LEO
+HD 80046;S;HYA;LEO
+HD 80550;S;HYA;SEX
+26/Hya;S;HYA;PYX
+HR 3704;S;HYA;PYX
+HD 80971;S;PYX;ANT
+HR 3715;S;ANT;VEL
+HD 79613;S;PYX;HYA
+7/LMi;S;LYN;LMI
+HR 3792;S;LEO;LMI
+ome/Leo;S;HYA;LEO
+3/Leo;S;HYA;LEO
+ADS 7391;S;HYA;LEO
+BD+06 2169A;S;HYA;LEO
+BD+06 2169B;S;HYA;LEO
+HR 3794;S;HYA;LEO
+CCDM J09315+0128AB;S;HYA;LEO
+HR 3758;S;HYA;LEO
+tau01/Hya;S;HYA;SEX
+GJ 344;S;HYA;SEX
+GJ 344;S;HYA;SEX
+HR 3750;S;HYA;SEX
+KU/Hya;S;HYA;PYX
+29/Hya;S;HYA;PYX
+HD 81902;S;HYA;PYX
+HD 81542;S;PYX;ANT
+HR 3770;S;PYX;ANT
+HR 3745;S;PYX;ANT
+zet01 B/Ant;S;ANT;PYX
+zet01 A/Ant;S;ANT;PYX
+zet01/Ant;S;ANT;PYX
+HR 3756;S;ANT;VEL
+HD 82514;S;ANT;VEL
+CCDM J09414+3857AB;S;LMI;LYN
+11/LMi;S;LYN;LMI
+DR/Leo;S;LMI;LYN
+HR 3869;S;CNC;LEO
+7/Leo;S;HYA;LEO
+ADS 7448;S;HYA;LEO
+HD 83452;S;HYA;LEO
+HD 83329;S;HYA;SEX
+37/Hya;S;HYA;SEX
+HR 3822;S;HYA;SEX
+I/Hya;S;HYA;ANT
+HR 3828;S;HYA;ANT
+tet/Ant;S;ANT;HYA
+20/Leo;S;GEM;CNC
+19/Leo;S;HYA;LEO
+21/Leo;S;HYA;LEO
+9/Sex;S;LEO;SEX
+gam/Sex;S;SEX;HYA
+HD 85883;S;HYA;SEX
+HD 85949;S;ANT;HYA
+HD 85043;S;ANT;HYA
+HD 85725;S;ANT;HYA
+HD 84824;S;ANT;HYA
+HD 84926;S;ANT;VEL
+HD 87127;S;LEO;LMI
+14/Sex;S;LEO;SEX
+HD 86341;S;SEX;LEO
+HD 87095;S;LEO;SEX
+HD 87330;S;ANT;HYA
+HR 3963;S;ANT;HYA
+HR 3931;S;ANT;HYA
+HR 3962;S;ANT;HYA
+HD 87556;S;ANT;HYA
+HD 87660;S;ANT;HYA
+eta/Ant;S;ANT;HYA
+HR 3979;S;LMI;LEO
+HR 4032;S;LMI;LEO
+35/Leo;S;LMI;LEO
+39/Leo;S;LMI;LEO
+Renson 25190;S;LEO;LMI
+CCDM J10163+1744AB;S;LMI;GEM
+34/Leo;S;LEO;LMI
+31/Leo;S;LEO;SEX
+17/Sex;S;SEX;HYA
+CCDM J10116-1503AB;S;HYA;CRT
+HR 4040;S;ANT;HYA
+HR 4003;S;ANT;HYA
+HD 88218;S;ANT;HYA
+HR 4015;S;ANT;VEL
+HR 4019;S;ANT;VEL
+HD 90470;S;LMI;UMA
+HD 89744;S;LMI;UMA
+HD 90861;S;LEO;LMI
+gam02/Leo;S;LMI;LEO
+gam01/Leo;S;LMI;LEO
+40/Leo;S;LMI;LEO
+45/Leo;S;LEO;SEX
+HD 89995;S;SEX;HYA
+RX/Sex;S;SEX;HYA
+HD 90361;S;SEX;LEO
+HR 4085;S;SEX;LEO
+HD 90155;S;SEX;LEO
+HD 90905;S;SEX;LEO
+HR 4092;S;SEX;HYA
+HR 4055;S;HYA;SEX
+HD 90045;S;HYA;SEX
+HR 4073;S;ANT;HYA
+del/Ant;S;ANT;HYA
+HR 4132;S;LMI;UMA
+33/LMi;S;LEO;LMI
+49/Leo;S;LEO;SEX
+HD 91318;S;SEX;HYA
+CCDM J10310-0738AB;S;SEX;HYA
+HD 91889;S;HYA;SEX
+HD 92034;S;HYA;SEX
+HD 91728;S;HYA;SEX
+phi02/Hya;S;HYA;CRT
+44/Hya;S;ANT;HYA
+HR 4157;S;ANT;HYA
+HD 91881A;S;ANT;HYA
+HD 91955;S;ANT;HYA
+HR 4183;S;ANT;HYA
+HD 91645;S;ANT;HYA
+HR 4175;S;ANT;VEL
+RX/LMi;S;LEO;LMI
+40/LMi;S;LMI;LEO
+HD 93993;S;LEO;SEX
+35/Sex;S;SEX;HYA
+34/Sex;S;LEO;SEX
+HR 4244;S;LEO;SEX
+40/Sex;S;SEX;CRT
+41/Sex;S;SEX;CRT
+HR 4218;S;CRT;HYA
+ADS 7930;S;CRT;HYA
+V/Hya;S;CRT;HYA
+HR 4194;S;ANT;HYA
+HR 4285;S;LMI;UMA
+HD 95296;S;LMI;UMA
+54 B/Leo;S;LMI;LEO
+CCDM J10556+2445AB;S;LMI;LEO
+54 A/Leo;S;LMI;LEO
+c/Leo;S;LEO;SEX
+58/Leo;S;LEO;SEX
+55/Leo;S;LEO;SEX
+HR 4249;S;SEX;LEO
+p01/Leo;S;SEX;LEO
+HD 95695;S;LEO;CRT
+HR 4305;S;CRT;HYA
+b03/Hya;S;CRT;HYA
+HR 4302;S;HYA;CRT
+HR 4282;S;HYA;ANT
+HD 95506;S;ANT;HYA
+HR 4351;S;UMA;CVN
+51/UMa;S;LMI;UMA
+HD 97334;S;LMI;UMA
+HD 97488;S;LEO;LMI
+67/Leo;S;LMI;LEO
+HD 97561;S;LEO;LMI
+HD 96003;S;LEO;SEX
+HR 4358;S;LEO;SEX
+p04/Leo;S;LEO;SEX
+HR 4315;S;CRT;HYA
+psi/Crt;S;CRT;HYA
+BD-17 3321A;S;CRT;HYA
+chi01/Hya;S;ANT;HYA
+46/Cen;S;ANT;CEN
+55/UMa;S;UMA;LEO
+ksi/UMa;S;LEO;LMI
+ksi/UMa;S;LEO;LMI
+ksi/UMa;S;LEO;LMI
+81/Leo;S;LEO;LMI
+n/Leo;S;LEO;SEX
+GJ 426.1;S;LEO;SEX
+ADS 8131;S;LEO;SEX
+SV/Crt;S;LEO;CRT
+HD 98579;S;HYA;CEN
+HR 4396;S;CEN;HYA
+HR 4411;S;CEN;HYA
+HD 97881;S;CEN;HYA
+HD 99607;S;UMA;LMI
+HD 100018;S;UMA;CVN
+HD 100235;S;UMA;LEO
+AW/UMa;S;UMA;LEO
+HR 4465;S;LEO;LMI
+90/Leo;S;LEO;VIR
+BD+17 2374A;S;LEO;VIR
+88/Leo;S;LEO;VIR
+HR 4454;S;LEO;VIR
+83/Leo;S;LEO;SEX
+HR 4419;S;LEO;SEX
+kap/Crt;S;CRT;HYA
+HR 4440;S;CRT;HYA
+HD 100908;S;CRT;HYA
+ADS 8183;S;HYA;CRT
+17 B/Crt;S;HYA;CRT
+17/Crt;S;HYA;CRT
+ksi/Hya;S;ANT;HYA
+HD 100623;S;ANT;HYA
+CCDM J11366-3334AB;S;ANT;HYA
+HD 100395;S;CEN;HYA
+HD 100954;S;CEN;HYA
+HR 4453;S;CEN;HYA
+HR 4423;S;CEN;HYA
+62/UMa;S;LEO;LMI
+HR 4512;S;LEO;LMI
+HD 102103;S;LEO;VIR
+HR 4531;S;LEO;VIR
+GJ 447.1;S;LEO;VIR
+4/Vir;S;LEO;VIR
+HD 101445;S;LEO;VIR
+HR 4484;S;LEO;VIR
+HR 4529;S;VIR;CRT
+HR 4490;S;CRT;LEO
+HD 101387;S;ANT;HYA
+HR 4503;S;ANT;HYA
+HD 101406;S;CEN;HYA
+HD 102365;S;CEN;HYA
+HD 103613;S;COM;LEO
+HD 103659;S;COM;LEO
+TYC 2526-1027-1;S;COM;LEO
+HR 4545;S;LEO;LMI
+HR 4574;S;COM;LEO
+HR 4581;S;COM;LEO
+HD 103152;S;COM;LEO
+o/Leo;S;COM;LEO
+HR 4543;S;VIR;LEO
+HR 4580;S;VIR;CRT
+HR 4544;S;CRT;VIR
+HR 4547;S;CRT;VIR
+HR 4579;S;CRT;HYA
+HD 103437;S;CEN;HYA
+GJ 452.2;S;CEN;HYA
+HR 4577;S;CEN;HYA
+HD 104556;S;CVN;COM
+HD 105824;S;CVN;UMA
+2/Com;S;COM;LEO
+10/Vir;S;VIR;COM
+OX/Vir;S;VIR;CRT
+HD 105590;S;VIR;CRT
+HR 4588;S;CRT;HYA
+HD 105113;S;HYA;CEN
+HD 104471;S;CRT;HYA
+CCDM J12100-3442AB;S;HYA;CEN
+HR 4612;S;CEN;HYA
+HD 105173;S;CEN;HYA
+CCDM J12036-3901AB;S;CEN;HYA
+HD 107341;S;COM;CVN
+HD 106365;S;COM;CVN
+HR 4668;S;COM;CVN
+HR 4642;S;COM;UMA
+HR 4673;S;COM;CVN
+HR 4698;S;COM;CVN
+CCDM J12207+2703AB;S;COM;CVN
+11/Com;S;COM;VIR
+HD 107288;S;COM;VIR
+c/Vir;S;VIR;COM
+HR 4677;S;VIR;CRT
+CCDM J12182-0357AB;S;VIR;CRT
+HR 4678;S;VIR;CRT
+FG/Vir;S;VIR;CRT
+14/Vir;S;VIR;CRT
+HR 4657;S;VIR;CRT
+HR 4699;S;CRT;VIR
+HR 4691;S;HYA;CRV
+CCDM J12158-2321AB;S;HYA;CRV
+HD 106955;S;HYA;CEN
+HD 107246;S;HYA;CEN
+HD 106257;S;HYA;CEN
+HR 4675;S;HYA;CEN
+HD 107422;S;HYA;CEN
+17 B/Com;S;COM;CVN
+CCDM J12244+2534AB;S;COM;CVN
+12/Com;S;COM;CVN
+17/Vir;S;COM;VIR
+HD 108561;S;COM;VIR
+HD 108799;S;CRT;VIR
+HD 107869;S;HYA;CEN
+HD 107914;S;HYA;CEN
+HR 4718;S;HYA;CEN
+CCDM J12247-4123AB;S;HYA;CEN
+23/Com;S;COM;VIR
+HR 4812;S;COM;VIR
+24 B/Com;S;COM;VIR
+24 A/Com;S;COM;VIR
+27/Vir;S;COM;VIR
+HD 110412;S;COM;VIR
+d01/Vir;S;COM;VIR
+HD 109944;S;VIR;CRV
+HD 109545;S;VIR;CRV
+HD 109584;S;VIR;CRV
+HD 110662;S;VIR;CRV
+VV/Crv;S;HYA;CRV
+HR 4822;S;HYA;CRV
+BD-12 3676;S;HYA;CRV
+HD 109557;S;HYA;CRV
+HR 4803;S;HYA;CEN
+HD 109352;S;HYA;CEN
+l/Cen;S;HYA;CEN
+HR 4796;S;HYA;CEN
+alf01/CVn;S;COM;CVN
+alf02/CVn;S;COM;CVN
+30/Com;S;COM;CVN
+HD 111066;S;COM;CVN
+ADS 8690;S;COM;VIR
+32/Com;S;COM;VIR
+33/Com;S;COM;VIR
+34/Vir;S;COM;VIR
+HD 112278;S;COM;VIR
+33/Vir;S;COM;VIR
+38/Vir;S;VIR;CRV
+HR 4856;S;VIR;CRV
+HR 4877;S;VIR;CRV
+HR 4901;S;VIR;CRV
+HR 4850;S;HYA;CEN
+p/Cen;S;HYA;CEN
+HD 111930;S;CEN;HYA
+HD 112501;S;CVN;UMA
+37/Com;S;COM;CVN
+ADS 8731;S;PSC;CET
+HD 112734;S;COM;CVN
+HR 4948;S;COM;CVN
+HD 113365;S;COM;VIR
+MP/Com;S;COM;VIR
+39/Com;S;COM;VIR
+HD 113022;S;COM;VIR
+HD 112503;S;COM;VIR
+CCDM J12564-0057AB;S;VIR;COM
+46/Vir;S;VIR;CRV
+48/Vir;S;VIR;CRV
+k/Vir;S;VIR;CRV
+CCDM J13038-2035AB;S;HYA;VIR
+GJ 496;S;HYA;VIR
+GJ 496;S;HYA;VIR
+HD 113005;S;HYA;CEN
+HD 112563;S;CEN;HYA
+HD 113388;S;CEN;HYA
+15/CVn;S;COM;CVN
+17/CVn;S;COM;CVN
+HR 4984;S;COM;CVN
+HD 114637;S;COM;VIR
+HD 114520;S;COM;VIR
+HR 5010;S;COM;CVN
+BD+17 2611;S;COM;VIR
+LN/Vir;S;COM;VIR
+e/Vir;S;COM;VIR
+HD 114174;S;COM;VIR
+HR 5014;S;VIR;COM
+ADS 8801;S;VIR;CRV
+tet/Vir;S;VIR;CRV
+CCDM J13134-1850A;S;HYA;VIR
+54/Vir;S;HYA;VIR
+HD 114993;S;HYA;VIR
+HR 4978;S;HYA;VIR
+HD 114509;S;HYA;CEN
+HR 5025;S;COM;CVN
+CCDM J13207+0257AB;S;VIR;COM
+FO/Vir;S;VIR;CRT
+HD 116429;S;HYA;VIR
+HD 116743;S;HYA;VIR
+HR 5065;S;CEN;HYA
+HR 5108;S;CVN;UMA
+HD 117846;S;COM;BOO
+BD+37 2433A;S;COM;BOO
+BD+37 2433B;S;COM;BOO
+HD 117902;S;COM;BOO
+HR 5145;S;COM;BOO
+HD 117876;S;COM;BOO
+1/Boo;S;COM;BOO
+HR 5138;S;BOO;COM
+HD 117498;S;BOO;COM
+HR 5114;S;BOO;COM
+HD 118578;S;BOO;VIR
+72/Vir;S;VIR;CRV
+HR 5106;S;VIR;CRV
+75/Vir;S;VIR;HYA
+73/Vir;S;VIR;HYA
+CD-25 9900B;S;HYA;VIR
+HR 5120;S;HYA;VIR
+d/Cen;S;CEN;HYA
+HD 117483;S;CEN;HYA
+HR 5186;S;CVN;UMA
+HR 5161;S;BOO;COM
+HD 120651;S;BOO;CVN
+HD 120848;S;BOO;VIR
+HR 5178;S;VIR;CRV
+86/Vir;S;VIR;CRV
+85/Vir;S;VIR;CRV
+HR 5146;S;HYA;VIR
+HR 5209;S;HYA;VIR
+HR 5212;S;HYA;VIR
+3 B/Cen;S;HYA;CEN
+V983/Cen;S;HYA;CEN
+HD 119191;S;CEN;HYA
+HR 5189;S;CEN;HYA
+z/Cen;S;CEN;HYA
+CCDM J13438-4011AB;S;CEN;HYA
+HD 120272;S;CEN;HYA
+HR 5258;S;VIR;CRV
+HR 5233;S;VIR;CRV
+DL/Vir;S;HYA;VIR
+HD 121223;S;HYA;VIR
+h/Cen;S;HYA;VIR
+HD 122510;S;HYA;VIR
+HD 121187;S;HYA;CEN
+y/Cen;S;CEN;HYA
+HR 5259;S;CEN;HYA
+CCDM J14139+2906AB;S;BOO;CVN
+HD 123033;S;BOO;CVN
+d/Boo;S;BOO;CVN
+14/Boo;S;BOO;VIR
+HD 124517;S;BOO;VIR
+96/Vir;S;VIR;CRV
+tet/Cen;S;CEN;HYA
+HR 5346;S;BOO;CVN
+HD 126269;S;BOO;VIR
+ADS 9247;S;VIR;BOO
+CCDM J14234+0827BC;S;VIR;BOO
+HD 126053;S;LIB;VIR
+HD 125184;S;LIB;VIR
+HD 125906;S;LIB;VIR
+CCDM J14247-1140AB;S;LIB;VIR
+HD 126363;S;LIB;VIR
+HR 5397;S;LIB;HYA
+HD 125276;S;LIB;HYA
+psi/Cen;S;LUP;CEN
+HR 5445;S;BOO;CVN
+HR 5422;S;BOO;CVN
+HR 5433;S;BOO;CVN
+HR 5424;S;BOO;VIR
+l/Hya;S;LIB;HYA
+HR 5428;S;LIB;HYA
+HD 127672;S;LIB;HYA
+CCDM J14484+2422AB;S;BOO;CVN
+HR 5472;S;BOO;CVN
+HR 5483;S;BOO;CVN
+pi.01/Boo;S;BOO;COM
+pi.02/Boo;S;BOO;COM
+HD 130321;S;LIB;VIR
+HD 130256;S;LIB;VIR
+5/Lib;S;LIB;VIR
+HR 5504;S;LIB;HYA
+HD 128787;S;LIB;HYA
+m/Hya;S;LIB;HYA
+HD 129161;S;LIB;HYA
+HD 128532;S;LUP;CEN
+HD 130311;S;LUP;CEN
+HR 5569;S;BOO;CVN
+CCDM J14560+3218AB;S;BOO;CVN
+HR 5532;S;BOO;CVN
+HD 130948;S;BOO;CVN
+HD 131265;S;BOO;CVN
+ksi/Boo;S;BOO;CVN
+ksi/Boo;S;BOO;CVN
+ksi/Boo;S;BOO;CVN
+CCDM J14534+1542AB;S;BOO;COM
+HD 131786;S;VIR;LIB
+CCDM J14489+0557AB;S;LIB;VIR
+1/Ser;S;LIB;VIR
+HD 132375;S;LIB;VIR
+18/Lib;S;LIB;VIR
+mu/Lib;S;LIB;VIR
+BD-13 3986B;S;LIB;VIR
+alf01/Lib;S;LIB;VIR
+alf02/Lib;S;LIB;VIR
+alf/Lib;S;LIB;VIR
+HR 5568;S;LIB;HYA
+HR 5521;S;LIB;HYA
+HD 131885;S;LIB;HYA
+59/Hya;S;LIB;HYA
+CD-27 10148A;S;LIB;HYA
+HR 5549;S;LIB;HYA
+HR 5558;S;LIB;HYA
+HR 5653;S;LUP;LIB
+phi01/Lup;S;LUP;CEN
+HR 5736;S;LUP;NOR
+HR 5807;S;LUP;NOR
+HD 140901;S;LUP;LIB
+HR 5918;S;LUP;NOR
+HR 5952;S;NOR;LUP
+LM/Lup;S;SCO;LUP
+CCDM J16001-3824AB;S;LUP;SCO
+V1027/Sco;S;SCO;LUP
+V1058/Sco;S;NOR;SCO
+HR 6206;S;SCO;ARA
+HR 6209;S;SCO;ARA
+HR 6214;S;SCO;ARA
+HR 6260;S;SCO;ARA
+HD 152233;S;SCO;ARA
+HR 6263;S;SCO;ARA
+HD 152424;S;SCO;ARA
+HR 6272;S;SCO;ARA
+HD 152248;S;SCO;ARA
+HR 6265;S;SCO;ARA
+HD 155896;S;SCO;ARA
+HR 6427;S;SCO;NOR
+HD 158042;S;SCO;NOR
+tet/Sco;S;SCO;ARA
+HD 158306;S;SCO;NOR
+HR 6597;S;SCO;ARA
+CD-43 12272;S;ARA;CRA
+HR 6749;S;ARA;CRA
+HR 6750;S;ARA;CRA
+HR 6875;S;CRA;SGR
+HD 174407;S;CRA;SGR
+HD 194433;S;MIC;SGR
+BX/Mic;S;MIC;PSA
+alf/Mic;S;MIC;CAP
+HR 5595;S;LIB;HYA
+HR 5860;S;LUP;LIB
+HD 140817;S;LUP;LIB
+HR 5929;S;SCO;LUP
+HR 5991;S;SCO;LUP
+HR 5975;S;SCO;LUP
+HR 6080;S;SCO;NOR
+HR 6100;S;SCO;NOR
+HR 6094;S;SCO;NOR
+HR 6210;S;SCO;NOR
+HD 152623;S;SCO;ARA
+HR 6392;S;OPH;SCO
+iot01/Sco;S;SCO;OPH
+iot02/Sco;S;SCO;OPH
+HR 6643;S;SCO;ARA
+HR 7031;S;CRA;TEL
+HD 174152;S;CRA;TEL
+HR 7156;S;CRA;SGR
+HR 7629;S;SGR;CRA
+HD 191408A;S;CAP;SGR
+CCDM J20112-3605AB;S;CAP;SGR
+V4434/Sgr;S;SGR;CAP
+HD 193194;S;CAP;SGR
+HR 5688;S;LIB;HYA
+HR 5790;S;LIB;LUP
+ksi02/Lup;S;SCO;LUP
+ksi01/Lup;S;SCO;LUP
+IDS 15505-3340;S;SCO;LUP
+HD 146745;S;SCO;NOR
+HR 6178;S;NOR;SCO
+HD 150420;S;NOR;SCO
+mu.01/Sco;S;SCO;OPH
+HR 6298;S;SCO;OPH
+HR 6344;S;SCO;OPH
+HD 155536;S;OPH;SCO
+HR 6398;S;OPH;SCO
+GJ 662;S;OPH;SCO
+GJ 662;S;OPH;SCO
+V975/Sco;S;OPH;SCO
+HR 6456;S;OPH;SCO
+HR 6501;S;SCO;OPH
+HR 6503;S;SCO;OPH
+HD 158409;S;SCO;OPH
+HD 159704;S;OPH;SCO
+GJ 683.2;S;OPH;SCO
+HD 161390;S;SCO;OPH
+G/Sco;S;SCO;OPH
+V1647/Sgr;S;SCO;CRA
+CCDM J17580-3908AB;S;SCO;CRA
+kap02/CrA;S;CRA;TEL
+kap01/CrA;S;CRA;TEL
+HD 173712;S;CRA;TEL
+HD 176269;S;CRA;SGR
+HD 176270;S;CRA;SGR
+IDS 18543-3712;S;CRA;SGR
+tet01/Sgr;S;SGR;CRA
+tet02/Sgr;S;SGR;CRA
+HR 7668;S;CAP;SGR
+HD 191957;S;CAP;SGR
+HD 135390;S;LIB;LUP
+HR 5893;S;LIB;SCO
+HR 6006;S;SCO;LUP
+CD-32 11687A;S;SCO;OPH
+CCDM J16239-3312AB;S;SCO;OPH
+RV/Sco;S;SCO;OPH
+k/Sco;S;SCO;OPH
+V1074/Sco;S;SCO;OPH
+HD 155889;S;OPH;SCO
+HD 155974;S;OPH;SCO
+HD 156384;S;OPH;SCO
+HD 156384A;S;OPH;SCO
+HD 158320;S;SCO;OPH
+HR 6657;S;SCO;SGR
+HR 6658;S;SCO;SGR
+V906/Sco;S;SCO;SGR
+HD 163482;S;SCO;CRA
+HR 6739;S;ARA;CRA
+HD 165185;S;ARA;CRA
+CCDM J18345-3449AB;S;SGR;SCO
+HR 7029;S;CRA;TEL
+CCDM J19127-3351BC;S;SGR;SCO
+HD 180702;S;CRA;SGR
+HR 7659;S;CAP;SGR
+HD 190727;S;CAP;SGR
+HD 193281;S;CAP;SGR
+HD 193281A;S;CAP;SGR
+HR 7801;S;MIC;CAP
+HD 134329;S;LIB;LUP
+HR 5658;S;LIB;LUP
+ups/Lib;S;LIB;HYA
+HR 5856;S;LIB;SCO
+HR 5965;S;SCO;LIB
+HD 145483A;S;SCO;LUP
+12/Sco;S;SCO;LUP
+IDS 16132-3040;S;SCO;OPH
+HR 6077;S;SCO;OPH
+HR 6105;S;SCO;OPH
+HR 6106;S;SCO;OPH
+CCDM J16247-2942AB;S;SCO;OPH
+HD 151579;S;SCO;OPH
+HD 152521;S;SCO;OPH
+HR 6316;S;SCO;OPH
+HR 6389;S;OPH;SCO
+HR 6422;S;OPH;SCO
+CD-32 12935B;S;SCO;OPH
+V1036/Sco;S;SCO;OPH
+V453/Sco;S;SCO;SGR
+HD 166790;S;CRA;SGR
+HR 6936;S;SGR;SCO
+HR 7360;S;SGR;CRA
+HR 7538;S;SGR;CRA
+HR 7989;S;CAP;AQR
+HR 5655;S;LIB;LUP
+GC 20893;S;LIB;LUP
+HR 6216;S;OPH;SCO
+HR 6218;S;OPH;SCO
+HD 161852;S;SCO;OPH
+HR 6645;S;SCO;SGR
+HR 6693;S;SCO;SGR
+CCDM J17591-3015AB;S;SCO;SGR
+gam01/Sgr;S;CRA;SCO
+HR 6780;S;CRA;SGR
+HD 170142;S;SGR;SCO
+HR 7398;S;SGR;CRA
+HD 194848;S;MIC;CAP
+HD 140671;S;LIB;SCO
+HD 146284;S;SCO;OPH
+V1051/Sco;S;SCO;LUP
+CCDM J16212-2536AB;S;SCO;OPH
+HD 152071;S;SCO;OPH
+HD 155363;S;OPH;SCO
+36 A/Oph;S;OPH;SCO
+V2215/Oph;S;OPH;SCO
+38/Oph;S;OPH;SCO
+36 B/Oph;S;OPH;SCO
+HD 158704;S;SCO;OPH
+HD 164562;S;SCO;SGR
+V3792/Sgr;S;SGR;SER2
+HR 6926;S;SGR;SCO
+CCDM J18277-2638AB;S;SGR;SCO
+HR 7035;S;SCT;SGR
+CD-25 13866B;S;SGR;SCT
+chi01/Sgr;S;SGR;SCT
+53/Sgr;S;SGR;SCT
+h02/Sgr;S;SGR;SCT
+HD 188088;S;SGR;SCT
+HD 135208;S;LIB;HYA
+HR 5756;S;LIB;LUP
+HD 139364;S;LIB;SCO
+CCDM J16500-2327AB;S;SCO;OPH
+24/Oph;S;SCO;OPH
+HR 6727;S;SCO;SGR
+HD 164492;S;SCO;SGR
+HR 6716;S;SCO;SGR
+HD 164816;S;SCO;SGR
+HD 165052;S;SCO;SGR
+11/Sgr;S;SGR;SCO
+23/Sgr;S;SCT;SGR
+28/Sgr;S;SCT;SGR
+30/Sgr;S;SCT;SGR
+nu.01/Sgr;S;SCT;SGR
+HD 177120;S;SCT;SGR
+HD 178250;S;SGR;SCT
+omi/Cap;S;MIC;CAP
+omi/Cap;S;MIC;CAP
+HD 198063;S;CAP;AQR
+CCDM J20484-1812AB;S;CAP;AQR
+HR 7964;S;CAP;AQR
+22/Lib;S;LIB;HYA
+omi/Lib;S;LIB;HYA
+47/Lib;S;LIB;SCO
+bet02/Sco;S;LIB;SCO
+bet01/Sco;S;LIB;SCO
+HR 6026;S;SCO;OPH
+HD 145501A;S;SCO;OPH
+HR 6202;S;SCO;OPH
+HR 6269;S;SCO;OPH
+HD 152909;S;SCO;OPH
+HD 152655;S;SCO;OPH
+HD 155095;S;OPH;SER2
+ksi/Oph;S;OPH;SER2
+HR 6472;S;OPH;SER2
+HR 6798;S;SER2;OPH
+15/Sgr;S;SGR;SCO
+17/Sgr;S;SGR;SCT
+16/Sgr;S;SGR;SCO
+29/Sgr;S;SCT;SGR
+HD 175876;S;SCT;SGR
+HR 7203;S;SCT;SGR
+HR 7265;S;SGR;AQL
+HD 180699;S;SGR;AQL
+HR 7339;S;SGR;AQL
+HD 194960;S;MIC;CAP
+HD 142804;S;LIB;SCO
+49/Lib;S;LIB;SCO
+HD 147473;S;SCO;OPH
+HR 6284;S;SCO;OPH
+HR 6435;S;OPH;SER2
+HR 6441;S;OPH;SER2
+V4387/Sgr;S;OPH;SER2
+HD 167863;S;SCT;SGR
+HR 6848;S;SCT;SGR
+HR 6841;S;SCT;SGR
+HR 6944;S;SCT;SGR
+U/Sgr;S;SCT;SGR
+HD 173822;S;SCT;SGR
+HR 7072;S;SCT;SGR
+HD 174802;S;AQL;SCT
+HD 177817;S;AQL;SGR
+e01/Sgr;S;SGR;AQL
+HD 186185;S;AQL;SGR
+e02/Sgr;S;AQL;SGR
+bet02/Cap;S;AQL;CAP
+HR 7837;S;CAP;AQL
+BD-15 5743A;S;AQR;CAP
+tau/Cap;S;AQR;CAP
+11/Sco;S;LIB;SCO
+GJ 656.1;S;OPH;SER2
+GJ 9587;S;OPH;SER2
+HR 6404;S;OPH;SER2
+ksi/Ser;S;OPH;SER2
+HR 6681;S;OPH;SER2
+ADS 10891;S;PSC;CET
+HR 6956;S;SCT;SGR
+HD 169915;S;SCT;SGR
+HR 6989;S;SCT;SGR
+HR 7230;S;SCT;SGR
+HR 7379;S;AQL;SGR
+V505/Sgr;S;AQL;SGR
+ksi/Cap;S;AQL;CAP
+3/Cap;S;AQL;CAP
+alf01/Cap;S;AQL;CAP
+alf02/Cap;S;AQL;CAP
+HR 7994;S;AQR;CAP
+HD 137763;S;LIB;SER1
+ksi/Sco;S;LIB;SCO
+ksi/Sco;S;LIB;SCO
+ksi/Sco;S;LIB;SCO
+HD 144892;S;OPH;SCO
+HD 149108;S;SCO;OPH
+HD 154202;S;OPH;SCO
+HR 6544;S;OPH;SER2
+HD 162956;S;OPH;SER2
+HD 163117;S;OPH;SER2
+HR 7166;S;SCT;AQL
+HD 180409;S;SGR;AQL
+HD 183347;S;AQL;SCT
+HD 187410;S;AQL;SCT
+51/Aql;S;AQL;SCT
+HR 7637;S;AQL;SCT
+V1401/Aql;S;AQL;CAP
+HD 195564;S;AQR;CAP
+7/Aqr;S;AQR;CAP
+HR 5815;S;LIB;SER1
+STF/1962;S;LIB;SER1
+HR 5816;S;LIB;SER1
+18/Sco;S;OPH;SER1
+HR 6137;S;OPH;SER1
+ups/Oph;S;OPH;SER1
+HR 6449;S;OPH;SER2
+HD 156034;S;OPH;SER2
+HR 6946;S;SER2;SCT
+HR 7055;S;AQL;SCT
+HR 7110;S;AQL;SCT
+HD 179799;S;AQL;SGR
+HD 185298;S;AQL;SCT
+56/Aql;S;AQL;SCT
+57 A/Aql;S;AQL;SCT
+57 B/Aql;S;AQL;SCT
+HR 5707;S;LIB;SER1
+HD 139178;S;LIB;SER1
+CCDM J16057-0618ABP;S;LIB;OPH
+HR 5990;S;LIB;OPH
+HR 6512;S;OPH;SER2
+HR 6534;S;OPH;SER2
+HD 162834;S;OPH;SER2
+HR 6755;S;OPH;SER2
+HD 168459;S;SER2;SCT
+HD 169913;S;SER2;SCT
+HR 7034;S;AQL;SER2
+HR 7007;S;AQL;SER2
+HD 174005;S;AQL;SER2
+S/Sct;S;AQL;SCT
+V/Aql;S;AQL;SCT
+HD 179002;S;SGR;AQL
+BD-07 4876A;S;SGR;AQL
+f/Aql;S;AQL;SGR
+HD 181255;S;AQL;SGR
+U/Aql;S;AQL;SCT
+HR 7599;S;AQL;SCT
+HD 195535;S;AQR;AQL
+HD 195767;S;AQR;AQL
+4/Aqr;S;EQU;AQR
+BD-06 5604A;S;EQU;AQR
+HD 132883;S;LIB;VIR
+b/Ser;S;LIB;SER1
+HD 158576;S;OPH;SER2
+HD 166563;S;SER2;OPH
+BD-03 4331A;S;AQL;SER2
+g/Aql;S;AQL;SCT
+HD 177442;S;AQL;SCT
+h/Aql;S;AQL;SCT
+CCDM J20128-0300AB;S;AQL;CAP
+HD 192461;S;AQL;CAP
+68/Aql;S;AQL;DEL
+CCDM J15018-0008AB;S;LIB;VIR
+HD 135204;S;SER1;LIB
+25/Ser;S;LIB;SER1
+HD 142661A;S;LIB;OPH
+HR 6201;S;OPH;SER1
+12/Oph;S;OPH;SER1
+V2542/Oph;S;OPH;HER
+HR 6367;S;OPH;HER
+BD-00 3230A;S;OPH;HER
+HR 6361;S;OPH;HER
+GJ 678;S;OPH;SER2
+GJ 678;S;OPH;SER2
+CCDM J17400-0038AB;S;OPH;SER2
+CCDM J18250-0135AB;S;SER2;OPH
+5/Aql;S;AQL;SER2
+CCDM J18465-0058AB;S;AQL;SER2
+HD 177880;S;AQL;SER2
+45/Aql;S;AQL;SER2
+tet/Aql;S;AQL;CAP
+HD 194765;S;AQL;DEL
+l/Aql;S;AQL;AQR
+HD 136027;S;SER1;LIB
+BD+02 3118A;S;OPH;HER
+BD+02 3118B;S;OPH;HER
+HD 151372;S;OPH;HER
+19/Oph;S;OPH;HER
+21/Oph;S;OPH;HER
+V2368/Oph;S;OPH;SER2
+HR 6524;S;OPH;SER2
+HR 6575;S;OPH;SER2
+61/Oph;S;OPH;SER2
+ADS 10750;S;OPH;SER2
+HR 6610;S;OPH;SER2
+HD 163346;S;OPH;SER2
+HD 162652;S;OPH;SER2
+HR 6689;S;OPH;SER2
+70 A/Oph;S;OPH;SER2
+70 B/Oph;S;OPH;SER2
+ADS 11046;S;OPH;SER2
+HD 165887;S;OPH;SER2
+HD 169725;S;SER2;OPH
+d/Ser;S;SER2;OPH
+HD 175679;S;AQL;SER2
+HD 179343;S;AQL;SER2
+HD 180973;S;AQL;SER2
+21/Aql;S;AQL;SER2
+24/Aql;S;AQL;SER2
+HD 183793;S;AQL;SER2
+HD 187003;S;AQL;SER2
+HD 190522;S;AQL;CAP
+BD+00 4444A;S;AQL;CAP
+CCDM J20126+0052AB;S;AQL;CAP
+HR 7803;S;AQL;DEL
+1/Aqr;S;AQL;AQR
+HR 8017;S;EQU;DEL
+36/Her;S;OPH;HER
+37/Her;S;OPH;HER
+l/Her;S;OPH;HER
+HD 157261;S;OPH;HER
+HD 160385;S;OPH;SER2
+HD 161573;S;OPH;SER2
+66/Oph;S;OPH;SER2
+73/Oph;S;OPH;SER2
+HR 6797;S;OPH;SER2
+74/Oph;S;OPH;SER2
+HD 170699;S;OPH;SER2
+HD 170580;S;OPH;SER2
+HD 171586;S;OPH;SER2
+HD 171767;S;SER2;AQL
+HD 172190;S;AQL;SER2
+CCDM J18455+0530ABC;S;AQL;SER2
+tet02/Ser;S;AQL;SER2
+tet01/Ser;S;AQL;SER2
+ADS 11640;S;AQL;SER2
+HD 175726;S;AQL;SER2
+HR 7412;S;AQL;SER2
+HD 187734;S;AQL;SER2
+HD 190095;S;AQL;SER2
+HD 192586;S;AQL;DEL
+HD 196929;S;AQL;AQR
+ADS 9493;S;LIB;SER1
+43/Ser;S;LIB;OPH
+41/Her;S;OPH;HER
+HR 6317;S;HER;OPH
+HD 155714;S;OPH;HER
+HR 6497;S;OPH;HER
+HR 6857;S;OPH;SER2
+ADS 11254;S;OPH;SER2
+V2393/Oph;S;OPH;SER2
+HD 170200;S;OPH;SER2
+HR 7010;S;AQL;SER2
+ADS 11555;S;AQL;SER2
+HD 171834;S;SER2;AQL
+HD 177749;S;AQL;SGE
+HD 184853;S;AQL;SER2
+HR 7598;S;AQL;SGE
+13/Del;S;DEL;EQU
+HR 7975;S;DEL;EQU
+CCDM J20557+0432AB;S;EQU;DEL
+HR 6032;S;HER;SER1
+HD 148979;S;OPH;HER
+HD 152113;S;OPH;HER
+i/Her;S;OPH;HER
+CCDM J17020+0827AB;S;HER;OPH
+37/Oph;S;OPH;HER
+ADS 10635;S;OPH;HER
+f/Oph;S;OPH;HER
+V2388/Oph;S;OPH;HER
+HD 164309;S;OPH;SER2
+72/Oph;S;OPH;SER2
+HD 165670;S;OPH;SER2
+CCDM J18508+1059AB;S;AQL;OPH
+R/Aql;S;AQL;SGE
+HD 186226;S;AQL;SGE
+HR 7562;S;SGE;AQL
+HD 187567;S;AQL;SGE
+ksi/Aql;S;AQL;SGE
+HR 7693;S;AQL;SGE
+HD 191533;S;AQL;DEL
+HD 196025;S;AQL;AQR
+CCDM J15075+0914AB;S;VIR;SER1
+HR 6246;S;OPH;HER
+HR 6341;S;HER;OPH
+HR 6342;S;HER;OPH
+54/Oph;S;OPH;HER
+HR 6577;S;OPH;HER
+HR 6776;S;OPH;HER
+ADS 11086;S;OPH;HER
+HR 6851;S;OPH;HER
+HD 176873;S;AQL;SGE
+18/Aql;S;AQL;SGE
+28/Aql;S;VUL;SGE
+b/Aql;S;VUL;SGE
+HR 7445;S;SGE;VUL
+HR 7456;S;SGE;VUL
+HD 187260;S;SGE;VUL
+HR 7569;S;SGE;AQL
+IDS 19473+1123;S;SGE;AQL
+HR 7572;S;SGE;AQL
+CCDM J19487+1149AB;S;SGE;VUL
+HD 189783;S;SGE;AQL
+HD 193490;S;DEL;AQL
+1/Del;S;DEL;AQL
+ADS 14101;S;AQL;AQR
+CCDM J15432+1340AB;S;SER1;HER
+HR 5831;S;SER1;HER
+39/Ser;S;SER1;HER
+CCDM J15568+1229AB;S;HER;SER1
+HD 144564;S;HER;SER1
+HR 6239;S;OPH;HER
+HD 153064;S;OPH;HER
+V451/Her;S;HER;OPH
+alf02/Her;S;OPH;HER
+HR 6482;S;OPH;HER
+V642/Her;S;OPH;HER
+HR 6594;S;OPH;HER
+V624/Her;S;OPH;HER
+CCDM J17520+1520AB;S;OPH;HER
+CCDM J18101+1629AB;S;HER;OPH
+HR 6906;S;OPH;HER
+HD 172228;S;OPH;SER2
+HD 174105;S;AQL;OPH
+HD 174897;S;AQL;HER
+HD 174853;S;AQL;HER
+11/Aql;S;AQL;SGE
+HR 7300;S;VUL;SGE
+HR 7307;S;VUL;SGE
+HD 190090;S;AQL;SGE
+HR 7907;S;DEL;VUL
+CCDM J20449+1219ABP;S;VUL;DEL
+ADS 14233;S;VUL;DEL
+15/Del;S;DEL;EQU
+HR 5913;S;SER1;BOO
+HR 6169;S;HER;OPH
+54/Her;S;OPH;HER
+V640/Her;S;OPH;HER
+HR 6627;S;OPH;HER
+CCDM J17564+1820AB;S;OPH;HER
+HR 6977;S;HER;OPH
+CCDM J18358+1658AB;S;HER;OPH
+BD+16 3560A;S;HER;OPH
+FF/Aql;S;HER;AQL
+HD 178428;S;AQL;SGE
+HD 180377;S;VUL;SGE
+V338/Sge;S;SGE;VUL
+2/Sge;S;VUL;SGE
+3/Sge;S;VUL;SGE
+HD 185354;S;SGE;VUL
+ADS 12750;S;SGE;VUL
+V340/Sge;S;SGE;VUL
+HD 189183;S;SGE;AQL
+V1472/Aql;S;AQL;SGE
+HD 193350;S;DEL;SGE
+ADS 13688;S;DEL;SGE
+16/Del;S;EQU;DEL
+tau07/Ser;S;SER1;HER
+tau08/Ser;S;SER1;HER
+HR 6352;S;HER;OPH
+HR 6343;S;HER;OPH
+HR 6559;S;HER;OPH
+HD 160935;S;OPH;HER
+95 B/Her;S;OPH;HER
+HR 6730;S;OPH;HER
+96/Her;S;OPH;HER
+102/Her;S;HER;OPH
+HD 169490;S;HER;OPH
+HD 171948;S;HER;LYR
+CCDM J18545+2037AB;S;HER;AQL
+112/Her;S;HER;AQL
+HD 176973;S;HER;AQL
+U/Sge;S;VUL;SGE
+HR 7391;S;VUL;CYG
+ADS 12336;S;VUL;SGE
+9/Vul;S;VUL;CYG
+HD 187077;S;VUL;CYG
+BD+18 4254A;S;VUL;CYG
+BD+18 4254B;S;VUL;CYG
+HD 187076;S;VUL;CYG
+HR 7662;S;AQL;SGE
+HD 189576;S;SGE;AQL
+13/Sge;S;SGE;AQL
+HD 190338;S;AQL;SGE
+15/Sge;S;AQL;SGE
+HD 195481;S;DEL;VUL
+HR 7899;S;VUL;DEL
+HD 197039;S;VUL;DEL
+gam01/Del;S;DEL;EQU
+gam02/Del;S;DEL;EQU
+HD 134064;S;BOO;SER1
+HD 135101;S;BOO;SER1
+FL/Ser;S;BOO;SER1
+BD+20 3138A;S;SER1;HER
+BD+20 3138B;S;SER1;HER
+HD 151070;S;HER;OPH
+HR 6364;S;HER;OPH
+79/Her;S;HER;CRB
+HR 6592;S;HER;OPH
+HD 162485;S;HER;CRB
+HD 163840;S;OPH;HER
+HR 6854;S;HER;OPH
+HD 168795;S;HER;OPH
+HR 6966;S;HER;LYR
+HR 6980;S;HER;LYR
+HR 7263;S;AQL;SGE
+1/Vul;S;VUL;LYR
+tet/Sge;S;AQL;SGE
+HD 195358;S;VUL;DEL
+HD 195019;S;AQL;DEL
+HR 8037;S;EQU;DEL
+HD 199721;S;EQU;DEL
+CCDM J16279+2559AB;S;CRB;HER
+56/Her;S;HER;CRB
+HR 6499;S;HER;CRB
+HD 164922;S;HER;CRB
+HD 165241;S;HER;CRB
+100 A/Her;S;HER;LYR
+100 B/Her;S;HER;LYR
+HR 6904;S;HER;LYR
+HR 6924;S;HER;LYR
+HR 7091;S;HER;LYR
+HD 182807;S;VUL;LYR
+8/Vul;S;CYG;LYR
+HR 7485;S;VUL;CYG
+HR 7601;S;SGE;AQL
+HR 7677;S;SGE;AQL
+HR 7839;S;VUL;DEL
+HD 197076;S;VUL;DEL
+NOVA CrB;S;HER;SER1
+HR 6052;S;HER;CRB
+39/Her;S;HER;CRB
+CCDM J16518+2840AB;S;HER;CRB
+BD+28 2624A;S;HER;CRB
+V944/Her;S;HER;CRB
+HR 6466;S;HER;CRB
+HD 159118;S;HER;CRB
+nu/Her;S;HER;CRB
+b/Her;S;HER;LYR
+b/Her;S;HER;LYR
+HR 6968;S;HER;LYR
+HD 172865;S;HER;LYR
+HR 7305;S;VUL;LYR
+HD 185269;S;CYG;LYR
+HD 184761;S;CYG;LYR
+HD 186179;S;VUL;CYG
+PS/Vul;S;VUL;CYG
+HD 189671;S;SGE;VUL
+16/Vul;S;SGE;AQL
+CCDM J20137+2414AB;S;AQL;SGE
+HR 7739;S;SGE;DEL
+HD 193220;S;SGE;DEL
+HR 7895;S;VUL;DEL
+c/Boo;S;BOO;SER1
+HR 5640;S;BOO;SER1
+CCDM J15183+2650AB;S;BOO;CRB
+ups/CrB;S;CRB;HER
+BD+30 2771;S;HER;LYR
+ksi/CrB;S;CRB;HER
+32/Her;S;HER;CRB
+PMSC 16296+3043A;S;HER;CRB
+53/Her;S;HER;CRB
+HD 155061;S;HER;CRB
+w/Her;S;HER;CRB
+u/Her;S;HER;CRB
+HR 6591;S;HER;CRB
+HR 6737;S;HER;CRB
+T/Her;S;HER;CRB
+HR 6814;S;HER;LYR
+ADS 11149;S;PSC;CET
+nu.01/Lyr;S;HER;LYR
+nu/Lyr;S;HER;LYR
+HD 176051;S;HER;LYR
+HD 176051A;S;HER;LYR
+HD 178947;S;LYR;VUL
+2/Cyg;S;LYR;CYG
+9/Cyg;S;CYG;LYR
+HR 7466;S;CYG;LYR
+HR 7607;S;VUL;SGE
+MW/Vul;S;VUL;SGE
+HR 7849;S;VUL;DEL
+HR 6043;S;CRB;HER
+HD 146946;S;CRB;HER
+nu.01/CrB;S;CRB;HER
+nu.02/CrB;S;CRB;HER
+HR 6110;S;CRB;HER
+HD 149930;S;HER;CRB
+HD 162094;S;HER;CRB
+HR 6984;S;HER;LYR
+HR 7033;S;HER;LYR
+HR 6997;S;HER;LYR
+HR 7140;S;HER;LYR
+HR 7212;S;HER;LYR
+HR 7272;S;CYG;LYR
+HR 7535;S;VUL;CYG
+HD 189613;S;VUL;CYG
+HR 7640;S;VUL;SGE
+HD 190360;S;VUL;SGE
+V1768/Cyg;S;CYG;VUL
+HD 193010;S;VUL;SGE
+HR 7760;S;VUL;SGE
+HD 199375;S;VUL;CYG
+HD 199598;S;VUL;CYG
+HD 136654;S;BOO;CRB
+tet/CrB;S;BOO;CRB
+c/Her;S;HER;CRB
+HR 6488;S;HER;LYR
+HR 6491;S;HER;CRB
+ADS 10526;S;HER;CRB
+HD 162667;S;HER;CRB
+HD 169617;S;HER;LYR
+HR 6901;S;HER;LYR
+HD 171384;S;LYR;HER
+HR 7019;S;HER;LYR
+zet01/Lyr;S;HER;LYR
+zet02/Lyr;S;HER;LYR
+del01/Lyr;S;LYR;HER
+del02/Lyr;S;LYR;HER
+iot/Lyr;S;CYG;LYR
+HR 7346;S;LYR;CYG
+HR 7338;S;CYG;LYR
+HR 7419;S;CYG;LYR
+HR 7481;S;CYG;LYR
+HR 7529;S;VUL;CYG
+HR 7530;S;VUL;CYG
+CCDM J19487+3519AB;S;VUL;CYG
+HR 7512;S;VUL;CYG
+ADS 12852;S;VUL;CYG
+HR 7743;S;VUL;CYG
+HD 196197;S;VUL;CYG
+48/Cyg;S;VUL;CYG
+HR 7887;S;VUL;CYG
+HD 197120;S;VUL;DEL
+HD 198626;S;VUL;CYG
+HR 5674;S;BOO;CRB
+HR 6046;S;CRB;HER
+25/Her;S;CRB;HER
+HR 6388;S;DRA;HER
+V819/Her;S;HER;LYR
+V826/Her;S;HER;OPH
+f/Her;S;HER;LYR
+HR 6767;S;HER;DRA
+HD 172068;S;DRA;HER
+HR 7017;S;DRA;HER
+HR 7041;S;HER;LYR
+eps01 B/Lyr;S;HER;LYR
+eps01 A/Lyr;S;HER;LYR
+eps01/Lyr;S;HER;LYR
+eps02/Lyr;S;HER;LYR
+eps02 C/Lyr;S;HER;LYR
+eps02 D/Lyr;S;HER;LYR
+V543/Lyr;S;DRA;HER
+tet/Lyr;S;CYG;LYR
+HR 7436;S;CYG;LYR
+HD 186506;S;VUL;CYG
+HR 7543;S;VUL;CYG
+HR 7555;S;VUL;CYG
+CCDM J19586+3806AB;S;VUL;CYG
+HD 189864;S;VUL;CYG
+BD+36 3816D;S;VUL;CYG
+HD 190429;S;CYG;VUL
+b03/Cyg;S;VUL;CYG
+HD 192661;S;VUL;CYG
+HD 190918;S;CYG;VUL
+b01/Cyg;S;CYG;VUL
+HD 195102;S;VUL;CYG
+HD 196120;S;VUL;CYG
+49/Cyg;S;VUL;CYG
+HD 199055;S;VUL;CYG
+51 B/Boo;S;BOO;CRB
+zet01/CrB;S;BOO;CRB
+zet02/CrB;S;BOO;CRB
+HD 143806;S;HER;CRB
+HD 144579;S;CRB;HER
+HR 6091;S;CRB;HER
+GJ 9557;S;PSC;CET
+HD 166409;S;HER;LYR
+HD 169778;S;HER;LYR
+HR 7146;S;HER;LYR
+CCDM J19430+4044AB;S;CYG;LYR
+HR 7499;S;CYG;LYR
+HR 7628;S;CYG;LYR
+HD 190771;S;CYG;VUL
+RS/Cyg;S;VUL;CYG
+HR 7752;S;VUL;CYG
+HD 193469;S;VUL;CYG
+44/Cyg;S;CYG;VUL
+T/Cyg;S;VUL;CYG
+HR 8005;S;VUL;CYG
+HR 3534;S;VEL;PYX
+HD 76668;S;VEL;PUP
+HR 3373;S;VEL;PUP
+HD 74674;S;VEL;PYX
+NO/Pup;S;VEL;PUP
+IDS 08226-3844;S;VEL;PUP
+h02/Pup;S;VEL;PUP
+V336/Pup;S;VEL;PUP
+HR 3205;S;VEL;CAR
+IDS 07593-4102;S;PSC;CET
+HR 3101;S;PUP;VEL
+sig/Pup;S;PUP;VEL
+L02/Pup;S;PUP;VEL
+HR 2546;S;PUP;CAR
+HD 45056;S;CAR;PIC
+HD 41700;S;PIC;CAR
+CCDM J06046-4504AB;S;PIC;CAR
+HR 2008;S;PIC;COL
+HD 36520;S;PIC;DOR
+HR 1856;S;PIC;DOR
+IDS 05274-4709;S;PIC;DOR
+HR 1364;S;CAE;HOR
+del/Hor;S;DOR;HOR
+HR 1157;S;FOR;ERI
+HD 22986;S;FOR;ERI
+HD 21175;S;ERI;FOR
+k/Vel;S;VEL;PYX
+HR 3548;S;VEL;PYX
+NY/Vel;S;VEL;PYX
+HD 72348;S;VEL;PUP
+HD 74105;S;VEL;PYX
+HR 3322;S;VEL;PUP
+HD 72014;S;VEL;PUP
+HR 3226;S;CAR;VEL
+QQ/Pup;S;VEL;PUP
+N/Pup;S;PUP;VEL
+P/Pup;S;PUP;VEL
+CD-46 3046;S;PUP;VEL
+HD 58017;S;PUP;CAR
+HR 2762;S;CAR;VEL
+HD 49614;S;PUP;CAR
+HD 49758;S;CAR;PIC
+HR 2462;S;COL;PUP
+HR 2384;S;CAR;PIC
+TYC 8111-2007-1;S;CAR;PIC
+G/Pup;S;CAR;PIC
+HD 44594;S;CAR;PIC
+V575/Pup;S;PIC;CAR
+HD 39918;S;PIC;CAR
+eta01/Pic;S;PIC;DOR
+HD 30042;S;PIC;CAE
+HR 1291;S;DOR;HOR
+HD 27019;S;HOR;DOR
+tet01/Eri;S;ERI;HOR
+tet/Eri;S;ERI;HOR
+tet02/Eri;S;ERI;HOR
+HD 17627;S;ERI;FOR
+HR 3737;S;ANT;VEL
+HR 3525;S;VEL;PUP
+d/Vel;S;VEL;PYX
+CD-44 4462B;S;VEL;PUP
+CCDM J08295-4443AB;S;VEL;PUP
+HD 74319;S;CAR;VEL
+HD 72798;S;CAR;VEL
+HR 3371;S;VEL;PUP
+HR 3356;S;VEL;PUP
+TYC 7673-2998-1;S;VEL;PUP
+HR 3250;S;CAR;VEL
+HR 3234;S;CAR;VEL
+gam01/Vel;S;VEL;CAR
+NO/Vel;S;CAR;VEL
+gam02/Vel;S;VEL;CAR
+V410/Pup;S;VEL;PUP
+HR 3118;S;PUP;VEL
+HD 65930;S;VEL;PUP
+V/Pup;S;VEL;PUP
+HD 61947;S;CAR;VEL
+HD 63008;S;CAR;VEL
+HD 48857;S;COL;PUP
+HR 2044;S;DOR;PIC
+HR 2114;S;PIC;CAR
+CCDM J05572-5325AB;S;PIC;CAR
+HD 35859;S;PIC;DOR
+tet/Pic;S;PIC;DOR
+HD 31244;S;PIC;CAE
+CCDM J03124-4425AB;S;ERI;HOR
+CD-44 1025A;S;ERI;HOR
+CCDM J02433-4032AB;S;HOR;ERI
+HD 18055;S;ERI;HOR
+HR 3844;S;ANT;VEL
+psi/Vel;S;ANT;VEL
+psi/Vel;S;ANT;VEL
+psi/Vel;S;ANT;VEL
+HR 3807;S;ANT;VEL
+HR 3812;S;ANT;VEL
+HD 81782;S;ANT;VEL
+z/Vel;S;VEL;PYX
+HR 3661;S;VEL;PYX
+HD 79416C;S;VEL;PYX
+HR 3562;S;CAR;VEL
+KK/Vel;S;VEL;PYX
+f/Vel;S;CAR;VEL
+b/Vel;S;CAR;VEL
+HR 3358;S;VEL;CAR
+HX/Vel;S;CAR;VEL
+B/Vel;S;VEL;PUP
+HD 70309;S;CAR;VEL
+HR 3142;S;VEL;PUP
+HR 3143;S;VEL;PUP
+IDS 07564-4942;S;VEL;PUP
+V390/Car;S;CAR;VEL
+HD 57918;S;CAR;VEL
+HR 2813;S;CAR;VEL
+HR 2814;S;CAR;VEL
+CCDM J07204-5219AB;S;CAR;VEL
+HD 49192;S;CAR;PIC
+HD 49219;S;CAR;PIC
+HD 47910;S;PIC;CAR
+HR 2524;S;CAR;PIC
+HR 1912;S;DOR;PIC
+iot/Pic;S;PIC;CAE
+iot/Pic;S;PIC;CAE
+CCDM J04255-5307AB;S;DOR;RET
+HR 1365;S;DOR;RET
+s/Eri;S;HOR;ERI
+HD 82241;S;ANT;VEL
+HR 3688;S;VEL;ANT
+HD 80777;S;ANT;VEL
+HR 3680;S;VEL;PYX
+FZ/Vel;S;CAR;VEL
+HD 77321;S;CAR;VEL
+HR 3551;S;CAR;VEL
+HD 73609;S;VEL;CAR
+HV/Vel;S;CAR;VEL
+HR 3330;S;VEL;CAR
+HD 71805;S;VEL;CAR
+CCDM J08255-5144AB;S;VEL;CAR
+V461/Car;S;CAR;VEL
+IDS 07590-5414;S;PSC;CET
+HD 62943;S;CAR;PIC
+HD 61435;S;CAR;PIC
+HD 55598;S;CAR;PIC
+HD 58540;S;CAR;PUP
+HD 56216;S;CAR;PIC
+mu/Pic;S;PIC;CAR
+alf/Dor;S;DOR;PIC
+CPD-55 663A;S;DOR;PIC
+HR 1227;S;HOR;DOR
+HD 21360;S;HOR;ERI
+HD 85209;S;ANT;VEL
+OY/Vel;S;CAR;VEL
+HR 3542;S;CAR;VEL
+HR 3435;S;VEL;CAR
+NZ/Vel;S;CAR;VEL
+HY/Vel;S;CAR;VEL
+H/Vel;S;CAR;VEL
+KT/Vel;S;CAR;VEL
+CCDM J08321-5313AB;S;VEL;CAR
+V469/Car;S;CAR;VEL
+HR 3349;S;CAR;VEL
+HR 3368;S;CAR;VEL
+V468/Car;S;CAR;VEL
+HD 71549;S;CAR;VEL
+HR 3062;S;CAR;PIC
+HR 3031;S;CAR;PIC
+HR 3056;S;CAR;PIC
+HD 58895;S;CAR;PIC
+HD 53921;S;CAR;PIC
+HD 55527;S;CAR;PIC
+HD 45270;S;CAR;PIC
+AK/Pic;S;DOR;VOL
+HD 48189A;S;DOR;VOL
+CCDM J06125-6128AB;S;CAR;PIC
+HD 44120;S;CAR;PIC
+HD 40201;S;PIC;DOR
+CCDM J04403-5857AB;S;DOR;RET
+HR 1405;S;DOR;RET
+HR 1168;S;HOR;RET
+HR 3925;S;ANT;VEL
+HD 86754;S;ANT;VEL
+u/Vel;S;ANT;VEL
+HD 84774;S;ANT;VEL
+CCDM J09337-4900AB;S;VEL;ANT
+CD-48 4802A;S;VEL;ANT
+CD-48 4802B;S;VEL;ANT
+M/Vel;S;VEL;ANT
+HD 83529;S;VEL;ANT
+IM/Vel;S;VEL;ANT
+HD 76214;S;CAR;VEL
+del02/Vel;S;CAR;VEL
+CCDM J08407-5733AB;S;CAR;VEL
+HR 3274;S;CAR;VEL
+HD 64185;S;CAR;PIC
+HD 65907A;S;CAR;PIC
+HD 66066;S;CAR;VEL
+V389/Car;S;CAR;PIC
+HR 2754;S;CAR;PIC
+HR 2073;S;DOR;PIC
+HR 1882;S;DOR;PIC
+HR 1475;S;DOR;RET
+P/Dor;S;DOR;RET
+286/Ret;S;DOR;RET
+HR 1435;S;DOR;RET
+HD 25874;S;DOR;RET
+eps/Ret;S;DOR;RET
+HD 22989;S;HOR;RET
+eta/Hor;S;HOR;ERI
+CCDM J10062-4722AB;S;VEL;ANT
+HR 3943;S;VEL;ANT
+IP/Vel;S;CAR;VEL
+HD 81353;S;VEL;CAR
+HR 3840;S;CAR;VEL
+HD 81734;S;VEL;CAR
+CCDM J09045-5620AB;S;CAR;VOL
+HR 3622;S;CAR;VOL
+HD 79421;S;CAR;VOL
+b01/Car;S;CAR;VEL
+CD-58 2350;S;CAR;VEL
+b02/Car;S;CAR;VEL
+CPD-58 1202B;S;CAR;VEL
+CCDM J08451-5843AB;S;CAR;VEL
+d/Car;S;CAR;VEL
+CCDM J08392-6019AB;S;CAR;VEL
+HD 68279;S;CAR;VEL
+HD 69863;S;CAR;VEL
+V375/Car;S;CAR;PIC
+HD 43618;S;PIC;DOR
+AB/Dor;S;DOR;PIC
+alf/Ret;S;DOR;RET
+HR 1340;S;DOR;RET
+tet/Ret;S;DOR;RET
+CCDM J04177-6315AB;S;DOR;RET
+HD 20485;S;HOR;RET
+HD 13445;S;HOR;ERI
+HR 4154;S;ANT;VEL
+HD 91214;S;ANT;VEL
+HR 4136;S;ANT;VEL
+HR 4135;S;ANT;VEL
+HD 90611;S;ANT;VEL
+HD 87652;S;CAR;VEL
+phi/Vel;S;CAR;VOL
+V482/Car;S;CAR;VEL
+HD 79699;S;CAR;VOL
+c/Car;S;CAR;VEL
+HR 3432;S;CAR;VEL
+CCDM J05270-6837AB;S;DOR;PIC
+HD 31532;S;DOR;RET
+HD 28398;S;DOR;RET
+bet/Ret;S;RET;HOR
+HD 20060;S;HOR;RET
+HD 20586;S;HOR;RET
+zet02/Ret;S;HOR;RET
+zet01/Ret;S;HOR;RET
+kap/Ret;S;HOR;RET
+HR 688;S;ERI;HOR
+HD 12894;S;ERI;PHE
+HD 9733;S;ERI;PHE
+t/Vel;S;ANT;VEL
+HD 92847;S;ANT;VEL
+p/Vel;S;ANT;VEL
+HD 89713;S;CAR;VEL
+HR 4020;S;CAR;VEL
+HD 87122;S;CAR;VOL
+HR 3953;S;CAR;VOL
+HR 3863;S;CAR;VOL
+HR 3752;S;CAR;VEL
+R/Car;S;CAR;VEL
+alf/Vol;S;CAR;VOL
+HR 3537;S;CAR;VEL
+eps/Vol;S;CHA;VOL
+gam02/Vol;S;VOL;CAR
+gam01/Vol;S;VOL;CAR
+HR 2505;S;DOR;PIC
+gam/Hor;S;HOR;HYI
+HR 479;S;ERI;PHE
+HD 95027;S;ANT;VEL
+CD-48 5913B;S;VEL;ANT
+V348/Vel;S;CAR;VEL
+HD 91324;S;CAR;VEL
+J/Vel;S;CAR;VOL
+HD 300791;S;CAR;VOL
+CCDM J10209-5603AB;S;CAR;VOL
+HD 89077;S;CAR;VOL
+HR 4043;S;CAR;VOL
+CPD-59 2008A;S;CAR;VOL
+HR 3971;S;CAR;VOL
+ups/Car;S;CAR;VOL
+ups/Car;S;CAR;VOL
+ups/Car;S;CAR;VOL
+128/Car;S;CAR;CHA
+tet/Vol;S;CHA;VOL
+kap01/Vol;S;CHA;VOL
+kap02/Vol;S;CHA;VOL
+zet/Vol;S;MEN;CHA
+CCDM J07354-7417AB;S;MEN;CHA
+HR 823;S;HOR;HYI
+CPD-60 162A;S;ERI;PHE
+HD 9771;S;ERI;PHE
+p/Eri;S;ERI;PHE
+p/Eri;S;ERI;PHE
+p/Eri;S;ERI;PHE
+bet/Phe;S;PHE;GRU
+CCDM J01086-4640AB;S;PHE;GRU
+HR 4296;S;CAR;VEL
+x/Vel;S;CAR;VOL
+HD 92463;S;CAR;VOL
+VY/Car;S;CAR;VOL
+HD 91869;S;CAR;VOL
+HR 4177;S;CAR;VOL
+HR 4179;S;CAR;VOL
+IDS 10350-5840;S;PSC;CET
+CCDM J10390-5849AB;S;CAR;VOL
+HR 4128;S;CAR;VOL
+q/Car;S;CAR;VOL
+CCDM J10191-6441AB;S;CAR;VOL
+CCDM J10191-6441A;S;CAR;VOL
+CCDM J10191-6441B;S;CAR;VOL
+HR 3995;S;CAR;VOL
+V486/Car;S;CAR;VOL
+HD 85612;S;CAR;VOL
+HD 78360;S;CAR;VOL
+eta/Vol;S;VOL;CHA
+gam/Men;S;DOR;MEN
+HR 1682;S;MEN;DOR
+tet/Hyi;S;HOR;HYI
+HD 6882A;S;PHE;TUC
+HD 6882B;S;PHE;TUC
+CCDM J11165-4553AB;S;CEN;ANT
+CCDM J11131-4703AB;S;CEN;ANT
+HD 98022;S;CAR;CEN
+HR 4350;S;CEN;CAR
+V900/Cen;S;CAR;CEN
+CCDM J10494-5919AB;S;CAR;VOL
+HD 94491;S;CAR;VOL
+u/Car;S;CAR;VOL
+HD 94173;S;CAR;VOL
+HD 93129;S;CAR;VOL
+HR 4217;S;CAR;VOL
+QZ/Car;S;CAR;VOL
+HD 93010;S;CAR;VOL
+HR 4266;S;CAR;VOL
+HR 4220;S;CAR;VOL
+CCDM J10389-6430AB;S;CAR;VOL
+HR 4002;S;CAR;MUS
+HD 86388;S;CAR;VOL
+HR 3720;S;CAR;CHA
+tet/Cha;S;CHA;VOL
+del/Men;S;MEN;HYI
+HD 16493;S;HOR;HYI
+HD 6334;S;TUC;PHE
+CPD-60 72B;S;TUC;PHE
+CCDM J01033-6005AB;S;TUC;PHE
+HD 4391;S;PHE;GRU
+HD 4130;S;SCL;GRU
+C01/Cen;S;CEN;CAR
+HR 4417;S;CAR;CEN
+pi/Cen;S;CAR;CEN
+pi/Cen;S;CAR;CEN
+pi/Cen;S;CAR;CEN
+HD 98922;S;CAR;CEN
+HR 4323;S;CAR;VEL
+y/Car;S;CAR;CEN
+HD 95880;S;CAR;VEL
+HR 4355;S;CAR;CEN
+HD 95324;S;CAR;VOL
+HD 95122;S;CAR;MUS
+HR 4211;S;CAR;VOL
+HR 4212;S;CAR;VOL
+CCDM J10537-7043AB;S;CAR;CHA
+HD 94650;S;CAR;CHA
+HR 4142;S;CAR;VOL
+9/Cha;S;CHA;VOL
+HD 35877;S;MEN;HYI
+HR 1485;S;MEN;HYI
+BN/Hyi;S;MEN;OCT
+IDS 03109-7922;S;PSC;CET
+CCDM J01171-6624AB;S;HYI;TUC
+kap/Tuc;S;HYI;TUC
+CCDM J00445-6230AB;S;TUC;PHE
+ksi/Phe;S;PHE;TUC
+lam01/Phe;S;PHE;TUC
+HD 3405;S;PHE;TUC
+HD 101410;S;CEN;CAR
+HD 100724;S;CEN;CAR
+HD 99845;S;CEN;CAR
+HD 101312;S;CEN;CAR
+omi01/Cen;S;CEN;CAR
+HR 4415;S;CAR;CEN
+HD 100826;S;CEN;CAR
+lam/Cen;S;CEN;CAR
+HR 4401;S;CAR;CEN
+HD 99103;S;CAR;CEN
+CD-65 1071;S;CAR;CEN
+V535/Car;S;CAR;MUS
+HR 4329;S;CAR;CHA
+del01/Cha;S;CAR;CHA
+HR 1271;S;MEN;OCT
+HR 467;S;HYI;TUC
+tau01/Hyi;S;HYI;TUC
+tau02/Hyi;S;HYI;TUC
+lam01/Tuc;S;HYI;TUC
+bet01/Tuc;S;TUC;PHE
+bet02/Tuc;S;TUC;PHE
+CCDM J00316-6258D;S;TUC;PHE
+bet03/Tuc;S;TUC;PHE
+LCL/119;S;TUC;PHE
+HD 103856;S;CRU;CEN
+CCDM J11550-5606AB;S;CRU;CEN
+HD 102693;S;CEN;CAR
+HR 4551;S;CRU;CEN
+HR 4522;S;CEN;CAR
+CCDM J11412-6108AB;S;CEN;CAR
+HD 101545;S;CEN;CAR
+HD 101545A;S;CEN;CAR
+HD 101205;S;CEN;CAR
+12/Mus;S;CEN;CAR
+HR 4549;S;CRU;CEN
+HD 101380;S;CEN;CAR
+lam/Mus;S;CAR;CEN
+HD 101379;S;CEN;CAR
+HR 4425;S;MUS;CAR
+HD 100359;S;CEN;MUS
+eps/Cha;S;MUS;CHA
+HR 4304;S;CAR;CHA
+HR 4507;S;CHA;MUS
+HD 1237;S;HYI;TUC
+HR 32;S;OCT;HYI
+pi/Tuc;S;HYI;TUC
+HR 23;S;TUC;PHE
+HD 224782;S;TUC;PHE
+HR 4636;S;CEN;ANT
+HR 4618;S;CRU;CEN
+HR 4619;S;CRU;CEN
+CCDM J12098-5147AB;S;CRU;CEN
+HD 104971;S;CRU;CEN
+tet01/Cru;S;CRU;CEN
+eta/Cru;S;CRU;CEN
+HD 105151;S;CRU;CEN
+zet02/Mus;S;CEN;CRU
+HD 109857;S;MUS;CAR
+HD 107547;S;CEN;CRU
+DX/Cha;S;MUS;CHA
+iot/Oct;S;MUS;CHA
+HR 4595;S;CHA;MUS
+HD 223913;S;TUC;OCT
+HD 223256;S;TUC;PHE
+D/Cen;S;CRU;CEN
+HD 108196;S;CEN;CRU
+G/Cen;S;CEN;CRU
+HD 106970;S;CEN;CRU
+F/Cen;S;CEN;CRU
+HD 108570;S;CRU;CEN
+HR 4729;S;CEN;CRU
+alf01/Cru;S;CEN;CRU
+alf02/Cru;S;CEN;CRU
+alf/Cru;S;CEN;CRU
+HD 108610;S;CRU;CEN
+KY/Mus;S;CEN;CRU
+bet/Mus;S;CEN;CRU
+HR 4930;S;MUS;CEN
+HR 5082;S;MUS;CHA
+HD 113694;S;MUS;CAR
+rho/Oct;S;OCT;APS
+lam/Oct;S;OCT;IND
+HR 8908;S;TUC;IND
+tet/Phe;S;PHE;GRU
+HD 222688;S;SCL;GRU
+HR 4782;S;CRU;CEN
+HD 110372;S;CEN;CRU
+CCDM J12381-5556AB;S;CEN;CRU
+HR 4848;S;CEN;CRU
+HD 110698;S;CEN;CRU
+HR 4835;S;CEN;CRU
+tet/Mus;S;CEN;MUS
+eta/Mus;S;MUS;CEN
+HD 115286;S;MUS;CEN
+HR 4966;S;MUS;CEN
+HR 5030;S;MUS;CEN
+HD 155454;S;OCT;APS
+HD 172226;S;OCT;APS
+HR 7785;S;OCT;PAV
+HR 8201;S;PAV;OCT
+nu/Oct;S;OCT;IND
+HR 8526;S;TUC;IND
+HR 8380;S;TUC;IND
+nu/Ind;S;TUC;IND
+HD 215562;S;TUC;IND
+HR 8689;S;TUC;IND
+HD 219631;S;TUC;IND
+DQ/Gru;S;TUC;PHE
+HR 8877;S;TUC;GRU
+omi/Gru;S;TUC;PHE
+HD 221473;S;GRU;PHE
+HD 109409;S;CEN;HYA
+HR 4882;S;CRU;CEN
+HR 4908;S;CRU;CEN
+mu.01/Cru;S;CRU;CEN
+mu.02/Cru;S;CRU;CEN
+CCDM J12546-5711AB;S;CRU;CEN
+HR 4944;S;CEN;MUS
+V831/Cen;S;CEN;MUS
+CPD-59 4815A;S;CEN;MUS
+CPD-59 4815B;S;CEN;MUS
+HR 4980;S;CEN;MUS
+HD 114837A;S;CEN;MUS
+HD 114837;S;CEN;MUS
+J/Cen;S;CEN;MUS
+V790/Cen;S;CEN;MUS
+HD 114792;S;CEN;MUS
+HD 114886;S;CEN;MUS
+HR 5048;S;CEN;MUS
+HD 117432;S;CEN;MUS
+HR 5293;S;CIR;MUS
+HD 130081;S;TRA;CIR
+HD 126595;S;APS;TRA
+HR 5555;S;TRA;CIR
+HD 141846;S;TRA;APS
+del01/Aps;S;TRA;APS
+del02/Aps;S;TRA;APS
+HD 215131;S;TUC;IND
+del/Tuc;S;TUC;IND
+HD 218268;S;GRU;TUC
+HR 8793;S;GRU;TUC
+HR 8828;S;GRU;TUC
+HR 8846;S;SCL;GRU
+CCDM J12567-4741AB;S;CRU;CEN
+HD 112851;S;CRU;CEN
+ksi02/Cen;S;CEN;CRU
+HR 5024;S;CEN;MUS
+HD 118261;S;CIR;MUS
+CCDM J13414-6152AB;S;CIR;MUS
+HD 119076;S;CIR;MUS
+HD 119796;S;CIR;MUS
+HR 5242;S;APS;CIR
+HD 124182;S;CEN;CHA
+HD 124197;S;CEN;CHA
+HR 5253;S;APS;CIR
+HR 5320;S;CIR;MUS
+CCDM J14532-7311AB;S;TRA;CIR
+kap02/Aps;S;TRA;CIR
+kap01/Aps;S;TRA;CIR
+bet/Aps;S;TRA;ARA
+HR 6635;S;PAV;ARA
+mu.02/Oct;S;OCT;APS
+HD 200525;S;OCT;PEG
+HR 8159;S;PAV;OCT
+DK/Tuc;S;TUC;IND
+eta/Gru;S;GRU;TUC
+HD 216656;S;GRU;TUC
+f/Cen;S;CEN;CRU
+HD 116434;S;CEN;LUP
+HR 4985;S;CEN;LUP
+HR 5124;S;CIR;MUS
+HD 119283;S;CIR;MUS
+HR 5122;S;CIR;MUS
+HD 121454;S;MUS;APS
+HD 122938;S;CIR;MUS
+HD 124314;S;LUP;CEN
+CCDM J14542-6625AB;S;TRA;CIR
+HR 5500;S;CIR;TRA
+HD 128020;S;CEN;CIR
+HD 128293;S;CEN;CIR
+HR 5408;S;CHA;APS
+HD 132127;S;TRA;CIR
+T/TrA;S;TRA;CIR
+HD 149392;S;ARA;TRA
+CCDM J16599-7325AB;S;ARA;TRA
+HD 165259;S;PAV;APS
+HD 164712;S;PAV;APS
+CCDM J18497-7300AB;S;OCT;APS
+HD 195459;S;PAV;OCT
+HR 8352;S;IND;TUC
+TYC 9116-2070-1;S;IND;TUC
+HR 8531;S;TUC;IND
+CC/Gru;S;GRU;TUC
+HR 8662;S;GRU;TUC
+HR 5038;S;CEN;LUP
+HR 5103;S;CEN;LUP
+HR 5061;S;CEN;LUP
+HR 5207;S;CEN;CRU
+IDS 13456-5219;S;CEN;CRU
+CCDM J13563-5408AB;S;CEN;CRU
+Q/Cen;S;CEN;CRU
+HD 121384;S;CEN;MUS
+HR 5371;S;LUP;CEN
+HD 129092;S;CEN;CIR
+HR 5482;S;CEN;CIR
+alf/Cir;S;CEN;CIR
+eps/TrA;S;TRA;CIR
+CCDM J15207-6729AB;S;TRA;CIR
+HR 5713;S;TRA;CIR
+HD 152010;S;ARA;TRA
+iot/Aps;S;APS;ARA
+HD 155875;S;APS;ARA
+HR 6565;S;PAV;ARA
+zet/Pav;S;PAV;OCT
+HD 209268;S;GRU;IND
+eps/Ind;S;GRU;IND
+del/Ind;S;IND;GRU
+HD 211415;S;GRU;TUC
+HD 213240;S;GRU;TUC
+HD 214953;S;GRU;TUC
+M/Cen;S;CEN;LUP
+HR 5297;S;CEN;CRU
+HR 5308;S;LUP;CEN
+HR 5316;S;LUP;CEN
+HD 130206;S;CIR;CEN
+alf/Cen;S;CEN;CIR
+alf/Cen;S;CEN;CIR
+alf02/Cen;S;CEN;CIR
+HD 131376;S;TRA;CIR
+CCDM J15140-6121AB;S;NOR;LUP
+HD 131491;S;TRA;CIR
+tet/Cir;S;TRA;CIR
+HR 5766;S;TRA;CIR
+HIP 77390;S;TRA;NOR
+HR 5851;S;TRA;NOR
+HR 5852;S;TRA;NOR
+HR 5920;S;TRA;NOR
+HR 6037;S;TRA;NOR
+HR 6368;S;TRA;APS
+HR 6808;S;PAV;APS
+HR 7161;S;PAV;OCT
+HR 7278;S;PAV;APS
+HR 7435;S;PAV;OCT
+HD 191585;S;PAV;TEL
+HR 7959;S;PAV;IND
+HR 7960;S;PAV;IND
+CCDM J20516-6226AB;S;PAV;IND
+HD 206429;S;IND;GRU
+HD 206428;S;IND;GRU
+pi.02/Gru;S;GRU;IND
+pi.01/Gru;S;GRU;IND
+del01/Gru;S;GRU;IND
+del02/Gru;S;GRU;IND
+HR 5223;S;CEN;CRU
+HD 120675;S;CEN;LUP
+CCDM J14077-4952AB;S;CEN;LUP
+V869/Cen;S;CEN;LUP
+BU/Cir;S;CEN;CIR
+gam/Cir;S;CIR;NOR
+gam/Cir;S;CIR;NOR
+gam/Cir;S;CIR;NOR
+HR 5661;S;CIR;NOR
+HR 5680;S;TRA;CIR
+del/Cir;S;CIR;NOR
+HD 146349;S;TRA;NOR
+del/TrA;S;NOR;TRA
+iot/TrA;S;NOR;TRA
+V824/Ara;S;TRA;APS
+HD 172555;S;PAV;TEL
+HD 170407;S;PAV;APS
+bet/Ind;S;IND;PAV
+HD 119361;S;CEN;HYA
+mu/Cen;S;CEN;HYA
+HX/Lup;S;LUP;CEN
+HR 5413;S;LUP;CEN
+HR 5377;S;LUP;CEN
+HR 5427;S;LUP;CEN
+HR 5498;S;CEN;LUP
+b/Lup;S;CEN;LUP
+HR 5637;S;NOR;LUP
+HD 140504;S;NOR;LUP
+HR 5900;S;NOR;TRA
+HR 5898;S;TRA;NOR
+HR 6177;S;ARA;TRA
+HD 150596;S;ARA;TRA
+HD 150097;S;ARA;TRA
+HR 6253;S;ARA;TRA
+HD 157802;S;ARA;TRA
+HR 6805;S;PAV;ARA
+HD 167425;S;PAV;APS
+nu/Pav;S;PAV;APS
+lam/Pav;S;PAV;TEL
+HR 7531;S;PAV;TEL
+HR 8114;S;IND;PAV
+tet/Ind;S;IND;PAV
+tet/Ind;S;IND;PAV
+HD 207129;S;GRU;IND
+HR 5294;S;CEN;HYA
+tau02/Lup;S;LUP;CEN
+HR 5401;S;LUP;CEN
+tau01/Lup;S;LUP;CEN
+HD 128415;S;LUP;CEN
+HD 134483;S;NOR;LUP
+V360/Nor;S;NOR;LUP
+HD 144534;S;NOR;LUP
+iot01/Nor;S;NOR;LUP
+IDS 15554-5730;S;NOR;LUP
+CPD-57 7500A;S;NOR;LUP
+CD-57 6235B;S;NOR;LUP
+HD 155099;S;ARA;TRA
+HR 6408;S;ARA;APS
+HR 6624;S;PAV;ARA
+HR 6760;S;PAV;ARA
+HD 164427;S;PAV;ARA
+HD 168338;S;PAV;APS
+ksi/Pav;S;PAV;APS
+nu/Tel;S;PAV;TEL
+HR 7691;S;PAV;IND
+HD 200856;S;IND;MIC
+HD 202026;S;IND;MIC
+HR 5362;S;LUP;CEN
+HR 5450;S;LUP;CEN
+IT/Lup;S;LUP;CEN
+HD 129791;S;LUP;CEN
+HR 5412;S;LUP;CEN
+HR 5444;S;LUP;CEN
+IDS 14497-4728;S;LUP;CEN
+HD 131923;S;LUP;CEN
+IDS 15050-4822;S;NOR;LUP
+kap02/Lup;S;NOR;LUP
+HR 5738;S;NOR;CIR
+HD 140002;S;NOR;LUP
+HR 5798;S;NOR;LUP
+HR 5865;S;NOR;LUP
+HR 5869;S;NOR;LUP
+GJ 616.1;S;NOR;ARA
+HD 146059;S;NOR;ARA
+kap/Nor;S;NOR;ARA
+R/Ara;S;ARA;TRA
+HD 153201;S;ARA;TRA
+HR 6438;S;ARA;APS
+HD 156751;S;ARA;APS
+CCDM J17436-5701AB;S;PAV;ARA
+HR 6586;S;PAV;ARA
+V/Pav;S;PAV;ARA
+HR 6908;S;PAV;APS
+HD 180183;S;PAV;TEL
+HD 182509;S;TEL;IND
+CCDM J19278-5420AB;S;TEL;IND
+HR 7548;S;SGR;TEL
+HR 7549;S;SGR;TEL
+HD 202729;S;IND;MIC
+HR 5439;S;LUP;CEN
+HR 5642;S;NOR;LUP
+CCDM J15051-4703AB;S;LUP;CEN
+HR 5663;S;NOR;LUP
+HD 135748;S;NOR;LUP
+TYC 8298-4182-2;S;NOR;LUP
+DUN/180;S;NOR;LUP
+R/Nor;S;NOR;LUP
+HD 140130;S;NOR;LUP
+HD 140274;S;NOR;LUP
+HD 142080;S;NOR;LUP
+HD 143321;S;NOR;SCO
+HR 6059;S;NOR;SCO
+V840/Ara;S;ARA;NOR
+HR 6207;S;ARA;TRA
+eps02/Ara;S;ARA;TRA
+HR 6297;S;ARA;TRA
+HR 6487;S;ARA;TRA
+V539/Ara;S;ARA;SCO
+HD 163028;S;SCO;ARA
+eta/Tel;S;CRA;SGR
+alf/Ind;S;IND;MIC
+tet02/Mic;S;GRU;MIC
+HR 8202;S;GRU;MIC
+HD 128819;S;LUP;CEN
+HD 131837;S;LUP;CEN
+kap/Cen;S;LUP;CEN
+HD 134331;S;LUP;NOR
+HD 135174;S;LUP;NOR
+d/Lup;S;NOR;LUP
+CD-44 10239A;S;NOR;LUP
+HR 5821;S;NOR;LUP
+gam02/Nor;S;SCO;NOR
+CD-49 10998A;S;SCO;ARA
+CCDM J16506-5003AB;S;SCO;ARA
+HD 153579;S;ARA;NOR
+HR 6312;S;ARA;NOR
+HR 6478;S;NOR;ARA
+HR 6483;S;ARA;TRA
+HR 7190;S;TEL;SGR
+HR 7271;S;TEL;ARA
+HD 180575;S;CRA;SGR
+HD 189307;S;SGR;TEL
+HD 191190;S;SGR;CRA
+iot/Mic;S;MIC;IND
+HR 8042;S;MIC;IND
+HD 200026;S;MIC;IND
+CCDM J21022-4300AB;S;MIC;IND
+eta/Mic;S;MIC;IND
+HR 5543;S;LUP;CEN
+HR 5607;S;LUP;CEN
+HR 5667;S;LUP;NOR
+HD 137919;S;NOR;LUP
+ome/Lup;S;NOR;LUP
+HR 5872;S;NOR;LUP
+I/548A;S;NOR;LUP
+HR 6099;S;SCO;NOR
+HD 147970;S;SCO;NOR
+eps/Nor;S;SCO;NOR
+CCDM J16272-4733AB;S;SCO;NOR
+HD 148937;S;NOR;SCO
+HD 150135;S;NOR;ARA
+HR 6187;S;NOR;ARA
+CCDM J16413-4846AC;S;NOR;ARA
+HR 6323;S;ARA;NOR
+CCDM J17004-4839AB;S;ARA;NOR
+HR 6423;S;NOR;SCO
+CCDM J17373-4915AB;S;PAV;ARA
+HD 161880;S;ARA;SCO
+HD 166376;S;ARA;TEL
+HD 166949;S;PAV;ARA
+HD 170283;S;TEL;ARA
+HD 173360;S;TEL;ARA
+HD 175674;S;TEL;SGR
+HD 187099;S;SGR;CRA
+kap01/Sgr;S;MIC;IND
+kap02/Sgr;S;MIC;IND
+HD 196748;S;MIC;IND
+HD 201108;S;MIC;CAP
+HR 5697;S;LUP;CEN
+k/Lup;S;NOR;LUP
+ups/Lup;S;NOR;LUP
+HD 139677;S;LUP;NOR
+CD-41 10245A;S;NOR;LUP
+CCDM J15444-4149AB;S;NOR;LUP
+lam/Nor;S;SCO;NOR
+HR 6085;S;SCO;NOR
+V1003/Sco;S;NOR;SCO
+HR 6371;S;SCO;NOR
+CCDM J17103-4644AB;S;SCO;NOR
+41/Ara;S;SCO;NOR
+HD 157661A;S;SCO;NOR
+HD 157661B;S;SCO;NOR
+HD 157661;S;SCO;NOR
+HR 6513;S;SCO;NOR
+HD 157832;S;SCO;NOR
+HR 6759;S;ARA;CRA
+eps/Tel;S;ARA;CRA
+HR 6778;S;ARA;TEL
+HD 167954;S;CRA;SGR
+HD 171502;S;TEL;ARA
+CCDM J19226-4428AB;S;CRA;SGR
+bet01/Sgr;S;CRA;SGR
+HR 6516;S;OPH;SER2
+HR 6999;S;AQL;SER2
+15 A/Mon;S;GEM;MON
+HD 90508A;S;LMI;UMA
+HD 39315A;S;TAU;AUR
+HD 183912;S;CYG;LYR
+tet/Phe;S;PHE;GRU
+CCDM J18448+3736AD;S;HER;LYR
+11 A/LMi;S;LYN;LMI
+zet/Phe;S;PHE;TUC
+HD 23625A;S;PER;TAU
+[S78b] 302A;S;PSC;CET
+Ve 2-46;S;SCO;SGR
+NAME IOT;S;CAS;PER
+NAME IOT;S;CAS;PER
+HD 111990;S;CRU;CEN
+CCDM J06046-4504A;S;PIC;CAR
+HD 28255A;S;DOR;RET
+CPD-58 1202A;S;CAR;VEL
+CCDM J00100+1109A;S;PEG;PSC
+CCDM J12360-3952A;S;HYA;CEN
+CCDM J15512+5254A;S;BOO;DRA
+HD 152408A;S;SCO;ARA
+kap/Tuc;S;HYI;TUC
+TYC 2309-1821-1;S;AND;TRI
+TYC 2259-552-1;S;AND;PEG
+BD+78 1A;S;CEP;UMI
+TYC 2794-1375-1;S;AND;CAS
+BD+37 34A;S;AND;CAS
+TYC 2789-1809-1;S;AND;PEG
+5 A/Pup;S;MON;PUP
+39/Cnc;S;GEM;CNC
+BD+22 2437A;S;COM;LEO
+CCDM J20411+3218A;S;VUL;CYG
+STF/36AB;S;CET;PSC
+CCDM J06059+4815A;S;AUR;CAM
+CCDM J05133+0251A;S;ERI;ORI
+CCDM J14234+0827A;S;VIR;BOO
+CCDM J13407+1958A;S;COM;BOO
+CCDM J02366+1227A;S;ARI;CET
+TYC 8869-2421-1;S;DOR;RET
+omi01/Cyg;S;CYG;LYR
+STF/1466A;S;SEX;HYA
+CCDM J02566+4710A;S;PER;TRI
+17 A/Crt;S;HYA;CRT
+STF/100;S;PSC;CET
+HD 118667;S;CIR;MUS
+HD 24098A;S;ERI;TAU
+44 A/Cyg;S;CYG;VUL
+HD 215359A;S;LAC;PEG
+HD 101177A;S;UMA;LMI
+TYC 3499-2110-1;S;HER;DRA
+TYC 4467-2426-1;S;CEP;DRA
+55 A/Eri;S;ERI;ORI
+TYC 1291-292-1;S;ORI;TAU
+TYC 4776-1307-1;S;ORI;ERI
+TYC 3018-2336-1;S;COM;CVN
+TYC 1038-584-1;S;AQL;HER
+TYC 6290-2062-1;S;SCT;SGR
+TYC 4274-2376-1;S;CEP;DRA
+TYC 3228-3103-1;S;AND;LAC
+BD+43 193A;S;AND;CAS
+TYC 621-641-1;S;PSC;CET
+TYC 2325-347-1;S;TRI;PER
+TYC 4335-2105-1;S;CAM;CEP
+BD+63 566A;S;CAM;AUR
+TYC 6033-1701-1;S;PYX;ANT
+TYC 5464-1249-1;S;HYA;PYX
+TYC 2576-2221-1;S;CRB;HER
+CCDM J17460+3919A;S;HER;OPH
+TYC 4220-1507-1;S;DRA;UMI
+TYC 4480-1544-1;S;CEP;DRA
+TYC 6984-1481-1;S;SCL;AQR
+TYC 1193-2067-1;S;AND;PEG
+BD+51 179A;S;AND;CAS
+TYC 2291-1614-1;S;AND;PSC
+TYC 653-1365-1;S;ARI;TAU
+BD-20 1670A;S;MON;CMA
+TYC 892-624-1;S;BOO;COM
+CCDM J19021+5216A;S;DRA;CYG
+TYC 6873-342-1;S;SCT;SGR
+TYC 3242-2192-1;S;AND;CAS
+BD-06 270A;S;PSC;CET
+CCDM J04009+2312A;S;TAU;ARI
+HD 28503A;S;TAU;AUR
+BD+19 5093A;S;PEG;CYG
+phi02 A/Cnc;S;CNC;GEM
+TYC 24-1159-1;S;PSC;CET
+CCDM J20101+0827A;S;AQL;DEL
+TYC 5860-2588-1;S;FOR;CET
+HD 22468A;S;TAU;ERI
+TYC 3717-47-1;S;CAM;PER
+TYC 1475-1155-1;S;BOO;CVN
+TYC 2872-2083-1;S;PER;TRI
+TYC 129-818-1;S;ORI;MON
+TYC 4116-1770-1;S;LYN;CAM
+TYC 3852-476-1;S;UMA;CVN
+TYC 4198-1479-1;S;DRA;HER
+TYC 474-244-1;S;AQL;SGE
+GJ 9657;S;SGR;CRA
+TYC 488-3419-1;S;AQL;SER2
+HD 23964A;S;TAU;ARI
+HD 115404;S;COM;VIR
+CCDM J19523+1021A;S;SGE;AQL
+GJ 9734;S;CAP;MIC
+CCDM J05482+3032A;S;TAU;ORI
+CCDM J21546-0318A;S;AQR;CAP
+BD+14 657A;S;TAU;ARI
+CCDM J14495+5122A;S;BOO;DRA
+CCDM J19018+1232A;S;AQL;SGE
+CCDM J21023+3931A;S;CYG;LYR
+TYC 117-1543-1;S;MON;ORI
+TYC 5364-2126-1;S;MON;ORI
+TYC 6019-3438-1;S;PYX;HYA
+CD-29 8383A;S;ANT;HYA
+TYC 3013-2482-1;S;UMA;CVN
+TYC 4930-548-1;S;LEO;VIR
+TYC 8690-3219-1;S;LUP;CEN
+TYC 6820-488-1;S;OPH;SCO
+BD+77 764A;S;DRA;CEP
+TYC 515-234-1;S;AQL;AQR
+TYC 2184-2018-1;S;VUL;CYG
+CCDM J02486-3724A;S;ERI;FOR
+BD-19 651A;S;ERI;CET
+CCDM J03571+6107A;S;CAM;CAS
+BD-21 1135A;S;COL;LEP
+CCDM J08019-2713A;S;PUP;PYX
+24 A/Cnc;S;CNC;GEM
+CCDM J09551-6911A;S;CAR;VOL
+CCDM J10058-3053A;S;ANT;HYA
+CD-37 10171A;S;LUP;CEN
+CCDM J17290-4358A;S;SCO;NOR
+CCDM J18314-1048A;S;SER2;SCT
+CCDM J21517+1918A;S;PEG;CYG
+CCDM J01045-3332A;S;CET;SCL
+CCDM J03282-3551A;S;HOR;ERI
+del01/Vel;S;CAR;VEL
+CCDM J09000-4933A;S;CAR;VEL
+CCDM J09115-5758A;S;CAR;VOL
+CCDM J09256-5315A;S;VEL;CAR
+CCDM J09461-4555A;S;ANT;VEL
+CCDM J10351-5741A;S;CAR;VOL
+CCDM J10573-6902A;S;CAR;MUS
+CCDM J12061-3258A;S;HYA;CEN
+CCDM J13140-6239A;S;CEN;MUS
+CCDM J13585-6548A;S;APS;CIR
+CCDM J14335-3319A;S;LIB;HYA
+CCDM J15153-4409A;S;LUP;NOR
+CCDM J17228-5828A;S;ARA;APS
+CCDM J18154-4851A;S;PAV;ARA
+CCDM J20146-6426A;S;PAV;TEL
+CCDM J23371-3152A;S;SCL;GRU
+CCDM J08079-6837A;S;CHA;VOL
+CCDM J17505-5337A;S;ARA;SCO
+1 A/Cam;S;PER;CAM
+V415/CMa;S;CMA;COL
+HD 108799A;S;CRT;VIR
+41 A/Ara;S;SCO;NOR
+29 A/Boo;S;BOO;COM
+CD-35 170A;S;SCL;GRU
+alf/For;S;FOR;ERI
+TYC 4062-98-1;S;CAM;PER
+TYC 1550-2677-1;S;HER;OPH
+b/Dra;S;DRA;HER
+CCDM J02338-2814A;S;CET;FOR
+TYC 7572-1505-1;S;FOR;ERI
+h/Cen;S;HYA;VIR
+HD 177817A;S;AQL;SGR
+BD+54 3082A;S;CAS;AND
+CCDM J06481+5542A;S;LYN;AUR
+38 A/Lyn;S;LYN;LMI
+TYC 8944-3283-1;S;CAR;VEL
+3 A/Cen;S;HYA;CEN
+m/Hya;S;LIB;HYA
+BD-13 3986A;S;LIB;VIR
+TYC 8701-350-1;S;NOR;LUP
+TYC 6422-1043-1;S;CET;SCL
+STF/147A;S;CET;PSC
+TYC 7040-1537-1;S;CAE;ERI
+HD 33203A;S;AUR;TAU
+CD-38 2844A;S;COL;PUP
+212 A/Pup;S;PUP;CMA
+CCDM J08263-3904A;S;VEL;PUP
+Q/Cen;S;CEN;CRU
+HD 151771A;S;SCO;OPH
+41 A/Aqr;S;PSA;AQR
+CD-27 16479A;S;CET;SCL
+HD 69863A;S;CAR;VEL
+tet/Ind;S;IND;PAV
+TYC 5140-3199-1;S;AQL;SCT
+TYC 1634-576-1;S;VUL;DEL
+HD 46150;S;MON;ORI
+9 A/Aur;S;CAM;AUR
+bet/Phe;S;PHE;GRU
+bet/Phe;S;PHE;GRU
+TYC 8476-1302-1;S;PHE;TUC
+HJ/3447A;S;CET;SCL
+TYC 5237-1607-1;S;AQR;PEG
+TYC 5238-1509-1;S;PSC;AQR
+TYC 8450-1201-1;S;GRU;TUC
+HO/131A;S;AQL;DEL
+HD 124314A;S;LUP;CEN
+bet01/Mon;S;MON;ORI
+TYC 224-1333-1;S;HYA;CMI
+zet02/Cnc;S;CNC;GEM
+HD 197018B;S;CYG;LYR
+HD 112486A;S;UMA;CVN
+HD 200614B;S;CYG;CEP
+84 A/Cet;S;CET;ERI
+95 A/Cet;S;CET;TAU
+24 A/Aqr;S;PEG;AQR
+GC 20892;S;LIB;LUP
+HD 47144B;S;COL;PUP
+HD 53921B;S;CAR;PIC
+HD 44472A;S;CAM;LYN
+HD 25007;S;CAM;CEP
+HD 25008;S;CAM;CEP
+BD+79 265A;S;CAM;UMA
+HD 24496A;S;TAU;ARI
+CCDM J05003+3924A;S;AUR;TAU
+TYC 3271-544-1;S;AND;CAS
+TYC 325-990-1;S;VIR;BOO
+CCDM J18520+1358A;S;AQL;HER
+HD 183913;S;CYG;LYR
+TYC 3210-2003-1;S;LAC;CYG
+HD 200614A;S;CYG;CEP
+BD+29 4324A;S;VUL;CYG
+BD+23 3935A;S;AQL;SGE
+BD+58 608A;S;CAM;PER
+BD+19 847A;S;TAU;ORI
+HD 47144A;S;COL;PUP
+BD+73 583A;S;UMI;DRA
+HD 129161A;S;LIB;HYA
+CPD-56 8405A;S;PAV;ARA
+HIP 59050;S;CRU;CEN
+TYC 4687-133-1;S;CET;PSC
+TYC 3700-1745-2;S;PER;CAS
+TYC 8111-2007-2;S;CAR;PIC
+TYC 8947-2485-1;S;CAR;VOL
+TYC 4399-1256-1;S;DRA;CAM
+TYC 7291-1975-1;S;CEN;HYA
+TYC 7291-1975-2;S;CEN;HYA
+TYC 6744-1753-1;S;LIB;HYA
+BD-04 3783A;S;LIB;VIR
+HD 59438A;S;CMA;MON
+NAME *;S;PUP;CMA
+f/Pup;S;PUP;CMA
+HD 137798A;S;LIB;LUP
+tet/CrB;S;BOO;CRB
+tet/CrB;S;BOO;CRB
+TYC 8661-706-1;S;CEN;MUS
+TYC 7813-3604-1;S;LUP;CEN
+TYC 3500-2419-1;S;HER;DRA
+CCDM J15576+2652A;S;HER;SER1
+HD 29763A;S;TAU;AUR
+HR 6;S;TUC;PHE
+GJ 670;S;OPH;SER2
+HD 72108A;S;VEL;CAR
+BD+39 2414A;S;LMI;UMA
+TYC 3679-2209-1;S;PER;AND
+80 A/Tau;S;TAU;ARI
+HD 49091;S;CMA;MON
+GJ 2030;S;CET;TAU
+TYC 6600-2226-1;S;PYX;ANT
+TYC 8298-4182-1;S;NOR;LUP
+TYC 9257-1946-1;S;CHA;APS
+HD 142514A;S;TRA;NOR
+28 A/UMa;S;UMA;DRA
+TYC 5968-4008-1;S;CMA;MON
+TYC 1912-2347-1;S;GEM;CMI
+NAME HD;S;CAR;CHA
+NAME HD;S;CEN;CAR
+HD 1051A;S;PSC;CET
+HD 105590A;S;VIR;CRT
+HD 197541A;S;MIC;CAP
+del/Tuc;S;TUC;IND
+13 A/Del;S;DEL;EQU
+NAME HD;S;VEL;PYX
+35 A/Com;S;COM;VIR
+39 A/Com;S;COM;VIR
+tet/Mus;S;CEN;MUS
+HD 100518A;S;LEO;VIR
+HD 55718A;S;PUP;CMA
+HD 152511A;S;ARA;TRA
+HD 53921A;S;CAR;PIC
+56 A/Per;S;PER;TAU
+G/Pup;S;CAR;PIC
+mu/Pic;S;PIC;CAR
+HD 47500A;S;COL;PUP
+HD 95324A;S;CAR;VOL
+HD 106257A;S;HYA;CEN
+eta/Mus;S;MUS;CEN
+NAME HD;S;CEN;HYA
+HD 152909A;S;SCO;OPH
+HD 34880A;S;ORI;ERI
+68 A/Aql;S;AQL;DEL
+HD 197018A;S;CYG;LYR
+HD 49933A;S;MON;ORI
+d02 A/Pup;S;PUP;CMA
+E/Pup;S;PUP;CMA
+pi/Pup;S;PUP;CMA
+pi/Pup;S;PUP;CMA
+HD 195564A;S;AQR;CAP
+13 A/Vul;S;SGE;AQL
+kap02 A/Sgr;S;MIC;IND
+d/Ser;S;SER2;OPH
+HD 109857A;S;MUS;CAR
+HD 167425A;S;PAV;APS
+HD 118261A;S;CIR;MUS
+HD 202214A;S;CEP;CYG
+HD 202214B;S;CEP;CYG
+HD 119796A;S;CIR;MUS
+NGC205;G;AND;CAS
+NGC224 (M31) Andromeda Galaxie;G;AND;CAS
+NGC221 (M32);G;AND;CAS
+NGC5248;G;BOO;COM
+NGC2403;G;CAM;LYN
+NGC4214;G;CVN;UMA
+;2.5;CVN;UMA
+M106 (M106);G;CVN;UMA
+NGC4449;G;CVN;UMA
+NGC4490;G;COM;CVN
+NGC4631 Walgalaxie;G;COM;CVN
+NGC4736 (M94);G;COM;CVN
+NGC5033;G;COM;CVN
+NGC5055 (M63) Sonnenblumengalaxie;G;COM;CVN
+NGC5194 (M51) Strudelnebel;G;CVN;UMA
+NGC5195 (M51);G;CVN;UMA
+NGC185;G;AND;CAS
+NGC6946 Feuerwerk Galaxie;G;CYG;CEP
+NGC247;G;CET;SCL
+NGC1068 (M77) Cetus A;G;CET;ERI
+NGC4254 (M99);G;COM;VIR
+NGC4321 (M100);G;COM;VIR
+NGC4382 (M85);G;COM;VIR
+NGC4501 (M88);G;COM;VIR
+NGC4559;G;COM;CVN
+NGC4565;G;COM;CVN
+NGC4725;G;COM;CVN
+NGC4826 (M64) Blackeye-Galaxie;G;COM;VIR
+NGC4236;G;DRA;UMA
+NGC6503;G;UMI;DRA
+NGC1232;G;FOR;ERI
+NGC1316 Fornax A;G;ERI;HOR
+NGC1398;G;ERI;FOR
+NGC5236 (M83) Südliche Feuerradgalaxie;G;HYA;VIR
+NGC2903;G;GEM;CNC
+NGC3351 (M95);G;HYA;LEO
+NGC3368 (M96);G;LEO;SEX
+NGC3379 (M105);G;LEO;SEX
+NGC3521;G;LEO;SEX
+NGC3628 (M65);G;LEO;SEX
+NGC3627 (M66);G;LEO;SEX
+NGC2683 Ufo-Galaxie;G;LYN;CNC
+NGC7331;G;LAC;PEG
+NGC1023;G;TRI;PER
+NGC628 (M74);G;PSC;AND
+NGC6822 Barnards Galaxie;G;AQL;SGR
+NGC7793;G;CET;SCL
+NGC55;G;SCL;GRU
+NGC253 Sculptor-Galaxie;G;CET;SCL
+NGC3115 Spindelgalaxie;G;SEX;HYA
+NGC598 (M33) Dreiecksnebel;G;TRI;AND
+NGC925;G;TRI;ARI
+NGC2841;G;LYN;UMA
+NGC3031 (M81) Bodes Galaxie;G;DRA;UMA
+NGC3034 (M82);G;DRA;CAM
+NGC3184;G;LMI;UMA
+NGC5457 (M101) Feuerrad-Galaxie;G;BOO;UMA
+NGC4303 (M61);G;COM;VIR
+NGC4374 (M84);G;COM;VIR
+NGC4406 (M86);G;COM;VIR
+NGC4472 (M49);G;COM;VIR
+;6.8;COM;VIR
+NGC4535 Verlorene Galaxie;G;COM;VIR
+NGC4552 (M89);G;COM;VIR
+NGC4569 (M90);G;COM;VIR
+NGC4579 (M58);G;COM;VIR
+NGC4594 (M104) Sombreronebel;G;VIR;CRV
+NGC4621 (M59);G;COM;VIR
+NGC4649 (M60);G;COM;VIR
+NGC4697;G;VIR;CRT
+NGC4699;G;VIR;CRT
+NGC147;G;AND;CAS
+NGC891;G;AND;PER
+NAMECASDWARFSPHEROIDALGALAXY;G;AND;CAS
+IC10;G;CAS;CEP
+NGC6703;G;HER;DRA
+NGC1569;G;CAM;CAS
+IC334;G;CAM;CEP
+NGC2146;G;CAM;CEP
+NGC6340;G;UMI;DRA
+NAMEDRACODWARFSPHEROIDALGALAXY;G;DRA;HER
+NGC2366;G;LYN;CAM
+UGC4305;G;CAM;UMA
+NGC6015;G;BOO;DRA
+NAMEUMIGALAXY;G;DRA;UMI
+NGC3077;G;DRA;UMA
+NGC2976;G;UMA;DRA
+IC2574;G;DRA;UMA
+M102 (M102);G;BOO;DRA
+NGC4125;G;DRA;UMA
+NGC2768;G;UMA;LYN
+NGC3359;G;DRA;UMA
+NGC2541;G;LYN;UMA
+NGC2537;G;LYN;UMA
+NGC5585;G;UMA;BOO
+NGC2693;G;LYN;UMA
+NGC5474;G;BOO;UMA
+NGC5377;G;UMA;CVN
+NGC2776;G;LYN;UMA
+NGC4157;G;CVN;UMA
+NGC3893;G;UMA;LMI
+NGC3198;G;LMI;UMA
+NGC4242;G;CVN;UMA
+NGC1201;G;FOR;ERI
+NGC1300;G;ERI;CET
+NGC1325;G;ERI;CET
+NGC1353;G;FOR;ERI
+NGC1340;G;ERI;FOR
+NGC1350;G;ERI;FOR
+NGC1317;G;ERI;HOR
+NGC1326;G;ERI;FOR
+NGC1400;G;ERI;FOR
+NGC1426;G;ERI;FOR
+NGC1385;G;ERI;FOR
+NGC1374;G;FOR;ERI
+NGC1389;G;FOR;ERI
+NGC1381;G;FOR;ERI
+NGC1379;G;FOR;ERI
+NGC1380;G;FOR;ERI
+NGC1404;G;FOR;ERI
+NGC1399;G;FOR;ERI
+NGC1518;G;ERI;FOR
+NGC1640;G;CAE;ERI
+NGC1792;G;PIC;CAE
+NGC1964;G;COL;LEP
+NGC2090;G;COL;PIC
+UGCA116;G;ORI;MON
+NGC2139;G;COL;LEP
+NGC2188;G;CMA;COL
+NGC2207;G;CMA;COL
+NGC2272;G;CMA;COL
+NGC2310;G;PUP;CMA
+NGC2613;G;PYX;HYA
+ESO495-21;G;PYX;HYA
+NGC2648;G;HYA;CNC
+IC5267;G;GRU;IND
+NGC7412;G;GRU;IND
+NGC7531;G;SCL;GRU
+NGC7599;G;SCL;GRU
+NGC7552;G;SCL;GRU
+NGC7744;G;SCL;GRU
+IC5179;G;MIC;GRU
+IC5186;G;MIC;GRU
+NGC7424;G;GRU;IND
+IC5325;G;SCL;GRU
+NAMEFORNAXDWARFSPHEROIDAL;G;ERI;FOR
+IC5273;G;GRU;MIC
+NGC7418;G;MIC;GRU
+NGC7421;G;MIC;GRU
+NGC300;G;SCL;GRU
+IC5332;G;SCL;GRU
+NAMESCULPTORDWARFGALAXY;G;CET;SCL
+NGC1079;G;CET;FOR
+ESO409-16;G;CET;SCL
+2dFGRSTGS434Z196;G;CET;SCL
+NGC254;G;CET;SCL
+NGC7755;G;SCL;GRU
+MCG-05-01-019;G;CET;SCL
+MCG-05-56-033;G;CET;SCL
+ESO471-49;G;CET;SCL
+ESO471-39;G;CET;SCL
+ESO471-51;G;CET;SCL
+ESO471-50;G;CET;SCL
+2dFGRSTGS357Z109;G;CET;SCL
+2dFGRSTGS276Z189;G;CET;SCL
+MCG-05-01-025;G;CET;SCL
+ESO409-7;G;CET;SCL
+ESO409-2;G;CET;SCL
+ESO409-10;G;CET;SCL
+ESO409-18;G;CET;SCL
+ESO409-14;G;CET;SCL
+ESO409-13;G;CET;SCL
+ESO409-12;G;CET;SCL
+MCG-05-01-039;G;CET;SCL
+MCG-05-01-043;G;CET;SCL
+2dFGRSTGS279Z154;G;CET;SCL
+NGC150;G;CET;SCL
+NGC908;G;FOR;CET
+NGC7184;G;PSA;AQR
+NGC24;G;CET;SCL
+NGC578;G;CET;SCL
+NGC7392;G;AQR;PSA
+NAMEWLMGALAXY;G;CET;PSC
+NGC839;G;CET;PSC
+NGC151;G;CET;PSC
+NGC1022;G;CET;PSC
+NGC1042;G;CET;ERI
+NGC337;G;CET;PSC
+NGC584;G;PSC;CET
+NGC894;G;CET;ERI
+NGC955;G;CET;ERI
+IC1613;G;PSC;CET
+UGC2199;G;CET;ERI
+NGC1055;G;CET;ERI
+NGC474;G;PSC;CET
+NGC467;G;PSC;CET
+NGC470;G;PSC;CET
+NGC520;G;PSC;CET
+NGC718;G;PSC;ARI
+NGC514;G;AND;PSC
+NGC821;G;CET;PSC
+NGC7653;G;PEG;PSC
+NGC7625;G;PEG;PSC
+NGC7817;G;PEG;AND
+NGC772;G;TRI;ARI
+NGC7741;G;AND;PEG
+NGC7457;G;AND;LAC
+NGC1156;G;TRI;ARI
+NGC410;G;AND;PSC
+NAMEANDROMEDAII;G;AND;PSC
+NGC890;G;TRI;AND
+M110 (M110);G;AND;CAS
+NGC1060;G;TRI;PER
+NGC949;G;TRI;ARI
+NGC2775;G;HYA;CMI
+NGC2815;G;HYA;PYX
+NGC2784;G;PYX;HYA
+NGC2865;G;PYX;ANT
+NGC2986;G;HYA;SEX
+NGC2983;G;HYA;SEX
+NGC2935;G;HYA;SEX
+NGC3001;G;ANT;HYA
+NGC2997;G;ANT;HYA
+NGC3038;G;ANT;HYA
+NAMESEXB;G;LEO;SEX
+NGC3078;G;ANT;HYA
+NGC3109;G;ANT;HYA
+NGC3095;G;ANT;HYA
+NGC3087;G;ANT;HYA
+NGC3189;G;LMI;LEO
+NAMELEOIdSph;G;LEO;SEX
+NAMEDWARFELLIPTICALGALAXYINSEX;G;SEX;LEO
+NAMESEXA;G;SEX;HYA
+NGC3258;G;ANT;HYA
+NGC3223;G;ANT;HYA
+NGC3250;G;ANT;VEL
+NGC3319;G;LMI;UMA
+NGC3309;G;ANT;HYA
+NGC3268;G;ANT;HYA
+NGC3271;G;ANT;HYA
+NGC3318;G;ANT;HYA
+NGC3344;G;LMI;LEO
+NGC3367;G;LEO;SEX
+NGC3377;G;LEO;SEX
+NGC3412;G;LEO;SEX
+NGC3347;G;ANT;HYA
+NGC3358;G;ANT;HYA
+NGC3432;G;LMI;UMA
+NGC3437;G;LEO;LMI
+NGC3489;G;LEO;LMI
+NGC3557;G;ANT;CEN
+NGC3665;G;UMA;CVN
+NGC3646;G;LEO;LMI
+NGC3596;G;LEO;SEX
+NGC3655;G;LEO;LMI
+NGC3640;G;LEO;SEX
+NGC3621;G;CEN;ANT
+NGC3705;G;LEO;SEX
+NGC3706;G;CEN;HYA
+NGC3842;G;LEO;COM
+NGC3885;G;HYA;ANT
+ESO439-24;G;HYA;CRT
+NGC3938;G;UMA;COM
+NGC3955;G;CRT;HYA
+NGC3904;G;HYA;ANT
+NGC3923;G;CRT;HYA
+NGC4062;G;COM;UMA
+NGC4150;G;COM;UMA
+NGC4116;G;VIR;COM
+NGC4106;G;HYA;CEN
+NGC4302;G;COM;VIR
+NGC4262;G;COM;VIR
+NGC4189;G;COM;VIR
+NGC4216;G;COM;VIR
+NGC4219;G;HYA;CEN
+NGC4485;G;COM;CVN
+NGC4414;G;COM;CVN
+NGC4350;G;COM;VIR
+NGC4312;G;COM;VIR
+NGC4421;G;COM;VIR
+NGC4379;G;COM;VIR
+NGC4371;G;COM;VIR
+NGC4478;G;COM;VIR
+NGC4452;G;COM;VIR
+NGC4435;G;COM;VIR
+NGC4425;G;COM;VIR
+NGC4461;G;COM;VIR
+NGC4503;G;COM;VIR
+NGC4440;G;COM;VIR
+NGC4473;G;COM;VIR
+NGC4416;G;COM;VIR
+NGC4454;G;VIR;CRT
+NGC4462;G;HYA;CRV
+IC3253;G;HYA;CEN
+NGC4373;G;HYA;CEN
+NGC4618;G;COM;CVN
+NGC4656;G;COM;CVN
+NGC4568;G;COM;VIR
+NGC4564;G;COM;VIR
+NGC4567;G;COM;VIR
+NGC4638;G;COM;VIR
+NGC4536;G;VIR;LEO
+NGC4546;G;VIR;CRV
+NGC4650;G;HYA;CEN
+NGC4603;G;HYA;CEN
+NGC4793;G;COM;CVN
+NGC4664;G;VIR;LEO
+NGC4753;G;VIR;COM
+NGC4679;G;HYA;CEN
+NGC4767;G;CEN;HYA
+NGC4709;G;HYA;CEN
+NGC4874;G;COM;CVN
+NGC4889;G;COM;CVN
+NGC4947;G;CEN;HYA
+NGC5061;G;HYA;VIR
+IC4214;G;HYA;VIR
+NGC5011;G;CEN;HYA
+NGC5170;G;VIR;HYA
+NGC5068;G;HYA;VIR
+NGC5085;G;HYA;VIR
+NGC5101;G;HYA;VIR
+NGC5161;G;HYA;CEN
+NGC5102;G;CEN;HYA
+NGC5121;G;CEN;HYA
+NGC5193;G;HYA;CEN
+NGC5253;G;HYA;VIR
+NGC5188;G;HYA;CEN
+IC4327;G;HYA;VIR
+NGC5363;G;VIR;BOO
+NGC5419;G;HYA;CEN
+NGC5566;G;VIR;LIB
+NGC5576;G;VIR;LIB
+NGC5638;G;BOO;VIR
+MCG+02-37-031;G;LIB;VIR
+NGC5701;G;VIR;BOO
+NGC5713;G;LIB;VIR
+NGC5775;G;LIB;VIR
+ESO281-33;G;CRA;SGR
+NGC6925;G;CAP;MIC
+NAMESDG;G;SGR;SCO
+NGC5903;G;LIB;HYA
+NGC5898;G;LIB;HYA
+NGC6907;G;MIC;CAP
+NGC5806;G;LIB;VIR
+NGC5845;G;SER1;LIB
+NGC5964;G;SER1;LIB
+NGC5962;G;SER1;BOO
+NGC6482;G;OPH;HER
+NGC6207;G;HER;CRB
+NGC1512;G;DOR;HOR
+NGC1487;G;HOR;ERI
+NGC2427;G;PUP;VEL
+GSF2;G;PSC;CET
+NGC1269;G;ERI;HOR
+NAMECARINAdSph;G;COL;PUP
+NGC1433;G;HOR;RET
+NGC986;G;ERI;PHE
+NGC1546;G;DOR;HOR
+NGC1596;G;DOR;PIC
+NGC1617;G;DOR;PIC
+NGC1549;G;DOR;HOR
+NGC1553;G;DOR;RET
+NGC1515;G;DOR;HOR
+NGC1672;G;DOR;RET
+NGC1574;G;DOR;RET
+NGC1543;G;DOR;HOR
+NGC1533;G;DOR;HOR
+NGC1947;G;DOR;PIC
+NGC1559;G;DOR;RET
+GSF1;G;PHE;ERI
+NGC3261;G;ANT;VEL
+NGC3256;G;ANT;PYX
+2MASXJ06004328-6840104;G;DOR;PIC
+NAMELMC;G;DOR;HYI
+NGC2434;G;MEN;CHA
+NGC1313;G;HOR;RET
+NGC3136;G;CAR;CHA
+NGC3059;G;CAR;MUS
+NAMESMC;G;HYI;TUC
+NGC7796;G;PHE;TUC
+NGC6438;G;OCT;APS
+NGC7329;G;TUC;IND
+IC5250;G;TUC;IND
+IC5328;G;SCL;GRU
+NGC7098;G;IND;PAV
+NGC4835;G;CRU;CEN
+IC3896;G;CRU;CEN
+NGC7192;G;TUC;IND
+NGC4976;G;CEN;LUP
+NGC6876;G;PAV;OCT
+NGC6943;G;PAV;IND
+ESO107-4;G;PAV;IND
+NGC7096;G;IND;TUC
+NGC7083;G;PAV;IND
+NGC5064;G;CEN;LUP
+NGC5156;G;CEN;LUP
+NGC7020;G;PAV;IND
+IC5240;G;GRU;IND
+NGC5090;G;CEN;COM
+NAMEFOURCADE-FIGUEROA;G;CEN;HYA
+NGC5266;G;CEN;LUP
+ESO221-10;G;CEN;LUP
+IC5152;G;GRU;IND
+NGC7196;G;GRU;IND
+NGC7168;G;GRU;IND
+NGC6684;G;PAV;APS
+NGC6744;G;PAV;TEL
+NGC6776;G;PAV;TEL
+NGC7090;G;IND;GRU
+NGC7155;G;IND;GRU
+NGC7144;G;GRU;IND
+IC5181;G;GRU;IND
+NGC7232;G;GRU;IND
+NGC5365;G;CEN;HYA
+IC4662;G;PAV;ARA
+IC4765;G;PAV;APS
+IC4820;G;PAV;TEL
+IC4845;G;PAV;TEL
+NGC6769;G;PAV;IND
+NGC6770;G;PAV;IND
+NGC7145;G;GRU;IND
+NGC7166;G;GRU;IND
+NGC5483;G;CEN;HYA
+NGC6215;G;ARA;TRA
+NGC6782;G;PAV;IND
+NGC7029;G;IND;GRU
+NGC7049;G;IND;MIC
+NGC7041;G;IND;GRU
+IC4444;G;LUP;CEN
+NGC5530;G;LUP;CEN
+IC4721;G;PAV;TEL
+NGC6753;G;PAV;TEL
+NGC6758;G;PAV;TEL
+IC4889;G;TEL;IND
+NGC6887;G;TEL;SGR
+NGC7079;G;GRU;MIC
+NGC7097;G;GRU;IND
+ESO183-30;G;TEL;ARA
+IC4797;G;TEL;ARA
+NGC6893;G;TEL;SGR
+IC5105;G;GRU;MIC
+NGC6861;G;SGR;TEL
+NGC6851;G;SGR;TEL
+NGC6870;G;SGR;TEL
+ESO233-34;G;SGR;TEL
+NGC6868;G;SGR;TEL
+NGC6875;G;SGR;TEL
+NGC6909;G;IND;TEL
+IC4946;G;MIC;IND
+NGC6902;G;MIC;IND
+NGC6958;G;MIC;IND
+NGC134;G;CET;SCL
+NGC4691;G;VIR;CRT
+NGC4027;G;CRT;CRV
+NGC1084;G;CET;ERI
+NGC1407;G;ERI;FOR
+NGC4645;G;HYA;CEN
+IC4329;G;HYA;VIR
+NGC6872;G;PAV;OCT
+NGC6760;GC;AQL;SER2
+NGC6981 (M72);GC;AQR;CAP
+NGC7089 (M2);GC;PEG;AQR
+NGC5466;GC;BOO;CVN
+NGC5272 (M3);GC;BOO;COM
+NGC7099 (M30);GC;CAP;PSA
+NGC4147;GC;COM;UMA
+NGC5024 (M53);GC;COM;VIR
+NGC5053;GC;COM;VIR
+NGC6934;GC;AQL;AQR
+NGC6205 (M13);GC;HER;CRB
+NGC6229;GC;HER;DRA
+NGC6341 (M92);GC;HER;DRA
+NGC4590 (M68);GC;HYA;CEN
+NGC5694;GC;LIB;HYA
+NGC1904 (M79);GC;COL;LEP
+NGC5897;GC;LIB;LUP
+NGC5824;GC;LIB;HYA
+NGC5986;GC;LUP;LIB
+NGC2419;GC;GEM;LYN
+NGC6779 (M56);GC;VUL;LYR
+NGC6171 (M107);GC;SCO;OPH
+NGC6218 (M12);GC;OPH;HER
+NGC6235;GC;SCO;OPH
+NGC6254 (M10);GC;OPH;HER
+NGC6266 (M62);GC;SCO;OPH
+NGC6273 (M19);GC;SCO;OPH
+NGC6284;GC;OPH;SCO
+NGC6287;GC;OPH;SCO
+NGC6293;GC;OPH;SCO
+NGC6304;GC;OPH;SCO
+NGC6316;GC;OPH;SCO
+NGC6333 (M9);GC;OPH;SER2
+NGC6342;GC;OPH;SER2
+NGC6356;GC;OPH;SER2
+NGC6355;GC;OPH;SCO
+NGC6366;GC;OPH;SER2
+NGC6402 (M14);GC;OPH;SER2
+NGC6401;GC;OPH;SGR
+NGC6517;GC;OPH;SER2
+NGC7078 (M15);GC;PEG;AQR
+NGC2298;GC;PUP;CMA
+NGC6838 (M71);GC;SGE;AQL
+NGC6440;GC;OPH;SGR
+NGC6522;GC;SCO;SGR
+NGC6528;GC;CRA;SCO
+NGC6544;GC;SGR;SER2
+NGC6553;GC;SGR;SER2
+NGC6569;GC;CRA;SGR
+NGC6624;GC;SGR;SCO
+NGC6626 (M28);GC;SCT;SGR
+NGC6638;GC;SCT;SGR
+NGC6637 (M69);GC;SGR;SCO
+NGC6642;GC;SCT;SGR
+NGC6652;GC;SGR;SCO
+NGC6656 (M22);GC;SCT;SGR
+NGC6681 (M70);GC;SGR;SCO
+NGC6715 (M54);GC;SGR;SCO
+NGC6723;GC;CRA;SGR
+NGC6809 (M55);GC;SGR;CRA
+NGC6864 (M75);GC;CAP;SGR
+NGC6093 (M80);GC;SCO;OPH
+NGC6121 (M4);GC;SCO;OPH
+NGC6144;GC;SCO;OPH
+NGC6139;GC;SCO;NOR
+NGC6441;GC;SCO;OPH
+NGC6453;GC;SCO;SGR
+NGC288;GC;CET;SCL
+NGC6712;GC;AQL;SCT
+NGC5904 (M5);GC;SER1;LIB
+NGC6539;GC;OPH;SER2
+NGC5634;GC;LIB;VIR
+NGC1629;GC;HYI;DOR
+NGC104;GC;HYI;TUC
+NGC6496;GC;SCO;CRA
+NGC5927;GC;NOR;LUP
+NGC2173;GC;DOR;PIC
+NGC1866;GC;DOR;PIC
+NGC6426;GC;OPH;SER2
+NGC1644;GC;DOR;HYI
+NGC2190;GC;DOR;MEN
+NGC2249;GC;MEN;VOL
+NGC1049;GC;ERI;FOR
+NGC1831;GC;DOR;PIC
+NGC2156;GC;DOR;PIC
+NGC6752;GC;PAV;IND
+NGC6541;GC;ARA;CRA
+IC1257;GC;OPH;SER2
+NGC1818;GC;DOR;PIC
+NGC1783;GC;DOR;PIC
+NGC7492;GC;SCL;PSA
+NGC7006;GC;EQU;DEL
+NGC1696;GC;DOR;PIC
+NGC2231;GC;PIC;DOR
+NGC5139;GC;CEN;LUP
+NGC2031;GC;DOR;PIC
+NGC3201;GC;ANT;VEL
+NGC1756;GC;DOR;HYI
+NGC1806;GC;DOR;RET
+NGC6362;GC;ARA;APS
+NGC6540;GC;CRA;SGR
+NGC1651;GC;HYI;DOR
+NGC6558;GC;CRA;SGR
+NGC6101;GC;TRA;CIR
+NGC6380;GC;SCO;OPH
+NGC4372;GC;CEN;CRU
+NGC1805;GC;DOR;PIC
+IC4499;GC;APS;OCT
+NGC2808;GC;CAR;VOL
+NGC1652;GC;DOR;RET
+IC1276;GC;SER2;OPH
+NGC6325;GC;OPH;SER2
+NGC1868;GC;DOR;PIC
+NGC2159;GC;DOR;PIC
+NGC6717;GC;SCT;SGR
+NGC4833;GC;CRU;CEN
+NGC5286;GC;CEN;LUP
+NGC6397;GC;PAV;ARA
+NGC1851;GC;PIC;COL
+NGC5946;GC;NOR;TRA
+NGC362;GC;HYI;TUC
+NGC121;GC;HYI;TUC
+NGC6256;GC;SCO;OPH
+NGC2162;GC;DOR;PIC
+NGC1987;GC;DOR;PIC
+NGC6352;GC;NOR;SCO
+NGC6749;GC;AQL;SCT
+NGC2108;GC;DOR;PIC
+NGC6584;GC;TEL;PAV
+NGC1466;GC;MEN;HYI
+NGC6535;GC;OPH;SER2
+NGC6388;GC;SCO;ARA
+NGC2209;GC;PIC;DOR
+NGC1978;GC;DOR;PIC
+NGC1841;GC;MEN;HYI
+NGC1261;GC;HOR;RET
+IC405;N;AUR;TAU
+IC410;N;TAU;AUR
+NGC281;N;AND;CAS
+IC59;N;CAS;CEP
+IC63;N;CAS;CEP
+IC1795;N;CAS;PER
+IC1846;N;PER;CAS
+NGC7023;N;CYG;CEP
+IC1396;N;CEP;CYG
+NGC6960 Schleier-Nebel (w);N;VUL;CYG
+IC5070 Pelikan-Nebel;N;CYG;LYR
+NGC6979 Schleier-Nebel (c);N;VUL;CYG
+NGC6992 Schleier-Nebel (o);N;VUL;CYG
+NGC7000 Nordamerika-Nebel;N;CYG;LYR
+NGC2237 Rosetten-Nebel;N;MON;GEM
+IC4604;N;SCO;OPH
+NGC1973;N;ORI;MON
+NGC1976 (M42) Grosser Orionnebel;N;ORI;MON
+NGC1977;N;ORI;MON
+NGC1982 (M43) Kleiner Orionnebel;N;ORI;MON
+IC434 Pferdekopf-Nebel;N;ORI;MON
+NGC2024;N;ORI;MON
+NGC2068 (M78);N;ORI;ERI
+NGC2174;N;GEM;ORI
+NGC1499 Kalifornien-Nebel;N;PER;TAU
+NGC6514 (M20) Trifid-Nebel;N;SCO;SGR
+NGC6523 (M8) Lagune-Nebel;N;SCO;SGR
+NGC6618 (M17) Omega-Nebel;N;SCT;SGR
+NGC6334;N;OPH;SCO
+NGC6357;N;OPH;SCO
+NGC6611 (M16) Adlernebel;N;SCT;SER2
+NGC1435 (M45) Plejaden-Nebel;N;TAU;ARI
+IC2087;N;TAU;AUR
+NGC1952 (M1) Crab-Nebel;N;TAU;ORI
+NGC0281 Pacman-Nebel;N;AND;CAS
+IC59;N;CAS;CEP
+IC5068;N;CYG;LYR
+IC2966;N;CRU;CEN
+IC2162;N;ORI;GEM
+BRAN342;N;CAR;VEL
+IC353;N;TAU;PER
+NGC3503;N;CAR;VEL
+NGC1999;N;ORI;ERI
+NGC2067;N;ORI;ERI
+Ced129c;N;SCO;OPH
+NGC1554;N;TAU;ARI
+Ced112;N;CAR;CHA
+IC2177;N;MON;ORI
+IC2220;N;CAR;PIC
+IC444;N;GEM;ORI
+IC4954;N;VUL;SGE
+NGC6334A;N;OPH;SCO
+IC423;N;ORI;ERI
+NGC2261;N;GEM;MON
+NGC2183;N;CMA;MON
+IC135;N;TRI;AND
+DWB67;N;CYG;LYR
+NGC1737;N;DOR;HYI
+NGC5447;N;BOO;UMA
+NGC261;N;HYI;TUC
+NGC592;N;TRI;AND
+IC417;N;TAU;AUR
+NGC6476;N;SCO;SGR
+NGC1985;N;TAU;AUR
+NGC1975;N;ORI;MON
+IC1644;N;HYI;TUC
+NGC1727;N;DOR;HYI
+NGC1491;N;CAM;PER
+LBN078.85+03.60;N;CYG;LYR
+IC360;N;TAU;ARI
+NGC2238;N;MON;ORI
+NGC5367;N;CEN;HYA
+MCG-02-50-003;N;AQL;SGR
+NGC2359;N;MON;ORI
+NGC595;N;TRI;AND
+NGC2296;N;CMA;MON
+IC132;N;TRI;AND
+NGC2071;N;ORI;ERI
+NAMEELEPHANTTRUNKNEBULA;N;CYG;CEP
+CXOUJ140429.1+542353;N;BOO;UMA
+IC2159;N;GEM;ORI
+IC1848;N;PER;CAS
+NGC2246;N;MON;ORI
+IC466;N;CMI;MON
+IC4592;N;SCO;OPH
+NGC2736;N;VEL;CAR
+NGC456;N;HYI;TUC
+IC4955;N;VUL;SGE
+NGC6847;N;VUL;SGE
+NGC2195;N;GEM;ORI
+NGC1333B;N;ARI;PER
+NGC2035;N;DOR;PIC
+IC2944;N;CEN;CAR
+NGC7822;N;CAS;CEP
+IC63;N;CAS;CEP
+NGC2182;N;CMA;MON
+NGC3581;N;CAR;VEL
+NGC6914;N;CYG;LYR
+NGC2163;N;GEM;ORI
+IC5067;N;CYG;LYR
+IC1995;N;TAU;ARI
+IC5070;N;CYG;LYR
+NGC1962;N;DOR;PIC
+NGC1934;N;DOR;RET
+IC11;N;AND;CAS
+IC2128;N;DOR;RET
+Ced46;N;TAU;AUR
+NGC6729;N;CRA;SGR
+NAMEW5EAST;N;PER;CAS
+NGC2045;N;TAU;ORI
+NGC3603;N;CAR;CEN
+IC2897;N;LEO;VIR
+NGC896;N;CAS;PER
+NGC2626;N;VEL;PYX
+NGC3351N;N;HYA;LEO
+NGC1965;N;DOR;PIC
+IC1318b;N;CYG;LYR
+IC420;N;ORI;ERI
+IC142;N;TRI;AND
+IC1990;N;TAU;ARI
+NGC1722;N;DOR;HYI
+NGC2579;N;VEL;PUP
+IC419;N;TAU;AUR
+IC425;N;TAU;AUR
+NGC3586;N;CAR;CEN
+IC2067;N;PER;TAU
+NGC3582;N;CAR;CEN
+IC133W;N;TRI;AND
+NGC6334D;N;OPH;SCO
+IC435;N;ORI;ERI
+IC439;N;TAU;GEM
+IC5076;N;CYG;LAC
+NGC2327;N;MON;ORI
+NGC5461;N;BOO;UMA
+NGC7635;N;CAS;CEP
+IC4684;N;SGR;SER2
+IC431;N;ORI;ERI
+IC349;N;TAU;ARI
+IC136;N;TRI;AND
+Ced41a;N;ERI;ORI
+NGC1333;N;ARI;PER
+NGC1918;N;DOR;HYI
+GAL351.31+00.6;N;OPH;SCO
+NGC2023;N;ORI;MON
+NGC6857;N;VUL;CYG
+NGC1909;N;ERI;LEP
+NGC6526;N;SCO;SGR
+IC131;N;TRI;AND
+NGC249;N;HYI;TUC
+NGC604;N;TRI;AND
+IC424;N;ORI;ERI
+NGC6888;N;VUL;CYG
+NGC2081;N;DOR;PIC
+NGC1931;N;TAU;AUR
+IC354;N;TAU;ARI
+NGC281E;N;AND;CAS
+NGC2245;N;MON;GEM
+GN16.17.2;N;SCO;OPH
+NGC6188;N;NOR;ARA
+NGC5453;N;BOO;UMA
+IC443;N;GEM;ORI
+NGC2149;N;MON;ORI
+IC2599;N;CAR;VOL
+NGC5462;N;BOO;UMA
+NGC588;N;TRI;AND
+IC4685;N;SGR;SER2
+IC2120;N;AUR;TAU
+LBN098.83+04.12;N;CYG;CEP
+IC2144;N;TAU;ORI
+Ced30;N;TAU;ARI
+NGC2363A;N;LYN;CAM
+NGC2064;N;ORI;ERI
+NGC1770;N;DOR;RET
+NGC3576;N;CAR;VEL
+IC1318;N;CYG;LYR
+SH2-158A;N;CAS;CEP
+IC4591;N;SCO;LUP
+NGC6726;N;CRA;SGR
+IC143;N;TRI;AND
+NAMENGC6334F(C);N;OPH;SCO
+Ced176d;N;CYG;LYR
+NGC2030;N;DOR;PIC
+IC133;N;TRI;AND
+NGC7538B;N;CAS;CEP
+NGC1970;N;DOR;PIC
+IC2105;N;DOR;HYI
+NGC6590;N;SCT;SGR
+IC1283;N;SCT;SGR
+NGC2069;N;DOR;PIC
+DWB83;N;CYG;LYR
+NGC6334E;N;OPH;SCO
+NGC1760;N;DOR;PIC
+NGC2170;N;CMA;MON
+IC336;N;TAU;ARI
+IC468;N;MON;ORI
+IC1795;N;CAS;PER
+IC4606;N;SCO;OPH
+IC432;N;ORI;ERI
+NGC5458;N;BOO;UMA
+IC1871;N;PER;CAS
+NGC267;N;HYI;TUC
+NGC6813;N;VUL;CYG
+NGC1788;N;ERI;LEP
+LBN078.55+00.85;N;CYG;LYR
+NGC2037;N;DOR;PIC
+IC825;N;VIR;CRV
+Ced176e;N;CYG;LYR
+NGC3579;N;CAR;VEL
+IC448;N;GEM;MON
+IC2167;N;ORI;GEM
+NGC3199;N;CAR;VOL
+IC137;N;TRI;AND
+NGC2282;N;MON;GEM
+IC4603;N;SCO;OPH
+IC1274;N;SGR;SCO
+NGC1579;N;PER;TAU
+IC1470;N;CAS;CEP
+IC4812;N;CRA;SGR
+NGC1990;N;ORI;ERI
+NGC1432;N;TAU;ARI
+Ced41b;N;ERI;ORI
+NGC2185;N;CMA;MON
+NGC1456;N;TAU;ARI
+NGC7538;N;CAS;CEP
+NGC3584;N;CAR;CEN
+NGC2467;N;PUP;CMA
+NGC1333A;N;ARI;PER
+IC426;N;ORI;ERI
+NGC2032;N;DOR;PIC
+IC2117;N;DOR;RET
+NGC281A;N;AND;CAS
+IC2115;N;DOR;PIC
+NGC3372;N;CAR;VOL
+NGC2247;N;GEM;MON
+IC4681;N;SGR;SER2
+NGC1899;N;DOR;RET
+IC2169;N;ORI;GEM
+LHA115-N84A;N;HYI;TUC
+IC430;N;ORI;ERI
+NGC2060;N;DOR;PIC
+IC1275;N;SGR;SCO
+NGC7538C;N;CAS;CEP
+IC434;N;ORI;MON
+NGC7662;PN;AND;CAS
+NGC6790;PN;AQL;SER2
+NGC7009;PN;AQR;CAP
+NGC7293;PN;PSA;AQR
+IC1470;PN;CAS;CEP
+NGC246;PN;PSC;CET
+Campbells;PN;CYG;LYR
+NGC6826;PN;DRA;CYG
+NGC7027;PN;CYG;LYR
+NGC6543;PN;DRA;UMI
+NGC1535;PN;ERI;CET
+NGC2392;PN;GEM;CMI
+NGC6210;PN;HER;OPH
+NGC3242;PN;ANT;HYA
+ (M57);PN;HER;LYR
+NGC6369;PN;OPH;SER2
+NGC6572;PN;OPH;SER2
+NGC6818;PN;AQL;SGR
+NGC1514;PN;PER;TAU
+ (M27);PN;SGE;AQL
+IC4642;PN;ARA;TRA
+NGC6879;PN;AQL;DEL
+IC4732;PN;SCT;SGR
+NGC6804;PN;AQL;SGE
+IC351;PN;PER;TAU
+IC2149;PN;AUR;CAM
+IC4191;PN;MUS;CEN
+IC4634;PN;OPH;SCO
+NGC6807;PN;AQL;SER2
+NGC7008;PN;CYG;CEP
+NGC2022;PN;TAU;ORI
+NGC5882;PN;NOR;LUP
+M76 (M76);PN;AND;PER
+IC2003;PN;TAU;PER
+NGC3195;PN;CAR;CHA
+NGC6058;PN;CRB;HER
+NGC6803;PN;SGE;VUL
+IC4663;PN;SCO;ARA
+NGC6881;PN;VUL;CYG
+NGC6886;PN;AQL;SGE
+IC4406;PN;LUP;CEN
+IC1454;PN;UMI;CEP
+NGC2440;PN;MON;PUP
+NGC6751;PN;SCT;SGR
+NGC6445;PN;OPH;SER2
+IC4599;PN;SCO;NOR
+NGC2610;PN;HYA;PYX
+NGC3918;PN;CRU;CEN
+NGC6337;PN;OPH;SCO
+NGC6578;PN;SGR;SCT
+NGC6026;PN;SCO;LUP
+NGC7139;PN;CEP;CYG
+NGC6302;PN;OPH;SCO
+NGC6842;PN;VUL;SGE
+NGC3211;PN;CAR;VOL
+IC5217;PN;LAC;CEP
+NGC5189;PN;CIR;MUS
+IC4677;PN;DRA;UMI
+NGC5979;PN;TRA;NOR
+NGC6891;PN;SGE;DEL
+NGC5844;PN;CIR;TRA
+NGC6778;PN;AQL;SER2
+NGC6072;PN;SCO;LUP
+NGC2438;PN;MON;PUP
+NGC2452;PN;PUP;PYX
+NGC6153;PN;NOR;SCO
+NGC7076;PN;CYG;CEP
+NGC6884;PN;CYG;LYR
+NGC2792;PN;VEL;PYX
+NGC6439;PN;OPH;SER2
+IC5148;PN;GRU;PSA
+NGC7026;PN;CYG;LAC
+IC4673;PN;SCO;SGR
+IC4846;PN;SGR;AQL
+NGC4071;PN;CRU;CEN
+IC289;PN;CAS;CAM
+IC4637;PN;SCO;NOR
+IC2553;PN;CAR;VOL
+NGC6326;PN;ARA;TRA
+NGC3132;PN;ANT;VEL
+NGC4361;PN;HYA;CRV
+IC2621;PN;CAR;VEL
+NGC7094;PN;PEG;AQR
+NGC6905;PN;SGE;VUL
+PNVV'550;PN;PEG;AQR
+NGC2899;PN;CAR;VEL
+NGC6620;PN;SGR;SCO
+NGC2242;PN;LYN;AUR
+IC972;PN;VIR;CRV
+NGC5873;PN;LUP;LIB
+IC4699;PN;CRA;SGR
+NGC6567;PN;SER2;OPH
+NGC7354;PN;CEP;LAC
+NGC2346;PN;CMI;MON
+NGC2867;PN;CAR;VEL
+NGC6765;PN;LYR;VUL
+NGC6563;PN;CRA;SGR
+IC2165;PN;MON;ORI
+PNM1-3;PN;FOR;ERI
+NGC5307;PN;CEN;LUP
+NGC6742;PN;DRA;HER
+IC2448;PN;CAR;VOL
+NGC6852;PN;AQL;SER2
+NGC6833;PN;DRA;CYG
+IC3568;PN;DRA;CAM
+NGC2818;PN;VEL;PYX
+IC2501;PN;CAR;VOL
+IC418;PN;ORI;ERI
+NGC6565;PN;CRA;SGR
+IC1295;PN;SCT;AQL
+NGC6644;PN;SCT;SGR
+NGC6309;PN;OPH;SER2
+IC1747;PN;CAS;PER
+NGC5315;PN;MUS;APS
+PNTc1;PN;SCO;ARA
+NGC6537;PN;OPH;SER2
+NGC6629;PN;SCT;SGR
+NGC7048;PN;CYG;PEG
+NGC6894;PN;VUL;SGE
+IC4670;PN;SCO;SGR
+NGC3699;PN;CEN;CAR
+IC1297;PN;CRA;SGR
+NGC6772;PN;AQL;SGR
+IC5117;PN;CYG;LYR
+NGC6741;PN;AQL;SER2
+NGC6781;PN;SGE;AQL
+NGC40;PN;CAS;CEP
+NGC2371;PN;GEM;LYN
+IC4776;PN;SGR;SCO
+M97 (M97);PN;UMA;LYN
+NGC1501;PN;CAM;CAS
+NGC752;OC;TRI;ARI
+ (M38);OC;TAU;AUR
+ (M36);OC;AUR;TAU
+ (M37);OC;TAU;ORI
+NGC2281;OC;AUR;LYN
+NGC1502;OC;CAM;CAS
+ (M44);OC;GEM;CNC
+ (M67);OC;HYA;CNC
+ (M41);OC;CMA;MON
+ (M52);OC;AND;CAS
+NGC7790;OC;CAS;CEP
+NGC457;OC;AND;CAS
+NGC559;OC;CAS;PER
+ (M103);OC;CAS;PER
+NGC637;OC;PER;CAS
+NGC663;OC;CAS;PER
+IC1805;OC;CAS;PER
+NGC1027;OC;CAS;PER
+H1;OC;CAS;CAM
+IC1396;OC;CEP;CYG
+NGC7160;OC;CEP;CYG
+Mel111;OC;COM;CVN
+NGC6871;OC;CYG;VUL
+IC4996;OC;VUL;CYG
+NGC6910;OC;CYG;LYR
+ (M29);OC;VUL;CYG
+ (M39);OC;CYG;LAC
+NGC2129;OC;GEM;TAU
+ (M35);OC;GEM;ORI
+ (M48);OC;HYA;MON
+NGC7243;OC;LAC;CEP
+NGC2244;OC;MON;GEM
+NGC2264;OC;GEM;MON
+NGC2301;OC;MON;ORI
+ (M50);OC;CMI;MON
+NGC2353;OC;MON;ORI
+IC4665;OC;OPH;SER2
+NGC6633;OC;OPH;SER2
+NGC2169;OC;GEM;ORI
+NGC2175;OC;GEM;ORI
+h;OC;PER;AND
+chi;OC;PER;AND
+NGC957;OC;CAS;PER
+ (M34);OC;PER;TRI
+NGC1245;OC;CAM;PER
+NGC1342;OC;ARI;PER
+NGC1444;OC;CAM;PER
+NGC1528;OC;CAM;PER
+ (M47);OC;MON;PUP
+NGC2423;OC;MON;PUP
+NGC2439;OC;PUP;CMA
+ (M93);OC;PUP;CMA
+NGC2451;OC;PUP;CMA
+NGC2477;OC;PUP;CMA
+NGC2546;OC;VEL;PUP
+NGC2571;OC;PUP;VEL
+ (M23);OC;OPH;SER2
+NGC6530;OC;SCO;SGR
+ (M21);OC;SCO;SGR
+ (M24);OC;SCT;SGR
+ (M18);OC;SCT;SGR
+ (M17);OC;SCT;SGR
+NGC6716;OC;SCT;SGR
+NGC6383;OC;SCO;OPH
+ (M6);OC;SCO;OPH
+ (M7);OC;SCO;SGR
+ (M11);OC;AQL;SCT
+ (M16);OC;SCT;SER2
+IC4756;OC;AQL;SER2
+ (M45) Plejaden;OC;TAU;ARI
+Hyaden Hyaden;OC;TAU;ARI
+NGC1647;OC;TAU;AUR
+NGC1746;OC;TAU;ORI
+Cr399 Brocchi-Galaxienhaufen;OC;VUL;SGE
+NGC2181;OC;DOR;PIC
+NGC1905;OC;DOR;PIC
+BRHT49b;OC;DOR;HYI
+NGC6583;OC;SGR;SCO
+NGC1942;OC;DOR;PIC
+NGC1872;OC;DOR;HYI
+NGC6882;OC;SGE;VUL
+NGC659;OC;CAS;PER
+NGC6167;OC;NOR;SCO
+NGC5662;OC;LUP;CEN
+NGC6683;OC;AQL;SER2
+NGC1876;OC;DOR;HYI
+NGC609;OC;CAS;PER
+NGC1883;OC;CAM;AUR
+NGC1859;OC;DOR;PIC
+NGC2075;OC;DOR;PIC
+NGC2358;OC;MON;CMA
+NGC419;OC;HYI;TUC
+NGC6802;OC;CYG;LYR
+NGC2234;OC;ORI;GEM
+NGC6192;OC;NOR;SCO
+NGC5593;OC;CEN;LUP
+NGC133;OC;CAS;CEP
+NGC3247;OC;CAR;VOL
+NGC2136;OC;DOR;PIC
+IC348;OC;TAU;PER
+NGC6568;OC;SGR;SCO
+NGC1750;OC;TAU;ORI
+NGC1878;OC;DOR;HYI
+NGC2172;OC;DOR;PIC
+NGC2160;OC;DOR;PIC
+NGC5460;OC;CEN;LUP
+IC348a;OC;TAU;PER
+NGC299;OC;HYI;TUC
+NGC7031;OC;CYG;LAC
+NGC2383;OC;CMA;MON
+NGC1865;OC;DOR;HYI
+NGC2166;OC;DOR;PIC
+NGC2849;OC;VEL;PYX
+NGC2184;OC;CMA;MON
+NAMELW426w;OC;DOR;PIC
+NGC2041;OC;DOR;PIC
+NGC225;OC;CAS;CEP
+NGC1839;OC;DOR;PIC
+NGC2236;OC;MON;ORI
+NGC2006;OC;DOR;PIC
+NGC6939;OC;CEP;DRA
+NGC1913;OC;DOR;HYI
+NGC6444;OC;SCO;OPH
+NGC1768;OC;DOR;RET
+NGC1813;OC;DOR;HYI
+NGC6124;OC;SCO;NOR
+NGC1557;OC;MEN;HYI
+OCl374;OC;CAM;CEP
+NGC2645;OC;CAR;VEL
+NGC1802;OC;TAU;ORI
+NGC884;OC;PER;AND
+NGC2143;OC;ORI;MON
+NGC3114;OC;CAR;VOL
+NGC1704;OC;DOR;HYI
+IC1311;OC;CYG;LYR
+NGC1775;OC;DOR;HYI
+NGC2204;OC;CMA;LEP
+NGC6639;OC;SER2;SCT
+NGC1840;OC;DOR;PIC
+NGC2420;OC;GEM;CMI
+NGC465;OC;HYI;TUC
+IC2156;OC;GEM;TAU
+NGC2241;OC;DOR;PIC
+NGC5284;OC;CIR;MUS
+NGC602b;OC;HYI;TUC
+NGC2042;OC;DOR;PIC
+IC1660;OC;HYI;TUC
+NGC1798;OC;CAM;AUR
+NGC7142;OC;CEP;DRA
+NGC1693;OC;DOR;HYI
+NGC2669;OC;CAR;VEL
+NGC6216;OC;SCO;ARA
+NGC1994;OC;DOR;PIC
+NGC5138;OC;CEN;MUS
+NGC2194;OC;ORI;GEM
+NGC2097;OC;DOR;PIC
+NGC1695;OC;DOR;HYI
+NGC4609;OC;CEN;CRU
+NGC1971;OC;DOR;PIC
+NGC6416;OC;SCO;OPH
+NGC1820;OC;DOR;PIC
+NGC2065;OC;DOR;PIC
+NGC2086;OC;DOR;PIC
+IC4651;OC;NOR;SCO
+NGC3519;OC;CAR;VEL
+NGC1548;OC;TAU;PER
+NGC6755;OC;AQL;SER2
+NGC1786;OC;DOR;PIC
+NGC7789;OC;CAS;AND
+NGC6827;OC;VUL;CYG
+IC348d;OC;TAU;PER
+NGC1984;OC;DOR;PIC
+NGC1846;OC;DOR;PIC
+NGC743;OC;CAS;PER
+NGC2421;OC;MON;PUP
+IC5146;OC;LAC;CYG
+IC2602;OC;CAR;VOL
+NGC6834;OC;VUL;SGE
+NGC1804;OC;DOR;HYI
+NGC6840;OC;SGE;AQL
+NGC5925;OC;NOR;CIR
+NGC2002;OC;DOR;PIC
+NGC2117;OC;DOR;PIC
+NGC6208;OC;ARA;TRA
+NGC7762;OC;CAS;CEP
+NGC136;OC;CAS;CEP
+NGC361;OC;HYI;TUC
+NGC1782;OC;DOR;HYI
+NGC1953;OC;DOR;PIC
+NGC7510;OC;CAS;CEP
+NGC2164;OC;DOR;PIC
+IC1626;OC;HYI;TUC
+NGC6604;OC;SCT;SER2
+NGC3960;OC;CRU;CEN
+NGC2036;OC;DOR;PIC
+NGC2345;OC;MON;ORI
+NGC2360;OC;MON;CMA
+NGC6709;OC;AQL;HER
+NGC3324;OC;CAR;VOL
+NGC1724;OC;CAM;AUR
+NGC2061;OC;COL;PIC
+NGC6625;OC;SCT;SER2
+NGC6115;OC;SCO;NOR
+NGC6883;OC;VUL;CYG
+NGC6523;OC;SCO;SGR
+NGC2257;OC;PIC;CAR
+ESO56-102;OC;DOR;HYI
+NGC2111;OC;DOR;HYI
+NGC6774;OC;SGR;AQL
+IC2714;OC;CAR;CEN
+NGC1926;OC;DOR;HYI
+NGC2309;OC;MON;ORI
+NGC2925;OC;CAR;VEL
+NGC2401;OC;CMA;MON
+NGC2047;OC;DOR;PIC
+NGC3255;OC;CAR;VOL
+NGC796;OC;HYI;TUC
+NGC4439;OC;CRU;CEN
+NGC2270;OC;MON;GEM
+NGC376;OC;HYI;TUC
+NAMENGC6334FIRV;OC;OPH;SCO
+NGC2910;OC;VEL;CAR
+NGC2080;OC;DOR;PIC
+NGC1834;OC;DOR;PIC
+NGC2395;OC;CMI;GEM
+NGC188;OC;CEP;CAS
+IC1442;OC;LAC;CEP
+NGC4755;OC;CRU;CEN
+NGC2455;OC;CMA;COL
+NGC346;OC;HYI;TUC
+NGC1891;OC;COL;PIC
+NGC7438;OC;CAS;LAC
+NGC1932;OC;DOR;PIC
+NGC1951;OC;DOR;PIC
+NGC220;OC;HYI;TUC
+NGC1496;OC;CAM;PER
+NGC146;OC;CAS;CEP
+NGC1938;OC;DOR;HYI
+NGC2374;OC;CMA;MON
+NGC1967;OC;DOR;PIC
+NGC6839;OC;SGE;AQL
+NGC231;OC;HYI;TUC
+NGC1986;OC;DOR;PIC
+NGC2158;OC;GEM;ORI
+NGC2237;OC;MON;ORI
+NGC1997;OC;DOR;PIC
+NGC2265;OC;GEM;MON
+NGC1920;OC;DOR;PIC
+NGC3228;OC;CAR;VEL
+NGC248;OC;HYI;TUC
+NGC2092;OC;DOR;PIC
+NGC339;OC;HYI;TUC
+NGC381;OC;CAS;CEP
+NGC5288;OC;CIR;MUS
+NGC2157;OC;DOR;PIC
+NGC6940;OC;VUL;DEL
+NGC7058;OC;CYG;CEP
+IC1641;OC;HYI;TUC
+NGC1897;OC;DOR;RET
+NGC6704;OC;AQL;SER2
+NGC1766;OC;DOR;HYI
+NGC2335;OC;MON;ORI
+NGC2171;OC;DOR;PIC
+NGC6830;OC;VUL;SGE
+NGC6728;OC;SCT;AQL
+NGC330;OC;HYI;TUC
+NGC2567;OC;PUP;VEL
+NGC2362;OC;CMA;PUP
+NGC6451;OC;SCO;OPH
+IC4291;OC;CIR;MUS
+NGC7686;OC;AND;CAS
+NGC1733;OC;DOR;PIC
+NGC2506;OC;PUP;MON
+NGC1940;OC;DOR;PIC
+NGC1916;OC;DOR;HYI
+LHA120-N43;OC;DOR;PIC
+NGC2252;OC;GEM;MON
+NGC2354;OC;CMA;PUP
+NGC6866;OC;CYG;LYR
+IC361;OC;CAM;PER
+NGC6828;OC;AQL;SGE
+NGC1793;OC;DOR;HYI
+NGC2483;OC;PUP;CMA
+NGC411;OC;HYI;TUC
+NGC1582;OC;PER;AUR
+NGC1776;OC;DOR;PIC
+NGC2066;OC;DOR;PIC
+NGC1767;OC;DOR;HYI
+IC348g;OC;TAU;PER
+NGC2024;OC;ORI;MON
+NGC3105;OC;CAR;VOL
+NGC3231;OC;DRA;UMA
+NGC7067;OC;CYG;LAC
+HD32279;OC;DOR;PIC
+NGC6793;OC;VUL;LYR
+NGC2113;OC;DOR;PIC
+NGC1928;OC;DOR;HYI
+NGC2140;OC;DOR;PIC
+NGC7245;OC;LAC;CEP
+NGC6546;OC;SGR;SER2
+NGC1801;OC;DOR;HYI
+IC410;OC;TAU;AUR
+NGC6823;OC;VUL;CYG
+NGC1874;OC;DOR;HYI
+NGC2428;OC;MON;PUP
+NGC242;OC;HYI;TUC
+NAMEHIP37742CLUSTER;OC;PUP;CMA
+NGC1791;OC;DOR;HYI
+NGC1348;OC;CAM;PER
+NGC1950;OC;DOR;HYI
+IC1662;OC;HYI;TUC
+IC348i;OC;TAU;PER
+NGC265;OC;HYI;TUC
+NGC2587;OC;PYX;VEL
+NGC1662;OC;TAU;ORI
+NGC2202;OC;MON;ORI
+NGC1915;OC;DOR;PIC
+NGC1922;OC;DOR;HYI
+NGC2118;OC;DOR;PIC
+NGC5999;OC;NOR;LUP
+NGC7235;OC;LAC;CEP
+NGC7084;OC;VUL;PEG
+NGC6507;OC;OPH;SER2
+NGC6067;OC;NOR;ARA
+NGC2114;OC;DOR;PIC
+IC2395;OC;CAR;VEL
+NGC654;OC;CAS;PER
+NGC7226;OC;LAC;CEP
+NGC2016;OC;DOR;PIC
+NGC5043;OC;CEN;MUS
+NGC6664;OC;AQL;SER2
+NGC2635;OC;VEL;PYX
+NGC1907;OC;TAU;AUR
+NGC1810;OC;DOR;PIC
+NGC1817;OC;ORI;TAU
+NGC2153;OC;DOR;PIC
+NGC1941;OC;DOR;PIC
+NGC176;OC;HYI;TUC
+NGC1857;OC;AUR;TAU
+NGC2126;OC;AUR;CAM
+NGC3036;OC;CAR;VOL
+NGC6193;OC;NOR;ARA
+NGC1749;OC;DOR;PIC
+NGC4337;OC;CEN;CRU
+NGC2262;OC;MON;GEM
+NGC6800;OC;CYG;LYR
+NGC1944;OC;DOR;HYI
+NGC6819;OC;CYG;LYR
+NAMENGC6334-I;OC;OPH;SCO
+NGC2489;OC;PUP;CMA
+NGC6259;OC;SCO;ARA
+NGC1708;OC;CAM;AUR
+NGC1718;OC;DOR;RET
+NGC1844;OC;DOR;PIC
+NGC1969;OC;DOR;PIC
+NGC1894;OC;DOR;HYI
+NGC1664;OC;PER;AUR
+NGC1836;OC;DOR;RET
+NGC5045;OC;CEN;MUS
+NGC2003;OC;DOR;PIC
+NGC5617;OC;LUP;CEN
+NGC2133;OC;DOR;HYI
+NGC1829;OC;DOR;RET
+NGC7419;OC;CAS;LAC
+NGC643;OC;HYI;TUC
+NGC1702;OC;DOR;HYI
+NGC1734;OC;DOR;PIC
+NGC1745;OC;DOR;HYI
+NGC7055;OC;CEP;CYG
+NGC2338;OC;CMI;MON
+NGC2079;OC;DOR;PIC
+NGC1778;OC;TAU;AUR
+NGC1849;OC;DOR;PIC
+NGC2130;OC;DOR;PIC
+NGC1754;OC;DOR;HYI
+NGC2509;OC;PUP;MON
+NGC2004;OC;DOR;PIC
+NGC371;OC;HYI;TUC
+ClLindsay105;OC;HYI;TUC
+NGC1895;OC;DOR;PIC
+NGC152;OC;HYI;TUC
+NGC1513;OC;CAM;PER
+NGC6603;OC;SCT;SGR
+NGC2116;OC;DOR;PIC
+NGC886;OC;CAS;PER
+NGC6322;OC;SCO;NOR
+NGC2123;OC;DOR;PIC
+NGC6596;OC;SCT;SGR
+NGC1966;OC;DOR;PIC
+NGC6231;OC;SCO;ARA
+IC2146;OC;DOR;MEN
+NGC2083;OC;DOR;PIC
+NGC1949;OC;DOR;RET
+NGC2100;OC;DOR;PIC
+NGC2664;OC;HYA;CNC
+NGC1252;OC;HOR;RET
+NGC1963;OC;PIC;COL
+C0607+206;OC;GEM;ORI
+NGC2533;OC;PUP;VEL
+NGC1842;OC;DOR;PIC
+NGC2096;OC;DOR;PIC
+NGC5316;OC;CIR;MUS
+NGC4052;OC;CRU;CEN
+NGC2112;OC;MON;ORI
+NGC1676;OC;DOR;HYI
+NGC1814;OC;DOR;PIC
+NGC2059;OC;DOR;PIC
+NGC2017;OC;ORI;LEP
+NGC5381;OC;CIR;MUS
+NGC306;OC;HYI;TUC
+NGC1673;OC;DOR;HYI
+NGC6756;OC;AQL;SER2
+NGC2091;OC;DOR;PIC
+NGC843;OC;AND;TRI
+NGC2527;OC;PUP;VEL
+NGC129;OC;CAS;CEP
+NGC1220;OC;CAS;CAM
+NGC6404;OC;SCO;OPH
+NGC3496;OC;CAR;VOL
+NGC103;OC;CAS;CEP
+NGC2331;OC;GEM;AUR
+NGC1880;OC;DOR;HYI
+NGC1735;OC;DOR;PIC
+NGC1939;OC;DOR;HYI
+NGC6561;OC;SER2;OPH
+NGC1972;OC;DOR;PIC
+M46 (M46);OC;MON;PUP
+NGC1959;OC;DOR;PIC
+NGC7063;OC;VUL;CYG
+NGC2659;OC;CAR;VEL
+NGC1815;OC;DOR;HYI
+NGC6846;OC;VUL;CYG
+NGC4463;OC;CRU;CEN
+NGC5764;OC;LUP;CIR
+NGC6738;OC;AQL;SGE
+NGC6396;OC;OPH;SCO
+NGC2192;OC;AUR;GEM
+NGC1858;OC;DOR;HYI
+NGC416;OC;HYI;TUC
+NGC2286;OC;MON;CMI
+NGC294;OC;HYI;TUC
+NGC2306;OC;MON;ORI
+NGC1732;OC;DOR;PIC
+NGC1852;OC;DOR;RET
+NGC2660;OC;CAR;VEL
+NGC1751;OC;DOR;HYI
+NGC6647;OC;SCT;SGR
+NGC2121;OC;DOR;HYI
+NGC189;OC;CAS;CEP
+NGC2580;OC;PYX;VEL
+NGC2254;OC;GEM;MON
+NGC6743;OC;HER;VUL
+NGC2109;OC;DOR;PIC
+NGC1624;OC;PER;CAM
+NGC2251;OC;GEM;MON
+NGC3293;OC;CAR;VOL
+NGC2324;OC;MON;CMI
+IC2161;OC;DOR;MEN
+NGC5715;OC;CEN;CIR
+NGC2425;OC;MON;PUP
+NGC7772;OC;PEG;PSC
+NGC2482;OC;PUP;CMA
+NGC2210;OC;DOR;PIC
+NGC1958;OC;DOR;PIC
+NGC2396;OC;CMA;MON
+NGC4815;OC;CRU;CEN
+NGC6005;OC;NOR;ARA
+NGC6481;OC;OPH;SER2
+NGC2046;OC;DOR;PIC
+NGC1838;OC;DOR;PIC
+NGC1890;OC;DOR;HYI
+NGC3532;OC;CAR;VEL
+NGC2176;OC;DOR;PIC
+NGC2479;OC;MON;PUP
+IC2488;OC;CAR;VEL
+IC348b;OC;TAU;PER
+NGC6469;OC;SCO;SGR
+NGC6134;OC;SCO;NOR
+NGC2609;OC;CAR;VEL
+NGC2302;OC;MON;ORI
+NGC7788;OC;CAS;CEP
+NGC2408;OC;CAM;LYN
+NGC2213;OC;DOR;PIC
+NGC2125;OC;DOR;PIC
+IC2948;OC;CEN;CAR
+NGC1860;OC;DOR;RET
+NGC2203;OC;DOR;MEN
+NGC5281;OC;CIR;MUS
+NGC7039;OC;CYG;PEG
+NGC1825;OC;DOR;HYI
+NGC6087;OC;NOR;ARA
+NGC3572b;OC;CAR;VEL
+NGC2193;OC;DOR;PIC
+NGC5359;OC;APS;CIR
+NGC458;OC;HYI;TUC
+NGC5120;OC;CEN;MUS
+IC348h;OC;TAU;PER
+NGC2147;OC;DOR;PIC
+NGC4852;OC;CRU;CEN
+NGC460;OC;HYI;TUC
+IC2134;OC;MEN;DOR
+NGC436;OC;AND;CAS
+NGC2197;OC;DOR;PIC
+NGC2670;OC;CAR;VEL
+NGC1900;OC;DOR;PIC
+NGC6885;OC;SGE;VUL
+NGC6200;OC;ARA;NOR
+NGC6605;OC;SER2;SCT
+NGC7082;OC;CYG;CEP
+IC1023;OC;LUP;CEN
+NGC7209;OC;LAC;CYG
+NGC1743;OC;DOR;HYI
+NGC290;OC;HYI;TUC
+NGC6222;OC;SCO;ARA
+NGC6374;OC;SCO;OPH
+NGC5168;OC;CEN;MUS
+NGC7128;OC;CYG;LAC
+NGC2137;OC;DOR;PIC
+NGC1861;OC;DOR;RET
+NGC7380;OC;LAC;CEP
+NGC1996;OC;TAU;ORI
+M25 (M25);OC;SCT;SGR
+NGC1822;OC;DOR;PIC
+NGC2105;OC;DOR;PIC
+NGC2151;OC;DOR;PIC
+NGC1777;OC;DOR;MEN
+NGC6242;OC;SCO;OPH
+NGC1605;OC;PER;AUR
+NGC5749;OC;CIR;LUP
+NGC1980;OC;ORI;MON
+NGC1795;OC;DOR;HYI
+NGC3330;OC;CAR;VEL
+NGC3033;OC;CAR;VOL
+NGC2368;OC;MON;ORI
+NGC1498;OC;ERI;CET
+NGC6250;OC;SCO;ARA
+NGC6204;OC;SCO;ARA
+NGC2430;OC;MON;PUP
+NGC7261;OC;LAC;CEP
+NGC1789;OC;DOR;HYI
+NGC1903;OC;DOR;HYI
+NGC2259;OC;GEM;MON
+IC1310;OC;VUL;CYG
+NGC6268;OC;SCO;OPH
+NGC2005;OC;DOR;PIC
+NGC2516;OC;CAR;VEL
+NGC2062;OC;DOR;PIC
+NGC2102;OC;DOR;PIC
+NGC2141;OC;ORI;TAU
+NGC2088;OC;DOR;PIC
+NGC3680;OC;CEN;HYA
+NGC2311;OC;MON;CMI
+NGC2304;OC;GEM;MON
+NGC6645;OC;SCT;SGR
+NGC2316;OC;MON;ORI
+NGC1943;OC;DOR;HYI
+NGC422;OC;HYI;TUC
+NGC222;OC;HYI;TUC
+NGC2085;OC;DOR;PIC
+NGC2095;OC;DOR;PIC
+NGC2180;OC;MON;ORI
+NGC2243;OC;CMA;COL
+NGC1855;OC;DOR;HYI
+NGC2627;OC;PYX;HYA
+NGC2266;OC;GEM;AUR
+NGC6253;OC;ARA;TRA
+NGC6837;OC;SGE;AQL
+NGC1663;OC;TAU;ORI
+NGC7044;OC;CYG;LYR
+NGC2134;OC;DOR;HYI
+NGC2232;OC;MON;ORI
+NGC2051;OC;DOR;HYI
+NGC1893;OC;TAU;AUR
+M26 (M26);OC;AQL;SER2
+NGC7429;OC;CAS;LAC
+NGC256;OC;HYI;TUC
+NGC2077;OC;DOR;PIC
+NGC1929;OC;DOR;RET
+NGC2453;OC;PUP;PYX
+NGC2384;OC;CMA;MON
+NGC6152;OC;ARA;NOR
+NGC1867;OC;DOR;PIC
+NGC6631;OC;SCT;SER2
+M73 (M73);OC;AQR;CAP
+NGC602;OC;HYI;TUC
+NGC1826;OC;DOR;PIC
+NGC2214;OC;DOR;PIC
+NGC6178;OC;NOR;SCO
+OGLE-CLLMC632;OC;DOR;PIC
+NGC6249;OC;SCO;ARA
+NGC1755;OC;DOR;RET
+NGC2409;OC;CMA;MON
+NGC2009;OC;DOR;PIC
+NGC2269;OC;MON;GEM
+NGC7423;OC;CAS;LAC
+NGC2250;OC;MON;ORI
+NGC2177;OC;DOR;PIC
+IC166;OC;CAS;PER
+NGC2343;OC;MON;ORI
+NGC6595;OC;SCT;SGR
+NGC869;OC;PER;AND
+NGC2135;OC;DOR;PIC
+NGC1816;OC;DOR;PIC
+NGC1896;OC;TAU;AUR
+NGC1545;OC;CAM;PER
+NGC2025;OC;DOR;HYI
+NGC2127;OC;DOR;PIC
+NGC6520;OC;SCO;SGR
+NGC2098;OC;DOR;PIC
+NGC2138;OC;DOR;PIC
+NGC2155;OC;DOR;PIC
+NGC1697;OC;DOR;PIC
+IC348f;OC;TAU;PER
+NGC1856;OC;DOR;HYI
+NGC5385;OC;UMI;CAM
+NGC3590;OC;CAR;CEN
+IC1434;OC;LAC;CEP
+NGC2010;OC;DOR;PIC
+NGC6811;OC;CYG;LYR
+NGC2019;OC;DOR;PIC
+NGC1863;OC;DOR;RET
+IC1590;OC;AND;CAS
+NGC2084;OC;DOR;PIC
+NGC2120;OC;DOR;PIC
+NGC4349;OC;CEN;CRU
+NGC2658;OC;PYX;HYA
+IC348e;OC;TAU;PER
+NGC1911;OC;DOR;PIC
+NGC1641;OC;DOR;HYI
+NGC7134;OC;AQR;CAP
+NGC6950;OC;VUL;DEL
+NGC956;OC;PER;AND
+NGC1764;OC;DOR;RET
+NGC2432;OC;MON;PUP
+NGC1850;OC;DOR;RET
+NGC5822;OC;TRA;CIR
+NGC1862;OC;DOR;PIC
+NGC5823;OC;TRA;CIR
+IC1655;OC;HYI;TUC
+NGC2588;OC;PYX;VEL
+NGC2058;OC;DOR;PIC
+NGC7036;OC;PEG;EQU
+NGC2056;OC;DOR;PIC
+NGC1807;OC;TAU;ORI
+NGC272;OC;AND;PSC
+NGC1711;OC;DOR;HYI
+NGC1902;OC;DOR;PIC
+NGC2224;OC;ORI;GEM
+NGC1885;OC;DOR;HYI
+ClMelotte96;OC;VEL;PYX
+NGC6025;OC;NOR;TRA
+NGC2043;OC;DOR;PIC
+NGC2215;OC;MON;ORI
+NGC2038;OC;DOR;PIC
+NGC4184;OC;CRU;CEN
+IC1611;OC;HYI;TUC
+NGC3572;OC;CAR;VEL
+NGC2072;OC;DOR;PIC
+NGC2000;OC;DOR;HYI
+NGC2011;OC;DOR;PIC
+IC2148;OC;DOR;MEN
+NGC1818B;OC;DOR;PIC
+NGC2451A;OC;PUP;CMA
+NGC2448;OC;PUP;CMA
+NGC2348;OC;CAR;PIC
+NGC4230;OC;CEN;CRU
+NGC2107;OC;DOR;PIC
+NGC3572A;OC;CAR;VEL
+NGC2161;OC;DOR;MEN
+NGC2972;OC;VEL;CAR
+NGC6791;OC;CYG;LYR
+IC2140;OC;DOR;MEN
+NGC1881;OC;DOR;HYI
+NGC1877;OC;DOR;HYI
+NGC6169;OC;NOR;SCO
+NGC2391;OC;GEM;LYN
+NGC1772;OC;DOR;HYI
+IC2391;OC;CAR;VEL
+NGC433;OC;AND;CAS
+NGC1901;OC;DOR;RET
+NGC1847;OC;DOR;HYI
+NGC1882;OC;DOR;PIC
+NAMERob1;OC;DOR;RET
+NGC110;OC;CAS;CEP
+NGC2547;OC;VEL;CAR
+NGC2225;OC;MON;ORI
+NGC1870;OC;DOR;HYI
+NGC6997;OC;CYG;LYR
+IC1369;OC;CYG;LAC
+NGC3572a;OC;CAR;VEL
+NGC1981;OC;ORI;MON
+NGC2070;OC;DOR;PIC
+NGC2355;OC;CMI;GEM
+IC1708;OC;HYI;TUC
+NGC1864;OC;DOR;RET
+NGC1835;OC;DOR;PIC
+IC2581;OC;CAR;VOL
+NGC1983;OC;DOR;PIC
+NGC7801;OC;AND;CAS
+NGC1919;OC;DOR;PIC
+NGC7127;OC;CYG;CEP
+NGC2053;OC;DOR;PIC
+NGC6318;OC;OPH;SCO
+NGC6425;OC;SCO;OPH
+NGC1193;OC;PER;TRI
+NGC2057;OC;DOR;PIC
+NGC2414;OC;CMA;MON
+NGC1887;OC;DOR;PIC
+NGC1974;OC;DOR;PIC
+NGC6858;OC;AQL;SGE
+IC1612;OC;HYI;TUC
+NAMELW426e;OC;DOR;PIC
+NGC4103;OC;CRU;CEN
+NGC7281;OC;LAC;CEP
+NGC5800;OC;LUP;CEN
+NGC269;OC;HYI;TUC
+NGC2027;OC;DOR;PIC
+NGC2145;OC;DOR;PIC
+NGC1823;OC;DOR;HYI
+NGC1649;OC;DOR;HYI
+NGC1830;OC;DOR;HYI
+NGC2671;OC;VEL;PYX
+NGC744;OC;CAS;PER
+NGC1698;OC;DOR;HYI
+NGC6649;OC;SER2;SCT
+NGC657;OC;AND;PER
+IC348c;OC;TAU;PER
+NGC6281;OC;SCO;OPH
+NGC1828;OC;DOR;HYI
+NGC6525;OC;OPH;HER
+NGC241;OC;HYI;TUC
+NGC366;OC;CAS;CEP
+NGC2678;OC;HYA;CNC
+IC2157;OC;GEM;TAU
+NGC2094;OC;DOR;PIC
+NGC7062;OC;CYG;PEG
+NGC2186;OC;MON;ORI
+NGC1946;OC;DOR;PIC
+NGC6843;OC;SGE;AQL
+NGC7129;OC;CEP;DRA
+NGC2154;OC;DOR;PIC
+NGC6031;OC;NOR;ARA
+NGC2539;OC;HYA;MON
+NGC1917;OC;DOR;HYI
+NGC1774;OC;DOR;PIC
+NGC2413;OC;CMA;MON
+NGC1758;OC;TAU;ORI
+IC1624;OC;HYI;TUC
+NGC7296;OC;LAC;CEP
+NGC7086;OC;CYG;LAC
+NGC2028;OC;DOR;PIC
+NGC2240;OC;AUR;GEM
+NGC2866;OC;VEL;CAR
